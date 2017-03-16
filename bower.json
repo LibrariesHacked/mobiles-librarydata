@@ -16,6 +16,7 @@
   ],
   "dependencies": {
     "bootstrap": "v4.0.0-alpha.6",
-    "leaflet": "^1.0.3"
+    "leaflet": "^1.0.3",
+    "papaparse": "^4.1.4"
   }
 }
