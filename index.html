@@ -5,9 +5,10 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <link href="bower_components/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet" />
     <link href="bower_components/leaflet/dist/leaflet.css" rel="stylesheet" />
+    <link href="css/style.css" rel="stylesheet" />
 </head>
-<body>
-    <nav class="navbar navbar-toggleable-md navbar-light bg-faded">
+<body class="grey">
+    <nav class="navbar navbar-toggleable-md navbar-light bg-faded mb-4">
         <div class="container">
             <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>
@@ -16,7 +17,7 @@
             <div class="collapse navbar-collapse" id="navbarSupportedContent">
                 <ul class="navbar-nav mr-auto">
                     <li class="nav-item active">
-                        <a class="nav-link" href="#">maps <span class="sr-only">(current)</span></a>
+                        <a class="nav-link" href="#">departures <span class="sr-only">(current)</span></a>
                     </li>
                 </ul>
             </div>
@@ -26,7 +27,17 @@
         <div class="row">
             <div class="col-4">
                 <div class="card">
-                    <select id="sel-services" class="form-control"></select>
+                    <div class="card-block">
+                        <h3 class="card-title text-muted">Services</h3>
+                        <select id="sel-services" class="form-control"></select>
+                    </div>
+                    <div class="card-block">
+                        <div class="row">
+                            <div class="col-4"><small class="text-muted">mobiles&nbsp;<a href="#" class="fa fa-info" data-toggle="tooltip" data-animation="false" title="number of mobile libraries"></a></small><p class="lead text-gray-dark"></p></div>
+                            <div class="col-4"></div>
+                            <div class="col-4"></div>
+                        </div>
+                    </div>
                 </div>
             </div>
             <div class="col-4"></div>
@@ -39,5 +50,8 @@
     <script src="bower_components/tether/dist/js/tether.min.js"></script>
     <script src="bower_components/bootstrap/dist/js/bootstrap.min.js"></script>
     <script src="bower_components/leaflet/dist/leaflet.js"></script>
+    <script src="js/config.js"></script>
+    <script src="js/mobiles.js"></script>
+    <script src="js/dashboard.js"></script>
 </body>
 </html>
