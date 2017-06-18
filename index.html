@@ -8,39 +8,31 @@
     <link href="css/style.css" rel="stylesheet" />
 </head>
 <body class="grey">
-    <nav class="navbar navbar-toggleable-md navbar-light bg-faded mb-4">
-        <div class="container">
-            <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-                <span class="navbar-toggler-icon"></span>
-            </button>
-            <a class="navbar-brand text-success strong" href="/">mobile libraries</a>
-            <div class="collapse navbar-collapse" id="navbarSupportedContent">
-                <ul class="navbar-nav mr-auto">
-                    <li class="nav-item active">
-                        <a class="nav-link" href="#">dashboard <span class="sr-only">(current)</span></a>
-                    </li>
-                </ul>
-            </div>
-        </div>
-    </nav>
     <div class="container">
+        <hr />
         <div class="row">
             <div class="col-4">
                 <div class="card">
                     <div class="card-block">
-                        <h3 class="card-title text-muted">Services</h3>
+                        <h3 class="card-title text-muted">Select service</h3>
                         <p><select id="sel-services" class="form-control"></select></p>
-                        <div class="row">
-                            <div class="col-6" id="div-count-mobiles"><small class="text-muted">mobiles&nbsp;<a href="#" class="fa fa-info" data-toggle="tooltip" data-animation="false" title="number of mobile libraries"></a></small><p class="lead text-gray-dark"></p></div>
-                            <div class="col-6" id="div-website"><small class="text-muted">website&nbsp;<a href="#" class="fa fa-info" data-toggle="tooltip" data-animation="false" title="number of mobile libraries"></a></small><p class="lead text-gray-dark"></p></div>
-                        </div>
                     </div>
                 </div>
             </div>
             <div class="col-4">
                 <div class="card" id="div-map"></div>
             </div>
-            <div class="col-4"></div>
+            <div class="col-4">
+                <div class="card">
+                    <div class="card-block">
+                        <h3 id="h3-service-name" class="card-title text-muted"></h3>
+                        <div class="row">
+                            <div class="col-3" id="div-count-mobiles"><small class="text-muted">mobiles&nbsp;<a href="#" class="fa fa-info" data-toggle="tooltip" data-animation="false" title="number of mobile libraries"></a></small><p class="lead text-gray-dark"></p></div>
+                            <div class="col-9" id="div-website"><small class="text-muted">website&nbsp;</small><p class=""><span class="fa fa-home"></span> </span><a href="#" data-toggle="tooltip" data-animation="false" title="number of mobile libraries"><span class="fa fa-external-link"></span></a></p></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
         </div>
         <div id="map"></div>
     </div>

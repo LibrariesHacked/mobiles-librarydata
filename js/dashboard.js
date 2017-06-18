@@ -9,7 +9,8 @@
         $.each(services, function (i, s) {
             $('#sel-services').append($('<option>', {
                 value: s.code,
-                text: s.authority
+                text: s.authority,
+                disabled: (s.count == 0)
             }));
         });
 
@@ -19,7 +20,8 @@
             $('#div-count-mobiles p').text(s.count);
             $('#div-count-mobiles').show();
             if (parseInt(s.count) > 0) {
-                $('#div-website a').attr('href', s.website);
+                $('#div-website p a').attr('href', s.website);
+                $('#div-website p a').text(mobiles.extractHostname(s.website));
                 $('#div-website').show();
             }
         });

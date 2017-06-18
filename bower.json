@@ -17,6 +17,8 @@
   "dependencies": {
     "bootstrap": "v4.0.0-alpha.6",
     "leaflet": "^1.0.3",
-    "papaparse": "^4.1.4"
+    "papaparse": "^4.1.4",
+    "bootswatch": "v4",
+    "font-awesome": "^4.7.0"
   }
 }

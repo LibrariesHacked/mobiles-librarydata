@@ -1,9 +1,10 @@
 import csv
+import pandas
 from datetime import datetime
 
 mobiles = []
-with open('../data/northsomerset_raw.csv', 'r') as northsom_rawcsv:
-    mobreader = csv.reader(northsom_rawcsv, delimiter=',', quotechar='"')
+with open('../data/northsomerset_raw.csv', 'r') as northsom_raw:
+    mobreader = csv.reader(northsom_raw, delimiter=',', quotechar='"')
     next(mobreader, None)  # skip the headers
     for row in mobreader:
         community = row[0].strip()
