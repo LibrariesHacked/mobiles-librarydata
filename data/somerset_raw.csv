@@ -1,4 +1,4 @@
-Stop,Community,Postcode,Start,End,Timetable,Date,Day,Frequency,Timetable
+Stop,Community,Postcode,Start,End,Route,Date,Day,Frequency,Timetable
 Lower Holworthy,Brompton Regis,TA22 9NY,9:40,9:55,A,10/01/2017,Tuesday,4,http://www:somerset:gov:uk/EasySiteWeb/GatewayLink:aspx?alId=118030
 Wimbleball Lake,Brompton Regis,TA22 9NU,10:05,10:20,A,10/01/2017,Tuesday,4,http://www:somerset:gov:uk/EasySiteWeb/GatewayLink:aspx?alId=118030
 George Inn,Brompton Regis,TA22 9NL,10:30,10:50,A,10/01/2017,Tuesday,4,http://www:somerset:gov:uk/EasySiteWeb/GatewayLink:aspx?alId=118030
@@ -61,16 +61,16 @@ Shurton Inn,Shurton,TA5 1QE,12:20,12:50,H,19/01/2017,Thursday,4,http://www:somer
 Greyhound Inn,Stogursey,TA5 1QR,13:30,14:00,H,19/01/2017,Thursday,4,http://www:somerset:gov:uk/EasySiteWeb/GatewayLink:aspx?alId=118030
 Town Close (No 30),Stogursey,TA5 1RN,14:05,14:35,H,19/01/2017,Thursday,4,http://www:somerset:gov:uk/EasySiteWeb/GatewayLink:aspx?alId=118030
 Hill Top,Kilve,TA5 1SR,14:55,15:15,H,19/01/2017,Thursday,4,http://www:somerset:gov:uk/EasySiteWeb/GatewayLink:aspx?alId=118030
-Gaunts Road,Pawlett,TA6 4SF,9:30,9:45,I,20/01/2017/Friday,4,http://www:somerset:gov:uk/EasySiteWeb/GatewayLink:aspx?alId=118030
-Brent Knoll Post Office,Brent Knoll,TA9 4DT,10:05,10:50,I,20/01/2017/Friday,4,http://www:somerset:gov:uk/EasySiteWeb/GatewayLink:aspx?alId=118030
-War Memorial,Lympsham,BS24 0DS,11:00,11:20,I,20/01/2017/Friday,4,http://www:somerset:gov:uk/EasySiteWeb/GatewayLink:aspx?alId=118030
-East Drive (off Strowlands),East Brent,TA9 4JQ,11:30,12:00,I,20/01/2017/Friday,4,http://www:somerset:gov:uk/EasySiteWeb/GatewayLink:aspx?alId=118030
-Little Acre,Rooksbridge,BS26 2UG,12:10,12:30,I,20/01/2017/Friday,4,http://www:somerset:gov:uk/EasySiteWeb/GatewayLink:aspx?alId=118030
-Yew Tree Nursery,Biddisham,BS26 2SA,13:10,13:25,I,20/01/2017/Friday,4,http://www:somerset:gov:uk/EasySiteWeb/GatewayLink:aspx?alId=118030
-Old School,Badgworth,BS26 2RH,13:30,13:45,I,20/01/2017/Friday,4,http://www:somerset:gov:uk/EasySiteWeb/GatewayLink:aspx?alId=118030
-Turnpike Road (Pre School),Shipham,BS25 1TX,14:00,14:30,I,20/01/2017/Friday,4,http://www:somerset:gov:uk/EasySiteWeb/GatewayLink:aspx?alId=118030
-May Tree Farm,Stone Allerton,BS26 2NJ,14:50,15:10,I,20/01/2017/Friday,4,http://www:somerset:gov:uk/EasySiteWeb/GatewayLink:aspx?alId=118030
-Front Street (Bus shelter),Chapel Allerton,BS26 2PB,15:15,15:30,I,20/01/2017/Friday,4,http://www:somerset:gov:uk/EasySiteWeb/GatewayLink:aspx?alId=118030
+Gaunts Road,Pawlett,TA6 4SF,9:30,9:45,I,20/01/2017,Friday,4,http://www:somerset:gov:uk/EasySiteWeb/GatewayLink:aspx?alId=118030
+Brent Knoll Post Office,Brent Knoll,TA9 4DT,10:05,10:50,I,20/01/2017,Friday,4,http://www:somerset:gov:uk/EasySiteWeb/GatewayLink:aspx?alId=118030
+War Memorial,Lympsham,BS24 0DS,11:00,11:20,I,20/01/2017,Friday,4,http://www:somerset:gov:uk/EasySiteWeb/GatewayLink:aspx?alId=118030
+East Drive (off Strowlands),East Brent,TA9 4JQ,11:30,12:00,I,20/01/2017,Friday,4,http://www:somerset:gov:uk/EasySiteWeb/GatewayLink:aspx?alId=118030
+Little Acre,Rooksbridge,BS26 2UG,12:10,12:30,I,20/01/2017,Friday,4,http://www:somerset:gov:uk/EasySiteWeb/GatewayLink:aspx?alId=118030
+Yew Tree Nursery,Biddisham,BS26 2SA,13:10,13:25,I,20/01/2017,Friday,4,http://www:somerset:gov:uk/EasySiteWeb/GatewayLink:aspx?alId=118030
+Old School,Badgworth,BS26 2RH,13:30,13:45,I,20/01/2017,Friday,4,http://www:somerset:gov:uk/EasySiteWeb/GatewayLink:aspx?alId=118030
+Turnpike Road (Pre School),Shipham,BS25 1TX,14:00,14:30,I,20/01/2017,Friday,4,http://www:somerset:gov:uk/EasySiteWeb/GatewayLink:aspx?alId=118030
+May Tree Farm,Stone Allerton,BS26 2NJ,14:50,15:10,I,20/01/2017,Friday,4,http://www:somerset:gov:uk/EasySiteWeb/GatewayLink:aspx?alId=118030
+Front Street (Bus shelter),Chapel Allerton,BS26 2PB,15:15,15:30,I,20/01/2017,Friday,4,http://www:somerset:gov:uk/EasySiteWeb/GatewayLink:aspx?alId=118030
 Merriott School,Merriott,TA16 5PT,9:30,10:00,J,24/01/2017,Tuesday,4,http://www:somerset:gov:uk/EasySiteWeb/GatewayLink:aspx?alId=118030
 West Chinnock School,West Chinnock,TA18 7PT,10:10,10:40,J,24/01/2017,Tuesday,4,http://www:somerset:gov:uk/EasySiteWeb/GatewayLink:aspx?alId=118030
 Weston Street Playgroup,East Chinnock,BA22 9EQ,10:50,11:20,J,24/01/2017,Tuesday,4,http://www:somerset:gov:uk/EasySiteWeb/GatewayLink:aspx?alId=118030
