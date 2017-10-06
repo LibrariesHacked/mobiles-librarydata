@@ -50,5 +50,5 @@ def run():
         for sto in mobiles:
             mob_writer.writerow(
                 [sto[0], sto[1], sto[2], sto[3], sto[4], sto[5],
-                 sto[6], sto[7], sto[8], sto[9], sto[10], sto[11]])
+                 sto[6], sto[7], sto[8], sto[9], sto[10], sto[11]])     
 run()
