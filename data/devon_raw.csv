@@ -1,0 +1,440 @@
+Mobile,Week,Village,Stop,Arrive,Depart,StartDate,Frequency,Day
+Ivybridge,1,South Brent,Old School,13:00,15:00,30/01/2017,4,Monday
+Ivybridge,1,South Brent,Station Approach,15:05,15:35,30/01/2017,4,Monday
+Ivybridge,1,South Brent,Exeter Road,15:40,16:10,30/01/2017,4,Monday
+Ivybridge,1,Rattery,Village Hall,10:40,11:10,31/01/2017,4,Tuesday
+Ivybridge,1,Dean Prior,Cross View,11:20,11:50,31/01/2017,4,Tuesday
+Ivybridge,1,Buckfast,Furlong Close,12:00,12:30,31/01/2017,4,Tuesday
+Ivybridge,1,Holne,Church,13:40,14:00,31/01/2017,4,Tuesday
+Ivybridge,1,Aveton Gifford,Village Hall,09:30,10:30,4/01/2017,4,Wednesday
+Ivybridge,1,Malborough,Square,10:55,11:40,4/01/2017,4,Wednesday
+Ivybridge,1,Hope Cove,Weymouth Park,12:10,12:55,4/01/2017,4,Wednesday
+Ivybridge,1,Galmpton,Galmpton,13:30,14:00,4/01/2017,4,Wednesday
+Ivybridge,1,South Milton,Backshay Close,14:15,15:00,4/01/2017,4,Wednesday
+Ivybridge,1,Thurlestone,Village Hall,15:10,16:10,4/01/2017,4,Wednesday
+Ivybridge,1,Totnes,St John’s Court,10:00,10:30,5/01/2017,4,Thursday
+Ivybridge,1,Totnes,Bridgewater Gardens,10:40,11:00,5/01/2017,4,Thursday
+Ivybridge,1,Ashprington,Bus Stop,11:30,12:15,5/01/2017,4,Thursday
+Ivybridge,1,Cornworthy,Village Centre,13:15,13:35,5/01/2017,4,Thursday
+Ivybridge,1,Capton,Village Centre,13:50,14:10,5/01/2017,4,Thursday
+Ivybridge,1,Allaleigh,Crossroads,14:20,14:50,5/01/2017,4,Thursday
+Ivybridge,1,Harbertonford,Church,15:05,15:40,5/01/2017,4,Thursday
+Ivybridge,1,Harbertonford,Bow Road,15:55,16:15,5/01/2017,4,Thursday
+Ivybridge,2,Ugborough,Square,09:30,10:00,10/01/2017,4,Tuesday
+Ivybridge,2,Diptford,Village Square,10:15,10:45,10/01/2017,4,Tuesday
+Ivybridge,2,Moreleigh,End of Village (along Garabridge Road),11:00,11:20,10/01/2017,4,Tuesday
+Ivybridge,2,Blackawton,War Memorial,11:55,12:40,10/01/2017,4,Tuesday
+Ivybridge,2,Slapton,Greenbank,13:30,14:00,10/01/2017,4,Tuesday
+Ivybridge,2,Torcross,Bus Stop,14:10,14:30,10/01/2017,4,Tuesday
+Ivybridge,2,Stokenham,Village Hall,14:40,15:25,10/01/2017,4,Tuesday
+Ivybridge,2,Beesands,The Chapel,15:35,16:05,10/01/2017,4,Tuesday
+Ivybridge,2,Milton Abbot,School,10:15,11:00,11/01/2017,4,Wednesday
+Ivybridge,2,Lifton,Church,11:30,12:15,11/01/2017,4,Wednesday
+Ivybridge,2,Lewdown,War Memorial,12:30,13:00,11/01/2017,4,Wednesday
+Ivybridge,2,Boasley Cross,School,14:00,14:30,11/01/2017,4,Wednesday
+Ivybridge,2,Bratton Clovelly,Village,14:45,16:00,11/01/2017,4,Wednesday
+Ivybridge,2,Horrabridge,London Inn,11:00,11:30,12/01/2017,4,Thursday
+Ivybridge,2,Dousland,Iron Mine Lane,11:45,12:15,12/01/2017,4,Thursday
+Ivybridge,2,Yelverton Briar,Tor,13:15,13:45,12/01/2017,4,Thursday
+Ivybridge,2,Crapstone,Pilchers Field,13:50,14:20,12/01/2017,4,Thursday
+Ivybridge,2,Buckland Monachorum,School,14:30,15:00,12/01/2017,4,Thursday
+Ivybridge,2,Milton Combe,Milton Combe,15:10,15:40,12/01/2017,4,Thursday
+Ivybridge,2,Woolwell,Shopping Parade,09:45,11:15,13/01/2017,4,Friday
+Ivybridge,2,Hoo Meavy,Hoo Meavy,11:30,11:50,13/01/2017,4,Friday
+Ivybridge,2,Whitchurch,Friars Walk,12:05,12:35,13/01/2017,4,Friday
+Ivybridge,2,Sampford Spiney,Brook Cottage,13:00,13:30,13/01/2017,4,Friday
+Ivybridge,2,Modbury,Poundwell Square,09:30,12:30,14/01/2017,4,Saturday
+Ivybridge,3,Newton Ferrers,Yealm Road,10:30,12:30,16/01/2017,4,Monday
+Ivybridge,3,Noss Mayo,Tennis Courts,13:30,15:00,16/01/2017,4,Monday
+Ivybridge,3,Battisborough Cross,Old Post Office,15:10,15:40,16/01/2017,4,Monday
+Ivybridge,3,Holbeton,Village Hall,15:50,16:35,16/01/2017,4,Monday
+Ivybridge,3,Bere Alston,Alexander Drive,10:00,10:30,17/01/2017,4,Tuesday
+Ivybridge,3,Bere Alston,The Village Hall,10:35,11:55,17/01/2017,4,Tuesday
+Ivybridge,3,Weir Quay,Weir Quay,12:10,12:30,17/01/2017,4,Tuesday
+Ivybridge,3,Bere Ferrers,War Memorial,13:45,14:30,17/01/2017,4,Tuesday
+Ivybridge,3,Bere Ferrers,Social Club,14:35,15:05,17/01/2017,4,Tuesday
+Ivybridge,3,Wheal Maria,Wheal Maria,15:30,16:00,17/01/2017,4,Tuesday
+Ivybridge,3,Peter Tavy,Church Lane entrance,10:00,10:30,18/01/2017,4,Wednesday
+Ivybridge,3,Mary Tavy,Bus Stop,10:45,11:10,18/01/2017,4,Wednesday
+Ivybridge,3,Mary Tavy,School,11:15,11:45,18/01/2017,4,Wednesday
+Ivybridge,3,Lydford,War Memorial,12:00,12:30,18/01/2017,4,Wednesday
+Ivybridge,3,Lydford,School,13:45,14:15,18/01/2017,4,Wednesday
+Ivybridge,3,Bridestowe,Cocksheath Cross,14:30,14:50,18/01/2017,4,Wednesday
+Ivybridge,3,Bridestowe,White Hart,15:05,16:00,18/01/2017,4,Wednesday
+Ivybridge,3,Yealmpton,Rose & Crown,09:30,11:30,19/01/2017,4,Thursday
+Ivybridge,3,Wembury,Recreation Ground Car Park,11:55,12:55,19/01/2017,4,Thursday
+Ivybridge,3,Wembury,Southland Park Road - Bottom,13:30,14:30,19/01/2017,4,Thursday
+Ivybridge,3,Wembury,Hawthorne Drive,14:35,15:35,19/01/2017,4,Thursday
+Ivybridge,3,Brixton,Venn Court,15:55,16:30,19/01/2017,4,Thursday
+Ivybridge,4,Ermington,Fawns Close,09:40,10:10,24/01/2017,4,Tuesday
+Ivybridge,4,Flete House,Flete House,10:15,10:35,24/01/2017,4,Tuesday
+Ivybridge,4,Kingston,Fire Station,11:00,11:40,24/01/2017,4,Tuesday
+Ivybridge,4,Ringmore,Church,11:50,12:20,24/01/2017,4,Tuesday
+Ivybridge,4,Bigbury-on-Sea,Cleveland Drive,12:40,13:25,24/01/2017,4,Tuesday
+Ivybridge,4,Bigbury,Green,14:00,14:30,24/01/2017,4,Tuesday
+Ivybridge,4,Modbury,Alyestone Park,14:45,15:30,24/01/2017,4,Tuesday
+Ivybridge,4,Modbury,Poundwell Square,15:35,16:35,24/01/2017,4,Tuesday
+Ivybridge,4,Loddiswell,Courtledge,09:40,10:15,25/01/2017,4,Wednesday
+Ivybridge,4,Woodleigh,Church Gate,10:25,10:55,25/01/2017,4,Wednesday
+Ivybridge,4,Chillington,Green Park Way,11:30,12:00,25/01/2017,4,Wednesday
+Ivybridge,4,Chillington,Post Office,12:05,12:50,25/01/2017,4,Wednesday
+Ivybridge,4,East Prawle,The Green,14:10,14:40,25/01/2017,4,Wednesday
+Ivybridge,4,East Portlemouth,Old Chapel,14:55,15:15,25/01/2017,4,Wednesday
+Ivybridge,4,Ford,Mill Cottage,15:30,15:50,25/01/2017,4,Wednesday
+Ivybridge,4,Ipplepen,Caunters Close,09:45,12:15,26/01/2017,4,Thursday
+Ivybridge,4,Littlehempston,Littlehempston Rd Broadhempston Rd,12:30,12:50,26/01/2017,4,Thursday
+Ivybridge,4,Berry Pomeroy,Crossroads,13:30,13:50,26/01/2017,4,Thursday
+Ivybridge,4,Dartington,Cott Inn,14:05,14:25,26/01/2017,4,Thursday
+Ivybridge,4,Dartington,Broom Park,14:30,15:00,26/01/2017,4,Thursday
+Ivybridge,4,Dartington,Huxham Cross,15:05,15:25,26/01/2017,4,Thursday
+Ivybridge,4,Staverton,Court Room,15:40,16:00,26/01/2017,4,Thursday
+Ivybridge,4,Staverton,Moor Road,16:05,16:30,26/01/2017,4,Thursday
+Ivybridge,4,Shaugh Prior,School,09:45,10:15,27/01/2017,4,Friday
+Ivybridge,4,Shaugh Prior,White Thorn,10:20,10:50,27/01/2017,4,Friday
+Ivybridge,4,Lee Moor,Lee Moor,11:05,11:35,27/01/2017,4,Friday
+Ivybridge,4,Bickleigh,Church,13:00,13:45,27/01/2017,4,Friday
+Ivybridge,4,Higher Longford,Silent Woman Caravan Park,14:15,14:45,27/01/2017,4,Friday
+Ivybridge,4,Yelverton,Shopping Parade,09:30,12:30,28/01/2017,4,Saturday
+Teignbridge,1,Abbotshill Park,Caravan Park,09:45,10:05,30/01/2017,4,Monday
+Teignbridge,1,Abbotskerswell,Priory,11:05,11:50,30/01/2017,4,Monday
+Teignbridge,1,Ogwell,Margaret Road,12:00,12:30,30/01/2017,4,Monday
+Teignbridge,1,East Ogwell,Mill Lane/Old Post Office,13:00,13:45,30/01/2017,4,Monday
+Teignbridge,1,Denbury,School,14:00,14:45,30/01/2017,4,Monday
+Teignbridge,1,Ipplepen,Millennium Centre,14:55,15:30,30/01/2017,4,Monday
+Teignbridge,1,Ipplepen,Caunters Close,15:35,16:05,30/01/2017,4,Monday
+Teignbridge,1,East Budleigh,Village Hall,09:40,10:10,3/01/2017,4,Tuesday
+Teignbridge,1,Otterton,Green,10:20,10:40,3/01/2017,4,Tuesday
+Teignbridge,1,Colaton Raleigh Newton,Eden Way,10:50,11:20,3/01/2017,4,Tuesday
+Teignbridge,1,Poppleford Newton,Stoneyford,11:30,11:50,3/01/2017,4,Tuesday
+Teignbridge,1,Poppleford Newton,Brook Meadow,12:05,12:45,3/01/2017,4,Tuesday
+Teignbridge,1,Poppleford,Burrow Lane,13:30,13:50,3/01/2017,4,Tuesday
+Teignbridge,1,Venn Ottery,Sunnyside Lower Broad,14:00,14:30,3/01/2017,4,Tuesday
+Teignbridge,1,Metcombe,Oak,14:40,15:05,3/01/2017,4,Tuesday
+Teignbridge,1,West Hill,Potters Market,15:15,16:15,3/01/2017,4,Tuesday
+Teignbridge,1,Belstone,Green,10:15,11:00,4/01/2017,4,Wednesday
+Teignbridge,1,Sticklepath,Oak Tree Gardens,11:10,11:50,4/01/2017,4,Wednesday
+Teignbridge,1,South Tawton,Taw Green,12:00,12:20,4/01/2017,4,Wednesday
+Teignbridge,1,South Tawton,Seven Stars,12:30,12:50,4/01/2017,4,Wednesday
+Teignbridge,1,South Zeal,Old Post House,13:30,14:10,4/01/2017,4,Wednesday
+Teignbridge,1,South Zeal,Zeal Head,14:15,14:35,4/01/2017,4,Wednesday
+Teignbridge,1,Spreyton,Hillerton Cross,14:50,15:10,4/01/2017,4,Wednesday
+Teignbridge,1,Spreyton,Village Shop,15:20,16:15,4/01/2017,4,Wednesday
+Teignbridge,1,North Bovey,Village Green,09:40,10:25,5/01/2017,4,Thursday
+Teignbridge,1,Postbridge,Post Office,10:50,11:35,5/01/2017,4,Thursday
+Teignbridge,1,Manaton,Parish Hall,12:05,12:50,5/01/2017,4,Thursday
+Teignbridge,1,Lustleigh,The Cleave Inn,13:40,14:40,5/01/2017,4,Thursday
+Teignbridge,1,Sowton,Moor Road Travellers' site,15:30,16:15,5/01/2017,4,Thursday
+Teignbridge,2,Haytor,Rock Inn,09:40,10:00,10/01/2017,4,Tuesday
+Teignbridge,2,Ilsington,Village Hall,10:10,10:30,10/01/2017,4,Tuesday
+Teignbridge,2,Brimley,Chapple Cross,10:40,11:00,10/01/2017,4,Tuesday
+Teignbridge,2,Bovey Tracey,New Park,11:05,11:35,10/01/2017,4,Tuesday
+Teignbridge,2,Liverton,Post Office,11:45,12:30,10/01/2017,4,Tuesday
+Teignbridge,2,Bickington,Old School Yard,13:10,13:40,10/01/2017,4,Tuesday
+Teignbridge,2,Teigngrace,Old School,13:55,14:15,10/01/2017,4,Tuesday
+Teignbridge,2,Chudleigh Knighton,Buckingham Orchard,14:30,15:00,10/01/2017,4,Tuesday
+Teignbridge,2,Hennock,Palk Arms,15:15,15:45,10/01/2017,4,Tuesday
+Teignbridge,2,Kenn,St Andrews Close,09:30,10:00,11/01/2017,4,Wednesday
+Teignbridge,2,Kennford,Post Office/Shop,10:10,10:55,11/01/2017,4,Wednesday
+Teignbridge,2,Higher Gabwell,Gabswell Lane,11:30,12:00,11/01/2017,4,Wednesday
+Teignbridge,2,Stokeinteignhead,Village Centre,12:15,12:45,11/01/2017,4,Wednesday
+Teignbridge,2,Rocombe House,Car Park,13:30,13:50,11/01/2017,4,Wednesday
+Teignbridge,2,Combeinteignhead,Wild Goose Inn,14:00,14:20,11/01/2017,4,Wednesday
+Teignbridge,2,Newton Abbot,Church Way,14:35,14:55,11/01/2017,4,Wednesday
+Teignbridge,2,Newton Abbot,Oak Tree Drive,15:00,15:25,11/01/2017,4,Wednesday
+Teignbridge,2,Newton Abbot,Windsor Avenue,15:30,16:00,11/01/2017,4,Wednesday
+Teignbridge,2,Posbury,Convent,10:10,10:30,12/01/2017,4,Thursday
+Teignbridge,2,Yeoford,Mare and Foal,10:45,11:30,12/01/2017,4,Thursday
+Teignbridge,2,Colebrooke,Bus Shelter,11:40,12:00,12/01/2017,4,Thursday
+Teignbridge,2,Colebrooke,Penstone,12:05,12:35,12/01/2017,4,Thursday
+Teignbridge,2,Copplestone,Fernworthy Park,12:55,13:15,12/01/2017,4,Thursday
+Teignbridge,2,Copplestone,Nisa Local,13:50,14:20,12/01/2017,4,Thursday
+Teignbridge,2,Morchard Road,Car Park,14:25,14:45,12/01/2017,4,Thursday
+Teignbridge,2,Down,St Mary Church,14:50,15:20,12/01/2017,4,Thursday
+Teignbridge,2,Bow,Village Hall,15:35,16:05,12/01/2017,4,Thursday
+Teignbridge,2,Belstone Corner,The Beeches,16:20,16:40,12/01/2017,4,Thursday
+Teignbridge,2,Aylesbeare,The Inn,09:30,09:50,13/01/2017,4,Friday
+Teignbridge,2,Farringdon,The Drive,10:00,10:20,13/01/2017,4,Friday
+Teignbridge,2,Clyst St Mary,Cat and Fiddle,10:30,10:50,13/01/2017,4,Friday
+Teignbridge,2,Clyst St Mary,Winslade Park,10:55,11:15,13/01/2017,4,Friday
+Teignbridge,2,Clyst St George,School,11:25,11:55,13/01/2017,4,Friday
+Teignbridge,2,Woodbury Salterton,Ridges Corner,12:05,12:25,13/01/2017,4,Friday
+Teignbridge,2,Woodbury Salterton,Diggers Rest,13:00,13:20,13/01/2017,4,Friday
+Teignbridge,2,Woodbury Salterton,Kennels,13:30,13:50,13/01/2017,4,Friday
+Teignbridge,2,Woodbury,Village Car Park,14:05,15:05,13/01/2017,4,Friday
+Teignbridge,2,Exton,Car Park,15:20,15:50,13/01/2017,4,Friday
+Teignbridge,2,Dunkeswell,Community Centre,09:30,12:30,14/01/2017,4,Saturday
+Teignbridge,3,Exeter Alphington,Aldens Road,09:50,10:10,16/01/2017,4,Monday
+Teignbridge,3,Shillingford St George,Ash Court,10:20,11:05,16/01/2017,4,Monday
+Teignbridge,3,Dunchideock,Sideling Close,11:15,11:35,16/01/2017,4,Monday
+Teignbridge,3,Ide,Huntsman Inn,11:45,12:30,16/01/2017,4,Monday
+Teignbridge,3,Exminster,Victory Hall,14:00,16:00,16/01/2017,4,Monday
+Teignbridge,3,Throwleigh,Wonson Head,10:10,10:40,17/01/2017,4,Tuesday
+Teignbridge,3,Throwleigh,Post Office,10:55,11:45,17/01/2017,4,Tuesday
+Teignbridge,3,Throwleigh,Shilstone Lane,11:50,12:10,17/01/2017,4,Tuesday
+Teignbridge,3,Drewsteignton,Square,13:15,13:35,17/01/2017,4,Tuesday
+Teignbridge,3,Clifford Bridge,Clifford Bridge,14:00,14:20,17/01/2017,4,Tuesday
+Teignbridge,3,Crockernwell,Stanbury’s Orchard,14:35,14:55,17/01/2017,4,Tuesday
+Teignbridge,3,Cheriton Bishop,Glebelands,15:05,15:35,17/01/2017,4,Tuesday
+Teignbridge,3,Cheriton Bishop,Hescane Park,15:40,16:10,17/01/2017,4,Tuesday
+Teignbridge,3,Bishopsteignton,Weir Farm,09:45,10:15,18/01/2017,4,Wednesday
+Teignbridge,3,Bishopsteignton,Cockhaven Road,10:25,10:55,18/01/2017,4,Wednesday
+Teignbridge,3,Bishopsteignton,Grange Park,11:05,11:50,18/01/2017,4,Wednesday
+Teignbridge,3,Bishopsteignton,Bishops Avenue Car Park,12:00,12:45,18/01/2017,4,Wednesday
+Teignbridge,3,Shaldon,Shoreside,13:30,15:30,18/01/2017,4,Wednesday
+Teignbridge,3,Ideford,The Pound,15:45,16:15,18/01/2017,4,Wednesday
+Teignbridge,3,Luton,Church Street,16:25,16:45,18/01/2017,4,Wednesday
+Teignbridge,3,Dunsford,Orchard Close,09:40,10:05,19/01/2017,4,Thursday
+Teignbridge,3,Dunsford,Butts Cross,10:10,10:30,19/01/2017,4,Thursday
+Teignbridge,3,Bridford,Scatter View,10:50,11:20,19/01/2017,4,Thursday
+Teignbridge,3,Doddiscombsleigh,School,11:30,11:50,19/01/2017,4,Thursday
+Teignbridge,3,Higher Ashton,Village Hall,12:00,12:30,19/01/2017,4,Thursday
+Teignbridge,3,Christow,French’s Garden Centre,13:15,13:35,19/01/2017,4,Thursday
+Teignbridge,3,Christow,Church,13:50,15:15,19/01/2017,4,Thursday
+Teignbridge,3,Trusham,Square,15:25,15:55,19/01/2017,4,Thursday
+Teignbridge,3,Teign Village,Village Centre,16:10,16:40,19/01/2017,4,Thursday
+Teignbridge,4,Wonford,Chestnut Children’s centre,09:30,10:00,24/01/2017,4,Tuesday
+Teignbridge,4,Stoke Gabriel,Church House Inn,12:10,12:40,24/01/2017,4,Tuesday
+Teignbridge,4,Stoke Gabriel,Barn Park,13:30,14:15,24/01/2017,4,Tuesday
+Teignbridge,4,Marldon,School,14:35,15:20,24/01/2017,4,Tuesday
+Teignbridge,4,Marldon,Pembroke Stores,15:25,15:50,24/01/2017,4,Tuesday
+Teignbridge,4,Kingskerswell,Ganders Park,16:00,16:30,24/01/2017,4,Tuesday
+Teignbridge,4,Dunkeswell,Community Centre,10:30,11:30,25/01/2017,4,Wednesday
+Teignbridge,4,Dunkeswell,Village Hall,11:45,12:15,25/01/2017,4,Wednesday
+Teignbridge,4,Luppit,Village Hall,12:30,13:00,25/01/2017,4,Wednesday
+Teignbridge,4,Yarcombe,Village Hall,14:00,14:30,25/01/2017,4,Wednesday
+Teignbridge,4,Sidbury,Cotford,09:45,10:05,26/01/2017,4,Thursday
+Teignbridge,4,Sidford,Country House,10:15,10:35,26/01/2017,4,Thursday
+Teignbridge,4,Sidford,Harcombe Lane,10:45,11:15,26/01/2017,4,Thursday
+Teignbridge,4,Sidford,Warrens Mead,11:25,12:20,26/01/2017,4,Thursday
+Teignbridge,4,Sidford Salcombe,Stowford Rise,12:30,13:00,26/01/2017,4,Thursday
+Teignbridge,4,Regis,Church,13:45,14:05,26/01/2017,4,Thursday
+Teignbridge,4,Beer,Barnard Farm Coombe,14:20,14:50,26/01/2017,4,Thursday
+Teignbridge,4,Axmouth,Orchard,15:15,15:45,26/01/2017,4,Thursday
+Teignbridge,4,Gittisham,Gittisham Hill House,16:10,16:40,26/01/2017,4,Thursday
+Teignbridge,4,Exmouth,Withycombe Park Drive,09:30,09:50,27/01/2017,4,Friday
+Teignbridge,4,Lympstone,Meadow Close,10:15,10:35,27/01/2017,4,Friday
+Teignbridge,4,Lympstone,Car Park,10:45,11:45,27/01/2017,4,Friday
+Teignbridge,4,Kenton,Village Car Park,13:00,14:00,27/01/2017,4,Friday
+Teignbridge,4,Starcross,Longfield,14:05,14:25,27/01/2017,4,Friday
+Teignbridge,4,Cockwood,Ship Inn,14:30,15:15,27/01/2017,4,Friday
+Teignbridge,4,Dawlish Warren,Hazelwood Park,15:20,15:50,27/01/2017,4,Friday
+Teignbridge,4,Exminster,Victory Hall,09:30,12:30,28/01/2017,4,Saturday
+Tiverton,1,Brayford,Village Centre,10:15,10:45,30/01/2017,4,Monday
+Tiverton,1,Charles,Crossroads,11:00,11:30,30/01/2017,4,Monday
+Tiverton,1,Goodleigh,Village Hall,11:50,12:20,30/01/2017,4,Monday
+Tiverton,1,Bratton Fleming,The Glebe,12:40,13:25,30/01/2017,4,Monday
+Tiverton,1,Challacombe,Black Venus Inn,14:15,14:45,30/01/2017,4,Monday
+Tiverton,1,Parracombe,Fox and Goose Inn,15:00,15:30,30/01/2017,4,Monday
+Tiverton,1,Shirwell,Town,15:55,16:35,30/01/2017,4,Monday
+Tiverton,1,Kilmington,The Street,11:20,11:50,3/01/2017,4,Tuesday
+Tiverton,1,Hawkchurch,Memorial Cross,12:10,12:40,3/01/2017,4,Tuesday
+Tiverton,1,Smallridge,All Saints Pre-school,13:00,13:20,3/01/2017,4,Tuesday
+Tiverton,1,Chardstock,Kit Bridge,14:00,14:20,3/01/2017,4,Tuesday
+Tiverton,1,Chardstock,Green Lane,14:40,15:10,3/01/2017,4,Tuesday
+Tiverton,1,Washfield,Village Hall,09:35,10:20,4/01/2017,4,Wednesday
+Tiverton,1,Stoodleigh,Vialls Corner,10:35,10:55,4/01/2017,4,Wednesday
+Tiverton,1,Knowstone,Church,11:50,12:10,4/01/2017,4,Wednesday
+Tiverton,1,Rackenford,Stag Inn,12:45,13:15,4/01/2017,4,Wednesday
+Tiverton,1,Bishops Nympton,Community Shop,14:05,14:35,4/01/2017,4,Wednesday
+Tiverton,1,North Molton,Oakford Villas,15:05,16:05,4/01/2017,4,Wednesday
+Tiverton,1,Shute Barton,School,10:30,11:00,5/01/2017,4,Thursday
+Tiverton,1,Umborne,Village Hall,11:20,11:50,5/01/2017,4,Thursday
+Tiverton,1,Whitford,Village Hall,12:00,12:30,5/01/2017,4,Thursday
+Tiverton,1,Musbury,School,13:10,13:50,5/01/2017,4,Thursday
+Tiverton,1,Musbury,Golden Hind,13:55,14:25,5/01/2017,4,Thursday
+Tiverton,1,Rocombe Cross,Spring Bank,14:35,14:55,5/01/2017,4,Thursday
+Tiverton,1,Uplyme,Car Park,15:05,16:05,5/01/2017,4,Thursday
+Tiverton,2,Clyst Hydon,School,09:45,10:25,10/01/2017,4,Tuesday
+Tiverton,2,Plymtree,Church,10:45,11:30,10/01/2017,4,Tuesday
+Tiverton,2,Broadhembury,Post Office,11:45,12:25,10/01/2017,4,Tuesday
+Tiverton,2,Kerswell,Opposite Willow Tree,12:35,13:05,10/01/2017,4,Tuesday
+Tiverton,2,Kentisbeare,Village Hall,13:45,14:25,10/01/2017,4,Tuesday
+Tiverton,2,Blackborough,Village Hall 14:35 14:55,10/01/2017,4,Tuesday
+Tiverton,2,Ashill Batts,Park Junction,15:10,15:30,10/01/2017,4,Tuesday
+Tiverton,2,Uffculme,Pippins Field,15:45,16:15,10/01/2017,4,Tuesday
+Tiverton,2,Uffculme,Pippins Field,15:45,16:15,11/01/2017,4,Wednesday
+Tiverton,2,Upton Pyne,Village Hall,11:00,11:45,11/01/2017,4,Wednesday
+Tiverton,2,Brampford Speke,School,12:00,12:45,11/01/2017,4,Wednesday
+Tiverton,2,Pathfinder Village,Car Park,14:00,14:45,11/01/2017,4,Wednesday
+Tiverton,2,Tedburn St Mary,Village Hall,14:50,15:50,11/01/2017,4,Wednesday
+Tiverton,2,Bradninch,Guildhall,11:00,12:00,12/01/2017,4,Thursday
+Tiverton,2,Broadclyst,Hay House,12:15,12:45,12/01/2017,4,Thursday
+Tiverton,2,Silverton,Wyndham Road,13:30,14:15,12/01/2017,4,Thursday
+Tiverton,2,Rewe,Car Park,14:25,14:45,12/01/2017,4,Thursday
+Tiverton,2,Stoke Canon,Village Hall,14:50,15:20,12/01/2017,4,Thursday
+Tiverton,2,Thorverton,Quarry Car Park,15:35,16:20,12/01/2017,4,Thursday
+Tiverton,2,Pennymoor,Cruwys Arms,09:30,10:00,13/01/2017,4,Friday
+Tiverton,2,Puddington,Village Hall,10:10,10:40,13/01/2017,4,Friday
+Tiverton,2,Black Dog,Methodist Church,10:45,11:15,13/01/2017,4,Friday
+Tiverton,2,Morchard Bishop,Greenaway,11:25,12:05,13/01/2017,4,Friday
+Tiverton,2,Zeal Monachorum,Post Office,13:05,13:25,13/01/2017,4,Friday
+Tiverton,2,Zeal Monachorum,The Waie,13:30,13:50,13/01/2017,4,Friday
+Tiverton,2,Kennerleigh,Village Centre,14:45,15:15,13/01/2017,4,Friday
+Tiverton,2,Cheriton Fitzpaine,Bary Cross,15:40,16:10,13/01/2017,4,Friday
+Tiverton,2,Hemyock,Village Hall,09:45,12:15,14/01/2017,4,Saturday
+Tiverton,3,Witheridge,Square,14:00,15:00,16/01/2017,4,Monday
+Tiverton,3,Witheridge,School,15:05,15:50,16/01/2017,4,Monday
+Tiverton,3,Butterleigh,Village Hall,16:30,17:00,16/01/2017,4,Monday
+Tiverton,3,East Down,Pyne Arms,10:15,10:45,17/01/2017,4,Tuesday
+Tiverton,3,Kentisbury,Village Hall,10:50,11:20,17/01/2017,4,Tuesday
+Tiverton,3,Berrynarbor,Stores,11:40,12:10,17/01/2017,4,Tuesday
+Tiverton,3,Berrynarbor,Sterridge Valley,12:25,12:55,17/01/2017,4,Tuesday
+Tiverton,3,Marwood,Church,14:00,14:30,17/01/2017,4,Tuesday
+Tiverton,3,Heanton,Church,14:45,15:05,17/01/2017,4,Tuesday
+Tiverton,3,RMB Chivenor,Tamar Road,15:20,15:55,17/01/2017,4,Tuesday
+Tiverton,3,Awliscombe,Godford Cross,09:45,10:05,18/01/2017,4,Wednesday
+Tiverton,3,Awliscombe,Village Hall,10:15,10:45,18/01/2017,4,Wednesday
+Tiverton,3,Luton,Green,10:55,11:15,18/01/2017,4,Wednesday
+Tiverton,3,Payhembury,The Green,11:25,11:45,18/01/2017,4,Wednesday
+Tiverton,3,Feniton,Ely Close,11:55,12:25,18/01/2017,4,Wednesday
+Tiverton,3,Whimple,Square,13:10,13:55,18/01/2017,4,Wednesday
+Tiverton,3,Talaton,Village Shop,14:10,14:30,18/01/2017,4,Wednesday
+Tiverton,3,Talaton,Newton,14:35,14:55,18/01/2017,4,Wednesday
+Tiverton,3,Feniton,York Crescent,15:10,15:55,18/01/2017,4,Wednesday
+Tiverton,3,Buckerell,War Memorial,16:10,16:45,18/01/2017,4,Wednesday
+Tiverton,3,West Buckland,Bus Shelter,10:00,10:30,19/01/2017,4,Thursday
+Tiverton,3,Bishops Tawton,Chichester Arms,10:50,11:20,19/01/2017,4,Thursday
+Tiverton,3,Swimbridge,Post Office,11:35,12.30,19/01/2017,4,Thursday
+Tiverton,3,Dennington,Francis House,13:10,13:30,19/01/2017,4,Thursday
+Tiverton,3,Landkey,Meadow Close,13:35,14:05,19/01/2017,4,Thursday
+Tiverton,3,Landkey,Castle Inn,14:10,14:55,19/01/2017,4,Thursday
+Tiverton,3,Landkey,Bakery Way,15:00,15:45,19/01/2017,4,Thursday
+Tiverton,3,Landkey,Denes Close,15:50,16:35,19/01/2017,4,Thursday
+Tiverton,4,Cadbury,Cadbury Cross,09:30,09:50,24/01/2017,4,Tuesday
+Tiverton,4,Sandford,Village Hall,10:25,11:00,24/01/2017,4,Tuesday
+Tiverton,4,Bugford,Bungalows,11:25,11:45,24/01/2017,4,Tuesday
+Tiverton,4,Yeo Vale Cross,Yeo Vale Cross,11:55,12:15,24/01/2017,4,Tuesday
+Tiverton,4,Nymet Rowland,Opposite Village Hall,12:25,12:45,24/01/2017,4,Tuesday
+Tiverton,4,Lapford,Highfield,13:30,14:15,25/01/2017,4,Wednesday
+Tiverton,4,Lapford,Orchard Way,14:20,15:05,25/01/2017,4,Wednesday
+Tiverton,4,Lapford,School,15:10,15:55,25/01/2017,4,Wednesday
+Tiverton,4,Tween Moors Cross,Tween Moors Cross,16:10,16:30,25/01/2017,4,Wednesday
+Tiverton,4,Oakford,Car Park,09:40,10:30,26/01/2017,4,Thursday
+Tiverton,4,Huntsham,Post Office,10:55,11:25,26/01/2017,4,Thursday
+Tiverton,4,Holcombe Rogus,Village Centre,11:45,12:30,26/01/2017,4,Thursday
+Tiverton,4,Westleigh,Telephone Box,13:15,13:55,26/01/2017,4,Thursday
+Tiverton,4,Sampford Peverell,Legion Hall Car Park,14:10,15:10,26/01/2017,4,Thursday
+Tiverton,4,Halberton,Lower Close,15:20,16:05,26/01/2017,4,Thursday
+Tiverton,4,Ash Thomas,Village Notice Board,09:30,10:00,27/01/2017,4,Friday
+Tiverton,4,Willand Willand,Old Village/Townlands,10:15,11:00,27/01/2017,4,Friday
+Tiverton,4,Willand Village,Hall,11:05,12:05,27/01/2017,4,Friday
+Tiverton,4,Clayhidon,Crossroads,13:15,13:45,27/01/2017,4,Friday
+Tiverton,4,Hemyock,Village Hall,13:55,15:00,27/01/2017,4,Friday
+Tiverton,4,Hemyock,Lower Millhayes,15:05,16:20,27/01/2017,4,Friday
+Tiverton,4,Bradninch,Guildhall,09:30,12:30,28/01/2017,4,Saturday
+Torrington,1,St Giles,Church Gate,09:30,09:50,30/01/2017,4,Monday
+Torrington,1,St Giles,Stevenstone Court,10:10,10:40,30/01/2017,4,Monday
+Torrington,1,Yarnscombe,Village Hall,11:00,11:40,30/01/2017,4,Monday
+Torrington,1,Roborough,Meadow House,12:10,12:30,30/01/2017,4,Monday
+Torrington,1,Beaford,School Lay by,13:15 13:45,30/01/2017,4,Monday
+Torrington,1,Merton,School,14:15,14:50,30/01/2017,4,Monday
+Torrington,1,Petrockstowe,Baxter Hall,15:05,15:30,30/01/2017,4,Monday
+Torrington,1,Torrington,Torridge View,16:00,16:20,30/01/2017,4,Monday
+Torrington,1,Hartland,Fire Station,10:00,12:45,3/01/2017,4,Tuesday
+Torrington,1,Hartland,Exmansworthy,13:30,13:50,3/01/2017,4,Tuesday
+Torrington,1,Meddon,Meddon,14:10,14:30,3/01/2017,4,Tuesday
+Torrington,1,Welcombe,Old Smithy Inn,14:45,15:30,3/01/2017,4,Tuesday
+Torrington,1,Dunsland,Forestry Cottages,09:45,10:15,4/01/2017,4,Wednesday
+Torrington,1,Halwill,Church,10:30,11:00,4/01/2017,4,Wednesday
+Torrington,1,Halwill,Junction,11:15,12:00,4/01/2017,4,Wednesday
+Torrington,1,Germansweek,Post Office,12:15,13:00,4/01/2017,4,Wednesday
+Torrington,1,Northlew,Square,13:55,14:55,4/01/2017,4,Wednesday
+Torrington,1,Inwardleigh,Village,15:15,15:35,4/01/2017,4,Wednesday
+Torrington,1,Exbourne,Village Hall,15:50,16:15,4/01/2017,4,Wednesday
+Torrington,1,Knowle,Ebrington Arms,09:30,10:00,5/01/2017,4,Thursday
+Torrington,1,West Down,Square,10:20,10:50,5/01/2017,4,Thursday
+Torrington,1,Lee,Church,11:25,12:00,5/01/2017,4,Thursday
+Torrington,1,Mortehoe,Church,12:30,13:00,5/01/2017,4,Thursday
+Torrington,1,Woolacombe,Woolacombe Hall,13:40,14:25,5/01/2017,4,Thursday
+Torrington,1,Woolacombe,South Street,14:30,15:10,5/01/2017,4,Thursday
+Torrington,1,Georgeham,Village Hall,15:35,15:55,5/01/2017,4,Thursday
+Torrington,1,Croyde,Village Hall,16:10,16:30,5/01/2017,4,Thursday
+Torrington,2,Hatherleigh,Market,09:45,11:45,10/01/2017,4,Tuesday
+Torrington,2,Hatherleigh,Community Centre,12:00,12:30,10/01/2017,4,Tuesday
+Torrington,2,Hatherleigh,Care Village,13:10,13:40,10/01/2017,4,Tuesday
+Torrington,2,Sheepwash,Square,13:55,14:40,10/01/2017,4,Tuesday
+Torrington,2,Highampton,Village Hall,14:55,15:25,10/01/2017,4,Tuesday
+Torrington,2,Black Torrington,Chapel,15:40,16:00,10/01/2017,4,Tuesday
+Torrington,2,Black Torrington,The Maltings,16:10,16:40,10/01/2017,4,Tuesday
+Torrington,2,Sutcombe,School,09:55,10:40,11/01/2017,4,Wednesday
+Torrington,2,Sutcombe,Church,10:45,11:05,11/01/2017,4,Wednesday
+Torrington,2,Bradworthy,Square,11:20,12:30,11/01/2017,4,Wednesday
+Torrington,2,Kingford,Kingford,13:25,13:45,11/01/2017,4,Wednesday
+Torrington,2,Bridgerule,Village Hall,14:00,14:45,11/01/2017,4,Wednesday
+Torrington,2,Bridgerule,Upland,14:50,15:20,11/01/2017,4,Wednesday
+Torrington,2,Milton Damerel,Lizzy’s Larder,15:45,16:30,11/01/2017,4,Wednesday
+Torrington,2,Burrington,Parish Hall/School,09:45,10:30,12/01/2017,4,Thursday
+Torrington,2,Ashreigney,The Square,10:45,11:05,12/01/2017,4,Thursday
+Torrington,2,Riddlecombe,Telephone Box,11:25,12:10,12/01/2017,4,Thursday
+Torrington,2,Hollocombe,Old Church,12:25,12:45,12/01/2017,4,Thursday
+Torrington,2,Wembworthy,Church,14:00,14:20,12/01/2017,4,Thursday
+Torrington,2,Coldridge,Square,14:45,15:30,12/01/2017,4,Thursday
+Torrington,2,Chawleigh,Telephone Kiosk,15:50,16:30,12/01/2017,4,Thursday
+Torrington,2,Meeth,Bull & Dragon,09:45,10:15,13/01/2017,4,Friday
+Torrington,2,Hatherleigh,Glascott Close,10:30,11:00,13/01/2017,4,Friday
+Torrington,2,Kingsmoor,Kingsmoor,11:15,11:35,13/01/2017,4,Friday
+Torrington,2,Bickford Arms,Bickford Arms,11:45,12:05,13/01/2017,4,Friday
+Torrington,2,Cookbury,Church,12:40,13:25,13/01/2017,4,Friday
+Torrington,2,Bradford,Village Hall,13:40,14:00,13/01/2017,4,Friday
+Torrington,2,North Tawton,Square,10:00,12:00,14/01/2017,4,Saturday
+Torrington,3,Instow,Commodore Hotel,09:15,10:15,16/01/2017,4,Monday
+Torrington,3,Yelland,Ballards,10:25,10:45,16/01/2017,4,Monday
+Torrington,3,Yelland,Littlemoor Close,10:55,11:25,16/01/2017,4,Monday
+Torrington,3,Yelland,Allenstyle,11:30,12:00,16/01/2017,4,Monday
+Torrington,3,Fremington,Taw View,12:10,12:55,16/01/2017,4,Monday
+Torrington,3,Fremington,Church Hall,13:30,14:30,16/01/2017,4,Monday
+Torrington,3,Barnstaple,Rose Lane Community Centre,14:45,15:15,16/01/2017,4,Monday
+Torrington,3,Lovacott,Garage,15:30,16:00,16/01/2017,4,Monday
+Torrington,3,Bickington,Babbages,09:45,10:15,17/01/2017,4,Tuesday
+Torrington,3,Bickington,Mead Park,10:20,10:50,17/01/2017,4,Tuesday
+Torrington,3,Bickington,Ellerslie Road,10:55,11:30,17/01/2017,4,Tuesday
+Torrington,3,Sticklepath,Manor Park,11:35,12:05,17/01/2017,4,Tuesday
+Torrington,3,Sticklepath,Elizabeth Drive,12:15,12:45,17/01/2017,4,Tuesday
+Torrington,3,Roundswell,The Laurels,13:30,14:00,17/01/2017,4,Tuesday
+Torrington,3,Barnstaple,Chichester Road,14:15,15:15,17/01/2017,4,Tuesday
+Torrington,3,Tawstock,Village,15:30,16:00,17/01/2017,4,Tuesday
+Torrington,3,Littleham,Littleham,09:35,10:10,18/01/2017,4,Wednesday
+Torrington,3,Woodtown,Woodtown,10:15,11:00,18/01/2017,4,Wednesday
+Torrington,3,Parkham,Church,11:15,12:00,18/01/2017,4,Wednesday
+Torrington,3,Buckland Brewer,Village,12:15,13:00,18/01/2017,4,Wednesday
+Torrington,3,Monkleigh,Village Hall,13:45,14:30,18/01/2017,4,Wednesday
+Torrington,3,Newton St Petrock,Church,14:45,15:25,18/01/2017,4,Wednesday
+Torrington,3,Stibb Cross,Union Inn,15:35,16:35,18/01/2017,4,Wednesday
+Torrington,3,Weare Giffard,Village Hall,09:30,10:30,19/01/2017,4,Thursday
+Torrington,3,Grinnacombe Moor,Grinnacombe Moor,11:35,12:05,19/01/2017,4,Thursday
+Torrington,3,Virginstowe,Church,12:20,12:40,19/01/2017,4,Thursday
+Torrington,3,St-Giles-on-the-Heath,Village,13:20,14:05,19/01/2017,4,Thursday
+Torrington,3,Ashwater,Pub,14:20,14:50,19/01/2017,4,Thursday
+Torrington,4,Clapworthy Mill,Hancocks,09:55,10:15,24/01/2017,4,Tuesday
+Torrington,4,Clapworthy Mill,Broden Hill,10:20,10:40,24/01/2017,4,Tuesday
+Torrington,4,George Nympton,Village Hall,10:50,11:1,24/01/2017,4,Tuesday
+Torrington,4,Romansleigh,Old Smithy,11:30,11:50,24/01/2017,4,Tuesday
+Torrington,4,Kings Nympton,Square,12:05,12:35,24/01/2017,4,Tuesday
+Torrington,4,Chittlehamholt,Village Hall,13:20,13:50,24/01/2017,4,Tuesday
+Torrington,4,Chittlehampton,Square,14:05,14:50,24/01/2017,4,Tuesday
+Torrington,4,Atherington,Church Gate,15:05,15:35,24/01/2017,4,Tuesday
+Torrington,4,High Bickington,Wardens Close,15:45,16:05,24/01/2017,4,Tuesday
+Torrington,4,High Bickington,Cross Park,16:10,16:40,24/01/2017,4,Tuesday
+Torrington,4,Westward Ho!,Link House,09:45,10:30,25/01/2017,4,Wednesday
+Torrington,4,Abbotsham,School,10:40,11:00,25/01/2017,4,Wednesday
+Torrington,4,Abbotsham,Church,11:05,11:30,25/01/2017,4,Wednesday
+Torrington,4,Ford,Toms Lane,11:45,12:05,25/01/2017,4,Wednesday
+Torrington,4,Portledge,Bus Stop,12:10,12:30,25/01/2017,4,Wednesday
+Torrington,4,Bucks Cross,Woolsery Road,13:20,13:50,25/01/2017,4,Wednesday
+Torrington,4,Woolsery,East Park,14:00,14:30,25/01/2017,4,Wednesday
+Torrington,4,Woolsery,Manor Park,14:40,15:45,25/01/2017,4,Wednesday
+Torrington,4,Little Torrington,Village Hall,09:30,09:50,26/01/2017,4,Thursday
+Torrington,4,Peters Marland,Church,10:05,10:25,26/01/2017,4,Thursday
+Torrington,4,Langtree,School/Village Hall,10:40,11:15,26/01/2017,4,Thursday
+Torrington,4,West Heanton,Residential Home,11:35,12:00,26/01/2017,4,Thursday
+Torrington,4,Buckland Filleigh,Village Hall,12:10,12:30,26/01/2017,4,Thursday
+Torrington,4,Shebbear,Square,13:15,14:45,26/01/2017,4,Thursday
+Torrington,4,Shebbear,Village Hall,14:55,15:35,26/01/2017,4,Thursday
+Torrington,4,North Tawton,Square,09:45,11:15,27/01/2017,4,Friday
+Torrington,4,Winkleigh,Square,11:35,12:35,27/01/2017,4,Friday
+Torrington,4,Winkleigh,Four Seasons Village,12:45,13:05,27/01/2017,4,Friday
+Torrington,4,Bondleigh,Old School,13:55,14:15,27/01/2017,4,Friday
+Torrington,4,Broadwoodkelly,Telephone Kiosk,14:30,14:50,27/01/2017,4,Friday
+Torrington,4,Iddesleigh,Duke of York,15:15,15:35,27/01/2017,4,Friday
+Torrington,4,Dolton,Ram’s Head Inn,15:50,16:10,27/01/2017,4,Friday
+Torrington,4,Hatherleigh,Community Centre,10:00,12:00,28/01/2017,4,Saturday
