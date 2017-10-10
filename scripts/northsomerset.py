@@ -27,8 +27,8 @@ def run():
             end = row[6].strip()
             date = datetime.strptime(row[7].strip(), '%d %b %Y')
             timetable = 'http://www.n-somerset.gov.uk/wp-content/uploads/2015/12/mobile-library-timetable-October-2017-March-2018.pdf'
-            easting = row[8].strip()
-            northing = row[9].strip()
+            easting = float(row[8].strip())
+            northing = float(row[9].strip())
             point = geopandas.GeoSeries([Point(easting, northing)])
             point.crs = {'init' :'epsg:27700'}
             point = point.to_crs({'init': 'epsg:4326'})
