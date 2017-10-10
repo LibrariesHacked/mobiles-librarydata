@@ -3,39 +3,38 @@ A,Wrington,Broad Street,2,Monday,10:00,11:00,2 Oct 2017,346868.9252,162820.4224
 A,Claverham,Chestnut Drive,2,Monday,11:15,11:45,2 Oct 2017,344624.2238,166220.2192
 A,Cleeve,Woodview,2,Monday,11:50,12:20,2 Oct 2017,345489.7903,165672.596
 A,Backwell,Rodney Road Car Park,2,Monday,14:00,15:00,2 Oct 2017,348489.5827,168485.4708
-A,Backwell,Leisure Centre Car Park,weekly,Monday,15:05,16:05,2 Oct 2017,348857.5597,168765.8305
+A,Backwell,Leisure Centre Car Park,2,Monday,15:05,16:05,2 Oct 2017,348857.5597,168765.8305
 B,Langford,Old Post Office,2,Tuesday,10:00,11:00,3 Oct 2017,346378.0802,160681.8845
 B,Burrington,The Square,2,Tuesday,11:10,11:55,3 Oct 2017,347927.8961,159363.352
 B,Rickford,Waterfall,2,Tuesday,12:00,12:30,3 Oct 2017,348707.3759,159261.851
 B,Blagdon,Village Club Car Park,2,Tuesday,13:35,14:35,3 Oct 2017,350073.7557,159141.1656
 B,Blagdon,Junction Eastcroft/Score Lane,2,Tuesday,14:40,15:40,3 Oct 2017,350458.998,158564.5606
 B,Churchill,Doctor's Surgery Car Park,2,Tuesday,16:00,16:45,3 Oct 2017,345180.9138,160520.3108
-C,Lulsgate ,Coombe Dale ,fortnightly ,Wednesday ,10.10,10.35 ,08 Feb 2017,351063.3197,165709.1855
-C,Felton ,George and Dragon ,fortnightly ,Wednesday ,10.40,11.10 ,08 Feb 2017,352161.1001,165521.7292
-C,Regil ,Regil Green ,fortnightly ,Wednesday ,11.25,11.55 ,08 Feb 2017,353925.1474,162549.0201
-C,Butcombe ,The Batch Crossroads ,fortnightly ,Wednesday ,13.15,13.45 ,08 Feb 2017,351446.344,161683.008
-C,Wrington ,Broad Street ,weekly ,Wednesday ,14.00,16.30 ,31 Jan 2017,346868.9252,162820.4224
-D,Hutton,Holm Road,fortnightly,Thursday,11.40,13.10,09 Feb 2017,335070.2015,158986.7998
-D,Banwell,Car Park,weekly,Thursday,14.30,16.30,02 Feb 2017,339704.3052,159225.2915
-E,Bleadon,Church,fortnightly,Friday,10.45,12.45,27 Jan 2017,334105.1089,156918.5818
-E,Weston,Coronation Estate (Loxton Road shops),fortnightly,Friday,13.55,14.50,27 Jan 2017,332686.1009,159032.0968
-E,Weston,"Aller Parade, Oldmixon",fortnightly,Friday,14.55,16.30,27 Jan 2017,333551.1315,158687.5554
-F,Wrington ,Broad Street ,weekly ,Monday ,10.00,11.00 ,30 Jan 2017,346868.9252,162820.4224
-F,Tickenham ,Village Hall ,fortnightly ,Monday ,11.35,12.00,30 Jan 2017,345232.9897,171853.0368
-F,Failand ,Woodland Way ,fortnightly ,Monday ,12.15,12.40,30 Jan 2017,351919.3302,171538.147
-F,Backwell,Rodney Road Car Park,weekly,Monday,14:00,15:00,30 Jan 2017,348489.5827,168485.4708
-F,Backwell,Leisure Centre Car Park,weekly,Monday,15:05,16:05,30 Jan 2017,348857.5597,168765.8305
-G,Kingston Seymour ,Village Hall ,fortnightly ,Tuesday ,09.45,10.55 ,31 Jan 2017,340057.9771,166902.344
-G,Redcliffe Bay ,Pembroke Road ,fortnightly ,Tuesday ,11.20,12.05 ,31 Jan 2017,344055.8753,175524.3559
-G,Leigh Woods ,Vicarage Road ,fortnightly ,Tuesday ,13.30,14.00 ,31 Jan 2017,355895.0904,172902.4165
-G,Abbots Leigh ,Church Road (by village hall),fortnightly ,Tuesday ,14.10,15.10 ,31 Jan 2017,354447.2,173983.8969
-G,Portbury ,Priory Estate ,fortnightly ,Tuesday ,15.20,16.20 ,31 Jan 2017,349849.1025,175434.6016
-H,Redhill,Village Hall,fortnightly,Wednesday,13:25,13:55,01 Feb 2017,349708.8458,163265.9749
-H,Wrington ,Broad Street ,weekly ,Wednesday ,14.00,16.30 ,31 Jan 2017,346868.9252,162820.4224
-H,Winford,Bus stop,fortnightly,Wednesday,16.55,17.55,01 Feb 2017,353954.607,165172.799
-I,Locking,Meadow Drive,fortnightly,Thursday,11.50,13.20,02 Feb 2017,336539.1416,159823.3903
-I,Banwell,Car Park,weekly,Thursday,14.30,16.30,02 Feb 2017,339704.3052,159225.2915
-J,Kewstoke/Sand Bay,Kewstoke Village Hall,fortnightly,Friday,10.30,10.55,03 Feb 2017,333225.8803,163614.865
-J,Wick St Lawrence,Church,fortnightly,Friday,11.10,11.35,03 Feb 2017,336647.1025,165419.6984
-J,Weston,Clarence Park,fortnightly,Friday,12.00,13.00,03 Feb 2017,331908.0475,160141.4992
-J,Weston,Uphill Way Car Park,fortnightly,Friday,14.15,16.15,03 Feb 2017,331637.4775,158477.8254
+C,Lulsgate,Coombe Dale,2,Wednesday,10:10,10:35,4 Oct 2017,351063.3197,165709.1855
+C,Felton,George and Dragon,2,Wednesday,10:40,11:10,4 Oct 2017,352161.1001,165521.7292
+C,Regil,Regil Green,2,Wednesday,11:25,11:55,4 Oct 2017,353925.1474,162549.0201
+C,Butcombe,The Batch Crossroads,2,Wednesday,13:15,13:45,4 Oct 2017,351446.344,161683.008
+C,Wrington,Broad Street,2,Wednesday,14:00,16:30,4 Oct 2017,346868.9252,162820.4224
+D,Banwell,Car Park,2,Thursday,14:30,16:30,5 Oct 2017,339704.3052,159225.2915
+E,Bleadon,Church,2,Friday,10:45,12:45,6 Oct 2017,334105.1089,156918.5818
+E,Weston,Coronation Estate (Loxton Road shops),2,Friday,13:55,14:50,6 Oct 2017,332686.1009,159032.0968
+E,Hutton,Holm Road,2,Friday,15:40,16:30,6 Oct 2017,335070.2015,158986.7998
+F,Wrington,Broad Street,2,Monday,10:00,11:00,9 Oct 2017,346868.9252,162820.4224
+F,Tickenham,Village Hall,2,Monday,11:35,12:00,9 Oct 2017,345232.9897,171853.0368
+F,Failand,Woodland Way,2,Monday,12.15,12.40,9 Oct 2017,351919.3302,171538.147
+F,Backwell,Rodney Road Car Park,2,Monday,14:00,15:00,9 Oct 2017,348489.5827,168485.4708
+F,Backwell,Leisure Centre Car Park,2,Monday,15:05,16:05,9 Oct 2017,348857.5597,168765.8305
+G,Kingston Seymour,Village Hall,2,Tuesday,09:45,10:55,10 Oct 2017,340057.9771,166902.344
+G,Redcliffe Bay,Pembroke Road,2,Tuesday,11:20,12:05,10 Oct 2017,344055.8753,175524.3559
+G,Leigh Woods,Vicarage Road,2,Tuesday,13:30,14:00,10 Oct 2017,355895.0904,172902.4165
+G,Abbots Leigh,Church Road (by village hall),2,Tuesday,14:10,15:10,10 Oct 2017,354447.2,173983.8969
+G,Portbury,Priory Estate,2,Tuesday,15:20,16:20,10 Oct 2017,349849.1025,175434.6016
+H,Redhill,Village Hall,2,Wednesday,13:25,13:55,11 Oct 2017,349708.8458,163265.9749
+H,Wrington,Broad Street,2,Wednesday,14:00,16:30,11 Oct 2017,346868.9252,162820.4224
+H,Winford,Bus stop,2,Wednesday,16:55,17:55,11 Oct 2017,353954.607,165172.799
+I,Locking,Meadow Drive,2,Thursday,11:50,13:20,12 Oct 2017,336539.1416,159823.3903
+I,Banwell,Car Park,2,Thursday,14:30,16:30,12 Oct 2017,339704.3052,159225.2915
+J,Kewstoke/Sand Bay,Kewstoke Village Hall,2,Friday,10:30,10:55,13 Oct 2017,333225.8803,163614.865
+J,Wick St Lawrence,Church,2,Friday,11:10,11:35,13 Oct 2017,336647.1025,165419.6984
+J,Weston,Clarence Park,2,Friday,12:00,13:00,13 Oct 2017,331908.0475,160141.4992
+J,Weston,Uphill Way Car Park,2,Friday,14:15,16:15,13 Oct 2017,331637.4775,158477.8254
