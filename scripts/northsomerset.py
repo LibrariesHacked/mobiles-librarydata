@@ -17,18 +17,19 @@ def run():
         mobreader = csv.reader(northsom_raw, delimiter=',', quotechar='"')
         next(mobreader, None)  # skip the headers
         for row in mobreader:
-            com = row[0].strip()
-            stop = row[1].strip()
-            frequency = row[2].strip().replace('weekly', '1').replace('fortnightly', '2')
-            day = row[3].strip()
-            time = row[4].strip()
-            start = time.split('-')[0].replace('.', ':').strip()
-            end = time.split('-')[1].replace('.', ':').strip()
-            date = datetime.strptime(row[5].strip(), '%d %b %Y')
-            timetable = row[6].strip()
-            east = row[7].strip()
-            north = row[8].strip()
-            addr = stop + ', ' + com
+            mobile = 'North Somerset'
+            route = row[0].strip()
+            community = row[1].strip()
+            stop = row[2].strip()
+            frequency = row[3].strip()
+            day = row[4].strip()
+            start = row[5].strip()
+            end = row[6].strip()
+            date = datetime.strptime(row[7].strip(), '%d %b %Y')
+            timetable = 'http://www.n-somerset.gov.uk/wp-content/uploads/2015/12/mobile-library-timetable-October-2017-March-2018.pdf'
+            easting = row[8].strip()
+            northing = row[9].strip()
+            address = stop + ', ' + community
             date_output = date.strftime('%Y-%m-%d')
 
             # We don't have a route number but need a way of grouping together stops
@@ -39,13 +40,13 @@ def run():
             route = routes[day + ' ' + date_output]
 
             mobiles.append(
-                [route, com, stop, addr, east, north, date_output,
+                [mobile, route, community, stop, address, easting, northing, date_output,
                  day, frequency, start, end, timetable])
 
     with open(DATA_OUTPUT, 'w', encoding='utf8', newline='') as out_csv:
         mob_writer = csv.writer(out_csv, delimiter=',', quotechar='"', quoting=csv.QUOTE_MINIMAL)
         mob_writer.writerow(
-            ['Route', 'Stop', 'Community', 'Address', 'Easting', 'Northing',
+            ['Mobile', 'Route', 'Stop', 'Community', 'Address', 'Easting', 'Northing',
              'Date', 'Day', 'Frequency', 'Start', 'End', 'Timetable'])
         for sto in mobiles:
             mob_writer.writerow(
