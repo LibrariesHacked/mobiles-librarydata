@@ -1,0 +1,61 @@
+Mobile,Route,Stop,Start,End,Day,Date,Frequency,Timetable
+Elizabeth,A,Staney Hill,9:00,9:25,Monday,16 Oct 2017,3,http://www.shetland-library.gov.uk/ElizabethsSchedule.asp
+Elizabeth,A,Eastshore,9:30,9:55,Monday,16 Oct 2017,3,http://www.shetland-library.gov.uk/ElizabethsSchedule.asp
+Elizabeth,A,Exnaboe,10:00,10:25,Monday,16 Oct 2017,3,http://www.shetland-library.gov.uk/ElizabethsSchedule.asp
+Elizabeth,A,Hestingott,10:30,10:55,Monday,16 Oct 2017,3,http://www.shetland-library.gov.uk/ElizabethsSchedule.asp
+Elizabeth,A,Toab,11:00,11:25,Monday,16 Oct 2017,3,http://www.shetland-library.gov.uk/ElizabethsSchedule.asp
+Elizabeth,A,Boddam,11:30,11:55,Monday,16 Oct 2017,3,http://www.shetland-library.gov.uk/ElizabethsSchedule.asp
+Elizabeth,A,Quendale,14:00,14:25,Monday,16 Oct 2017,3,http://www.shetland-library.gov.uk/ElizabethsSchedule.asp
+Elizabeth,A,Noss,14:30,14:55,Monday,16 Oct 2017,3,http://www.shetland-library.gov.uk/ElizabethsSchedule.asp
+Elizabeth,A,Scousburgh,15:00,15:25,Monday,16 Oct 2017,3,http://www.shetland-library.gov.uk/ElizabethsSchedule.asp
+Elizabeth,A,Bigton15:30,15:35,Monday,16 Oct 2017,3,http://www.shetland-library.gov.uk/ElizabethsSchedule.asp
+Elizabeth,B,Staney Hill,9:00,9:55,Monday,23 Oct 2017,3,http://www.shetland-library.gov.uk/ElizabethsSchedule.asp
+Elizabeth,B,Twatt,10:00,10:55,Monday,23 Oct 2017,3,http://www.shetland-library.gov.uk/ElizabethsSchedule.asp
+Elizabeth,B,Clousta,11:00,11:55,Monday,23 Oct 2017,3,http://www.shetland-library.gov.uk/ElizabethsSchedule.asp
+Elizabeth,B,Vementry,13:00,13:55,Monday,23 Oct 2017,3,http://www.shetland-library.gov.uk/ElizabethsSchedule.asp
+Elizabeth,B,Aith,14:00,14:55,Monday,23 Oct 2017,3,http://www.shetland-library.gov.uk/ElizabethsSchedule.asp
+Elizabeth,B,East Burrafirth,15:00,15:55,Monday,23 Oct 2017,3,http://www.shetland-library.gov.uk/ElizabethsSchedule.asp
+Elizabeth,B,West Burrafirth,16:00,16:55,Monday,23 Oct 2017,3,http://www.shetland-library.gov.uk/ElizabethsSchedule.asp
+Elizabeth,C,Gulberwick,9:00,9:25,Tuesday,24 Oct 2017,3,http://www.shetland-library.gov.uk/ElizabethsSchedule.asp
+Elizabeth,C,Quarff,9:30,9:55,Tuesday,24 Oct 2017,3,http://www.shetland-library.gov.uk/ElizabethsSchedule.asp
+Elizabeth,C,Fladdabister,10:00,10:25,Tuesday,24 Oct 2017,3,http://www.shetland-library.gov.uk/ElizabethsSchedule.asp
+Elizabeth,C,Aithsetter,10:30,10:55,Tuesday,24 Oct 2017,3,http://www.shetland-library.gov.uk/ElizabethsSchedule.asp
+Elizabeth,C,Cunningsburgh,11:00,11:25,Tuesday,24 Oct 2017,3,http://www.shetland-library.gov.uk/ElizabethsSchedule.asp
+Elizabeth,C,Sandwick,11:30,11:55,Tuesday,24 Oct 2017,3,http://www.shetland-library.gov.uk/ElizabethsSchedule.asp
+Elizabeth,C,Levenwick,14:00,14:25,Tuesday,24 Oct 2017,3,http://www.shetland-library.gov.uk/ElizabethsSchedule.asp
+Elizabeth,C,Clumlie,14:30,14:55,Tuesday,24 Oct 2017,3,http://www.shetland-library.gov.uk/ElizabethsSchedule.asp
+Elizabeth,C,Dalsetter,15:00,15:25,Tuesday,24 Oct 2017,3,http://www.shetland-library.gov.uk/ElizabethsSchedule.asp
+Elizabeth,D,Staney Hill,9:00,9:55,Monday,30 Oct 2017,3,http://www.shetland-library.gov.uk/ElizabethsSchedule.asp
+Elizabeth,D,Walls,10:00,10:55,Monday,30 Oct 2017,3,http://www.shetland-library.gov.uk/ElizabethsSchedule.asp
+Elizabeth,D,Sandness,11:00,11:55,Monday,30 Oct 2017,3,http://www.shetland-library.gov.uk/ElizabethsSchedule.asp
+Elizabeth,D,Weisdale,14:00,14:55,Monday,30 Oct 2017,3,http://www.shetland-library.gov.uk/ElizabethsSchedule.asp
+Elizabeth,D,Whiteness,15:00,15:55,Monday,30 Oct 2017,3,http://www.shetland-library.gov.uk/ElizabethsSchedule.asp
+Elizabeth,E,Trondra,9:00,9:55,Tuesday,31 Oct 2017,3,http://www.shetland-library.gov.uk/ElizabethsSchedule.asp
+Elizabeth,E,Burra,10:00,10:55,Tuesday,31 Oct 2017,3,http://www.shetland-library.gov.uk/ElizabethsSchedule.asp
+Elizabeth,E,East Voe,11:00,11:55,Tuesday,31 Oct 2017,3,http://www.shetland-library.gov.uk/ElizabethsSchedule.asp
+Elizabeth,E,Scalloway,13:00,13:55,Tuesday,31 Oct 2017,3,http://www.shetland-library.gov.uk/ElizabethsSchedule.asp
+Elizabeth,E,Astra,14:00,14:55,Tuesday,31 Oct 2017,3,http://www.shetland-library.gov.uk/ElizabethsSchedule.asp
+Elizabeth,E,Tingwall,15:00,15:55,Tuesday,31 Oct 2017,3,http://www.shetland-library.gov.uk/ElizabethsSchedule.asp
+Annette,F,Urafirth,9:00,9:55,Monday,9 Oct 2017,3,http://www.shetland-library.gov.uk/ElizabethsSchedule.asp
+Annette,F,Hillswick,10:00,10:55,Monday,9 Oct 2017,3,http://www.shetland-library.gov.uk/ElizabethsSchedule.asp
+Annette,F,Eshaness,11:00,11:55,Monday,9 Oct 2017,3,http://www.shetland-library.gov.uk/ElizabethsSchedule.asp
+Annette,F,Heylor,13:00,13:55,Monday,9 Oct 2017,3,http://www.shetland-library.gov.uk/ElizabethsSchedule.asp
+Annette,F,Swinister,14:00,14:55,Monday,9 Oct 2017,3,http://www.shetland-library.gov.uk/ElizabethsSchedule.asp
+Annette,F,Sullom,15:00,15:55,Monday,9 Oct 2017,3,http://www.shetland-library.gov.uk/ElizabethsSchedule.asp
+Annette,G,Whalsay,9:00,16:00,Wednesday,11 Oct 2017,3,http://www.shetland-library.gov.uk/ElizabethsSchedule.asp
+Annette,H,Unst,9:00,16:00,Tuesday,17 Oct 2017,3,http://www.shetland-library.gov.uk/ElizabethsSchedule.asp
+Annette,I,Fetlar,9:00,16:00,Friday,20 Oct 2017,3,http://www.shetland-library.gov.uk/ElizabethsSchedule.asp
+Annette,J,Cullivoe,9:00,9:55,Monday,23 Oct 2017,3,http://www.shetland-library.gov.uk/ElizabethsSchedule.asp
+Annette,J,West Yell,10:00,10:55,Monday,23 Oct 2017,3,http://www.shetland-library.gov.uk/ElizabethsSchedule.asp
+Annette,J,Herra,11:00,11:55,Monday,23 Oct 2017,3,http://www.shetland-library.gov.uk/ElizabethsSchedule.asp
+Annette,J,Camb,14:00,14:55,Monday,23 Oct 2017,3,http://www.shetland-library.gov.uk/ElizabethsSchedule.asp
+Annette,J,Sellafirth,15:00,15:55,Monday,23 Oct 2017,3,http://www.shetland-library.gov.uk/ElizabethsSchedule.asp
+Annette,K,Muckle Roe,9:00,11:00,Tuesday,24 Oct 2017,3,http://www.shetland-library.gov.uk/ElizabethsSchedule.asp
+Annette,K,Mossbank,13:00,14:00,Tuesday,24 Oct 2017,3,http://www.shetland-library.gov.uk/ElizabethsSchedule.asp
+Annette,K,Voe,15:00,17:00,Tuesday,24 Oct 2017,3,http://www.shetland-library.gov.uk/ElizabethsSchedule.asp
+Annette,L,North Roe,9:00,11:00,Monday,30 Oct 2017,3,http://www.shetland-library.gov.uk/ElizabethsSchedule.asp
+Annette,L,Ollaberry,14:00,15:00,Monday,30 Oct 2017,3,http://www.shetland-library.gov.uk/ElizabethsSchedule.asp
+Annette,L,Sullom,15:30,17:00,Monday,30 Oct 2017,3,http://www.shetland-library.gov.uk/ElizabethsSchedule.asp
+Annette,M,Mid Yell,9:00,11:00,Tuesday,31 Oct 2017,3,http://www.shetland-library.gov.uk/ElizabethsSchedule.asp
+Annette,M,East Yell,14:00,15:30,Tuesday,31 Oct 2017,3,http://www.shetland-library.gov.uk/ElizabethsSchedule.asp
+Annette,M,Burravoe,16:00,17:00,Tuesday,31 Oct 2017,3,http://www.shetland-library.gov.uk/ElizabethsSchedule.asp
