@@ -4,7 +4,7 @@ import csv
 from datetime import datetime
 from string import ascii_uppercase
 
-DATA_SOURCE = '../data/devon_raw.csv'
+DATA_SOURCE = '../data/raw/devon_raw.csv'
 DATA_OUTPUT = '../data/devon.csv'
 
 def run():

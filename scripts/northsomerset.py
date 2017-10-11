@@ -5,7 +5,7 @@ import geopandas
 from datetime import datetime
 from shapely.geometry import Point
 
-DATA_SOURCE = '../data/northsomerset_raw.csv'
+DATA_SOURCE = '../data/raw/northsomerset_raw.csv'
 DATA_OUTPUT = '../data/northsomerset.csv'
 
 def run():

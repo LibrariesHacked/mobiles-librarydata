@@ -71,6 +71,6 @@ def run():
         frame = pd.DataFrame(data=auth_geodata)
         geo_df = geopandas.GeoDataFrame(frame, crs={'init': 'epsg:4326'}, geometry='geo')
         # Output the route as a GeoJSON format file
-        geo_df.to_file('../data/' + authname + '_Routes.geojson', driver="GeoJSON")
+        geo_df.to_file('../data/routes/' + authname + '_Routes.geojson', driver="GeoJSON")
 
 run()
