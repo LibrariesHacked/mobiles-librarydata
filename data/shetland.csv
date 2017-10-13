@@ -1,0 +1,61 @@
+Mobile,Route,Community,Stop,Address,Longitude,Latitude,Date,Day,Frequency,Start,End,Timetable
+Elizabeth,A,Staney Hill,Staney Hill,"Staney Hill, Shetland",-1.18259692759183,60.1602443997269,2017-10-16,Monday,3,09:00,09:25,http://www.shetland-library.gov.uk/ElizabethsSchedule.asp
+Elizabeth,A,Eastshore,Eastshore,"Eastshore, Shetland",-1.29419276978969,59.8906088455779,2017-10-16,Monday,3,09:30,09:55,http://www.shetland-library.gov.uk/ElizabethsSchedule.asp
+Elizabeth,A,Exnaboe,Exnaboe,"Exnaboe, Shetland",-1.29419276978969,59.8906088455779,2017-10-16,Monday,3,10:00,10:25,http://www.shetland-library.gov.uk/ElizabethsSchedule.asp
+Elizabeth,A,Hestingott,Hestingott,"Hestingott, Shetland",-1.31089952435577,59.8923943651175,2017-10-16,Monday,3,10:30,10:55,http://www.shetland-library.gov.uk/ElizabethsSchedule.asp
+Elizabeth,A,Toab,Toab,"Toab, Shetland",-1.30691370168467,59.8864200796084,2017-10-16,Monday,3,11:00,11:25,http://www.shetland-library.gov.uk/ElizabethsSchedule.asp
+Elizabeth,A,Boddam,Boddam,"Boddam, Shetland",-1.29398566984817,59.9222782872588,2017-10-16,Monday,3,11:30,11:55,http://www.shetland-library.gov.uk/ElizabethsSchedule.asp
+Elizabeth,A,Quendale,Quendale,"Quendale, Shetland",-1.33343307127647,59.9111874492702,2017-10-16,Monday,3,14:00,14:25,http://www.shetland-library.gov.uk/ElizabethsSchedule.asp
+Elizabeth,A,Noss,Noss,"Noss, Shetland",-1.14341821679569,60.1551661101747,2017-10-16,Monday,3,14:30,14:55,http://www.shetland-library.gov.uk/ElizabethsSchedule.asp
+Elizabeth,A,Scousburgh,Scousburgh,"Scousburgh, Shetland",-1.32761226186741,59.9390838371481,2017-10-16,Monday,3,15:00,15:25,http://www.shetland-library.gov.uk/ElizabethsSchedule.asp
+Elizabeth,A,Bigton,Bigton,"Bigton, Shetland",-1.32098469957599,59.9761616068198,2017-10-16,Monday,3,15:30,15:35,http://www.shetland-library.gov.uk/ElizabethsSchedule.asp
+Elizabeth,B,Staney Hill,Staney Hill,"Staney Hill, Shetland",-1.18259692759183,60.1602443997269,2017-10-23,Monday,3,09:00,09:55,http://www.shetland-library.gov.uk/ElizabethsSchedule.asp
+Elizabeth,B,Twatt,Twatt,"Twatt, Shetland",-1.42511689128053,60.2885339348818,2017-10-23,Monday,3,10:00,10:55,http://www.shetland-library.gov.uk/ElizabethsSchedule.asp
+Elizabeth,B,Clousta,Clousta,"Clousta, Shetland",-1.3748522475611,60.2830363821442,2017-10-23,Monday,3,11:00,11:55,http://www.shetland-library.gov.uk/ElizabethsSchedule.asp
+Elizabeth,B,Vementry,Vementry,"Vementry, Shetland",-1.38561119675242,60.2994550197629,2017-10-23,Monday,3,13:00,13:55,http://www.shetland-library.gov.uk/ElizabethsSchedule.asp
+Elizabeth,B,Aith,Aith,"Aith, Shetland",-1.38104603287517,60.2834963645251,2017-10-23,Monday,3,14:00,14:55,http://www.shetland-library.gov.uk/ElizabethsSchedule.asp
+Elizabeth,B,East Burrafirth,East Burrafirth,"East Burrafirth, Shetland",-1.36061022930397,60.2993371055162,2017-10-23,Monday,3,15:00,15:55,http://www.shetland-library.gov.uk/ElizabethsSchedule.asp
+Elizabeth,B,West Burrafirth,West Burrafirth,"West Burrafirth, Shetland",-1.52238393777498,60.2971436448085,2017-10-23,Monday,3,16:00,16:55,http://www.shetland-library.gov.uk/ElizabethsSchedule.asp
+Elizabeth,C,Gulberwick,Gulberwick,"Gulberwick, Shetland",-1.20881831093336,60.1284015722859,2017-10-24,Tuesday,3,09:00,09:25,http://www.shetland-library.gov.uk/ElizabethsSchedule.asp
+Elizabeth,C,Quarff,Quarff,"Quarff, Shetland",-1.2274813362701,60.0984941231525,2017-10-24,Tuesday,3,09:30,09:55,http://www.shetland-library.gov.uk/ElizabethsSchedule.asp
+Elizabeth,C,Fladdabister,Fladdabister,"Fladdabister, Shetland",-1.2203533745726,60.0706165212558,2017-10-24,Tuesday,3,10:00,10:25,http://www.shetland-library.gov.uk/ElizabethsSchedule.asp
+Elizabeth,C,Aithsetter,Aithsetter,"Aithsetter, Shetland",-1.21050857072387,60.0525186506678,2017-10-24,Tuesday,3,10:30,10:55,http://www.shetland-library.gov.uk/ElizabethsSchedule.asp
+Elizabeth,C,Cunningsburgh,Cunningsburgh,"Cunningsburgh, Shetland",-1.22752991052773,60.0449149071385,2017-10-24,Tuesday,3,11:00,11:25,http://www.shetland-library.gov.uk/ElizabethsSchedule.asp
+Elizabeth,C,Sandwick,Sandwick,"Sandwick, Shetland",-1.23375845533532,60.0015449166229,2017-10-24,Tuesday,3,11:30,11:55,http://www.shetland-library.gov.uk/ElizabethsSchedule.asp
+Elizabeth,C,Levenwick,Levenwick,"Levenwick, Shetland",-1.27146960483882,59.97191981634,2017-10-24,Tuesday,3,14:00,14:25,http://www.shetland-library.gov.uk/ElizabethsSchedule.asp
+Elizabeth,C,Clumlie,Clumlie,"Clumlie, Shetland",-1.29066248462934,59.9162352494388,2017-10-24,Tuesday,3,14:30,14:55,http://www.shetland-library.gov.uk/ElizabethsSchedule.asp
+Elizabeth,C,Dalsetter,Dalsetter,"Dalsetter, Shetland",-1.05878702068299,60.6670713406191,2017-10-24,Tuesday,3,15:00,15:25,http://www.shetland-library.gov.uk/ElizabethsSchedule.asp
+Elizabeth,D,Staney Hill,Staney Hill,"Staney Hill, Shetland",-1.18259692759183,60.1602443997269,2017-10-30,Monday,3,09:00,09:55,http://www.shetland-library.gov.uk/ElizabethsSchedule.asp
+Elizabeth,D,Walls,Walls,"Walls, Shetland",-1.56451305134104,60.2307287875425,2017-10-30,Monday,3,10:00,10:55,http://www.shetland-library.gov.uk/ElizabethsSchedule.asp
+Elizabeth,D,Sandness,Sandness,"Sandness, Shetland",-1.64798013341447,60.2994031654151,2017-10-30,Monday,3,11:00,11:55,http://www.shetland-library.gov.uk/ElizabethsSchedule.asp
+Elizabeth,D,Weisdale,Weisdale,"Weisdale, Shetland",-1.28827890270234,60.2601624029873,2017-10-30,Monday,3,14:00,14:55,http://www.shetland-library.gov.uk/ElizabethsSchedule.asp
+Elizabeth,D,Whiteness,Whiteness,"Whiteness, Shetland",-1.21325342535042,60.1228069843683,2017-10-30,Monday,3,15:00,15:55,http://www.shetland-library.gov.uk/ElizabethsSchedule.asp
+Elizabeth,E,Trondra,Trondra,"Trondra, Shetland",-1.28710273002917,60.1229647226178,2017-10-31,Tuesday,3,09:00,09:55,http://www.shetland-library.gov.uk/ElizabethsSchedule.asp
+Elizabeth,E,Burra,Burra,"Burra, Shetland",-1.32628998248467,60.0871544640511,2017-10-31,Tuesday,3,10:00,10:55,http://www.shetland-library.gov.uk/ElizabethsSchedule.asp
+Elizabeth,E,East Voe,East Voe,"East Voe, Shetland",-1.26521344068308,60.1402377582098,2017-10-31,Tuesday,3,11:00,11:55,http://www.shetland-library.gov.uk/ElizabethsSchedule.asp
+Elizabeth,E,Scalloway,Scalloway,"Scalloway, Shetland",-1.28231959797732,60.1376826814425,2017-10-31,Tuesday,3,13:00,13:55,http://www.shetland-library.gov.uk/ElizabethsSchedule.asp
+Elizabeth,E,Astra,Astra,"Astra, Shetland",-1.23958463473265,60.1850518222817,2017-10-31,Tuesday,3,14:00,14:55,http://www.shetland-library.gov.uk/ElizabethsSchedule.asp
+Elizabeth,E,Tingwall,Tingwall,"Tingwall, Shetland",-1.2222539971904,60.1943883898814,2017-10-31,Tuesday,3,15:00,15:55,http://www.shetland-library.gov.uk/ElizabethsSchedule.asp
+Annette,F,Urafirth,Urafirth,"Urafirth, Shetland",-1.44914651602114,60.4877377961702,2017-10-09,Monday,3,09:00,09:55,http://www.shetland-library.gov.uk/AnnettesSchedule.asp
+Annette,F,Hillswick,Hillswick,"Hillswick, Shetland",-1.48213666935872,60.4786310018324,2017-10-09,Monday,3,10:00,10:55,http://www.shetland-library.gov.uk/AnnettesSchedule.asp
+Annette,F,Eshaness,Eshaness,"Eshaness, Shetland",-1.57543306247641,60.5001316854243,2017-10-09,Monday,3,11:00,11:55,http://www.shetland-library.gov.uk/AnnettesSchedule.asp
+Annette,F,Heylor,Heylor,"Heylor, Shetland",-1.46543282786729,60.5098462778716,2017-10-09,Monday,3,13:00,13:55,http://www.shetland-library.gov.uk/AnnettesSchedule.asp
+Annette,F,Swinister,Swinister,"Swinister, Shetland",-1.24991114208594,60.0047893791406,2017-10-09,Monday,3,14:00,14:55,http://www.shetland-library.gov.uk/AnnettesSchedule.asp
+Annette,F,Sullom,Sullom,"Sullom, Shetland",-1.35837242324102,60.4365399802275,2017-10-09,Monday,3,15:00,15:55,http://www.shetland-library.gov.uk/AnnettesSchedule.asp
+Annette,G,Whalsay,Whalsay,"Whalsay, Shetland",-1.02246074145371,60.3400122831406,2017-10-11,Wednesday,3,09:00,16:00,http://www.shetland-library.gov.uk/AnnettesSchedule.asp
+Annette,H,Unst,Unst,"Unst, Shetland",-0.83403635868196,60.7688196890109,2017-10-17,Tuesday,3,09:00,16:00,http://www.shetland-library.gov.uk/AnnettesSchedule.asp
+Annette,I,Fetlar,Fetlar,"Fetlar, Shetland",-0.856081043260908,60.5955645026787,2017-10-20,Friday,3,09:00,16:00,http://www.shetland-library.gov.uk/AnnettesSchedule.asp
+Annette,J,Cullivoe,Cullivoe,"Cullivoe, Shetland",-1.01771509233765,60.7154409662122,2017-10-23,Monday,3,09:00,09:55,http://www.shetland-library.gov.uk/AnnettesSchedule.asp
+Annette,J,West Yell,West Yell,"West Yell, Shetland",-1.17891674624756,60.5764592610627,2017-10-23,Monday,3,10:00,10:55,http://www.shetland-library.gov.uk/AnnettesSchedule.asp
+Annette,J,Herra,Herra,"Herra, Shetland",-1.14426170313602,60.6180108107028,2017-10-23,Monday,3,11:00,11:55,http://www.shetland-library.gov.uk/AnnettesSchedule.asp
+Annette,J,Camb,Camb,"Camb, Shetland",-1.0602936403236,60.6103182775661,2017-10-23,Monday,3,14:00,14:55,http://www.shetland-library.gov.uk/AnnettesSchedule.asp
+Annette,J,Sellafirth,Sellafirth,"Sellafirth, Shetland",-1.04801782466836,60.6605754375009,2017-10-23,Monday,3,15:00,15:55,http://www.shetland-library.gov.uk/AnnettesSchedule.asp
+Annette,K,Muckle Roe,Muckle Roe,"Muckle Roe, Shetland",-1.38387523466591,60.3638160208368,2017-10-24,Tuesday,3,09:00,11:00,http://www.shetland-library.gov.uk/AnnettesSchedule.asp
+Annette,K,Mossbank,Mossbank,"Mossbank, Shetland",-1.18090892981674,60.4601427070288,2017-10-24,Tuesday,3,13:00,14:00,http://www.shetland-library.gov.uk/AnnettesSchedule.asp
+Annette,K,Voe,Voe,"Voe, Shetland",-1.26887209223307,60.348436760932,2017-10-24,Tuesday,3,15:00,17:00,http://www.shetland-library.gov.uk/AnnettesSchedule.asp
+Annette,L,North Roe,North Roe,"North Roe, Shetland",-1.33189750886547,60.5871517546154,2017-10-30,Monday,3,09:00,11:00,http://www.shetland-library.gov.uk/AnnettesSchedule.asp
+Annette,L,Ollaberry,Ollaberry,"Ollaberry, Shetland",-1.33457329897439,60.5075791647616,2017-10-30,Monday,3,14:00,15:00,http://www.shetland-library.gov.uk/AnnettesSchedule.asp
+Annette,L,Sullom,Sullom,"Sullom, Shetland",-1.35837242324102,60.4365399802275,2017-10-30,Monday,3,15:30,17:00,http://www.shetland-library.gov.uk/AnnettesSchedule.asp
+Annette,M,Mid Yell,Mid Yell,"Mid Yell, Shetland",-1.06896443635418,60.6010050580978,2017-10-31,Tuesday,3,09:00,11:00,http://www.shetland-library.gov.uk/AnnettesSchedule.asp
+Annette,M,East Yell,East Yell,"East Yell, Shetland",-1.05333768468207,60.5465464335288,2017-10-31,Tuesday,3,14:00,15:30,http://www.shetland-library.gov.uk/AnnettesSchedule.asp
+Annette,M,Burravoe,Burravoe,"Burravoe, Shetland",-1.05451014674927,60.4988408178046,2017-10-31,Tuesday,3,16:00,17:00,http://www.shetland-library.gov.uk/AnnettesSchedule.asp

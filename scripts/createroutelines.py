@@ -7,6 +7,7 @@ import pandas as pd
 import geopandas
 import polyline
 import json
+import time
 from shapely.geometry import Point
 from shapely.geometry import LineString
 
@@ -68,6 +69,8 @@ def run():
                         line_coords.append(coords[::-1])
                     line = LineString(line_coords)
                     auth_geodata.append({'route': route, 'geo':line})
+
+                    time.sleep(10)
         frame = pd.DataFrame(data=auth_geodata)
         geo_df = geopandas.GeoDataFrame(frame, crs={'init': 'epsg:4326'}, geometry='geo')
         # Output the route as a GeoJSON format file

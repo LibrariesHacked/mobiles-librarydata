@@ -1,0 +1,423 @@
+Mobile,Route,Community,Stopping Place,From,To,Day,Date,Frequency
+A,1,Ab Kettleby,School,10.00,10.45,Monday,02-Oct-17,Monthly
+A,1,Wartnaby,Village Centre,10.55,11.10,Monday,02-Oct-17,Monthly
+A,1,Nether Broughton,Blacksmiths Close,11.20,11.40,Monday,02-Oct-17,Monthly
+A,1,Holwell,Old Chapel,11.50,12.00,Monday,02-Oct-17,Monthly
+A,1,Scalford,Village Centre,12.45,13.05,Monday,02-Oct-17,Monthly
+A,1,Long Clawson,The Sands,13.25,13.55,Monday,02-Oct-17,Monthly
+A,1,Hose,Coal Lane,14.05,14.25,Monday,02-Oct-17,Monthly
+A,1,Hose,School,14.30,15.30,Monday,02-Oct-17,Monthly
+A,2,Melton,Springfield Street,9.25,9.35,Wednesday,04-Oct-17,Monthly
+A,2,Asfordby Hill,School,9.45,10.30,Wednesday,04-Oct-17,Monthly
+A,2,Asfordby,Burnaby Place,10.40,11.00,Wednesday,04-Oct-17,Monthly
+A,2,Asfordby,Chadwell Close,11.05,11.25,Wednesday,04-Oct-17,Monthly
+A,2,Asfordby,Bradgate Flats,11.30,12.30,Wednesday,04-Oct-17,Monthly
+A,2,Asfordby,Captains Close School,13.40,14.40,Wednesday,04-Oct-17,Monthly
+A,2,Asfordby,12 Saxelby Road,14.45,15.00,Wednesday,04-Oct-17,Monthly
+A,2,Asfordby Valley,Main Road,15.05,15.15,Wednesday,04-Oct-17,Monthly
+A,3,Saxelby,Bus Stop,9.30,9.45,Thursday,05-Oct-17,Monthly
+A,3,Grimston,Memorial Cross,9.55,10.10,Thursday,05-Oct-17,Monthly
+A,3,Old Dalby,School,10.20,10.35,Thursday,05-Oct-17,Monthly
+A,3,Old Dalby,Main Street,10.40,10.55,Thursday,05-Oct-17,Monthly
+A,3,Old Dalby,Queensway no. 37,11.00,11.30,Thursday,05-Oct-17,Monthly
+A,3,Ragdale,Phone Box,11.50,12.00,Thursday,05-Oct-17,Monthly
+A,3,Hoby,Village Hall,12.10,12.25,Thursday,05-Oct-17,Monthly
+A,3,Thrussington,School,13.45,13.55,Thursday,05-Oct-17,Monthly
+A,3,Ratcliffe,Post Box,14.05,14.15,Thursday,05-Oct-17,Monthly
+A,4,Wymondham,Berkeley Arms,9.40,10.10,Friday,06-Oct-17,Monthly
+A,4,Edmonthorpe,Village Hall,10.25,10.55,Friday,06-Oct-17,Monthly
+A,4,Sewstern,Blue Dog,11.20,11.35,Friday,06-Oct-17,Monthly
+A,4,Buckminster,School,11.40,12.25,Friday,06-Oct-17,Monthly
+A,4,Buckminster,Cow Row,12.30,13.00,Friday,06-Oct-17,Monthly
+A,4,Sproxton,Bus Shelter,13.50,14.20,Friday,06-Oct-17,Monthly
+A,4,Saltby,Nags Head,14.30,14.45,Friday,06-Oct-17,Monthly
+A,4,Stonesby,Village Green,14.55,15.15,Friday,06-Oct-17,Monthly
+A,4,Garthorpe,Phone Box,15.30,15.40,Friday,06-Oct-17,Monthly
+A,4,Freeby,Glen Farm,15.50,16.05,Friday,06-Oct-17,Monthly
+A,4,Wyfordby,Old Rectory,16.10,16.20,Friday,06-Oct-17,Monthly
+A,4,Thorpe Arnold,The Church - Lags Lane,16.30,16.45,Friday,06-Oct-17,Monthly
+A,5,Harston,Old Barn,9.30,9.45,Monday,09-Oct-17,Monthly
+A,5,Knipton,The Council House,9.50,10.05,Monday,09-Oct-17,Monthly
+A,5,Croxton Kerrial,Highfields Crescent,10.15,10.35,Monday,09-Oct-17,Monthly
+A,5,Branston,Church,10.50,11.05,Monday,09-Oct-17,Monthly
+A,5,Eaton,30 Main Street,11.10,11.30,Monday,09-Oct-17,Monthly
+A,5,Waltham,High Street shops,11.50,12.20,Monday,09-Oct-17,Monthly
+A,5,Waltham,School,12.30,13.00,Monday,09-Oct-17,Monthly
+A,5,Harby,Village Hall,14.00,14.45,Monday,09-Oct-17,Monthly
+A,5,Harby,School,14.50,15.25,Monday,09-Oct-17,Monthly
+A,6,Kirby Bellars,Village Hall,9.25,9.45,Wednesday,11-Oct-17,Monthly
+A,6,Gaddesby,Paske Avenue,10.05,10.20,Wednesday,11-Oct-17,Monthly
+A,6,Gaddesby,Village Hall,10.25,10.50,Wednesday,11-Oct-17,Monthly
+A,6,Rearsby,School (Brookside),11.05,11.35,Wednesday,11-Oct-17,Monthly
+A,6,Rearsby,Church Leys Avenue,11.40,11.55,Wednesday,11-Oct-17,Monthly
+A,6,Rotherby,Village Centre,12.10,12.20,Wednesday,11-Oct-17,Monthly
+A,6,Frisby,Hall Orchard Lane,12.30,13.00,Wednesday,11-Oct-17,Monthly
+A,7,Belvoir,The Brewery,9.55,10.10,Thursday,12-Oct-17,Monthly
+A,7,Muston,The Old School,10.25,10.50,Thursday,12-Oct-17,Monthly
+A,7,Easthorpe,Castle View Road,11.00,11.15,Thursday,12-Oct-17,Monthly
+A,7,Redmile,School,11.30,11.50,Thursday,12-Oct-17,Monthly
+A,7,Barkstone,The New Causeway,12.00,12.20,Thursday,12-Oct-17,Monthly
+A,7,Plungar,5 Barkstone Lane,12.25,12.40,Thursday,12-Oct-17,Monthly
+A,7,Stathern,6 Blacksmiths End,13.20,13.50,Thursday,12-Oct-17,Monthly
+A,7,Eastwell,Phone Box,14.00,14.15,Thursday,12-Oct-17,Monthly
+A,7,Goadby Marwood,Main Street nr junction,14.25,14.40,Thursday,12-Oct-17,Monthly
+A,7,Chadwell,Village top,14.50,15.00,Thursday,12-Oct-17,Monthly
+A,7,Wycomb,Wyggeston Cottage,15.05,15.35,Thursday,12-Oct-17,Monthly
+A,8,Burton Lazars,Cross Lane/Pepper Lane,10.00,10.20,Friday,13-Oct-17,Monthly
+A,8,Pickwell,Village Green,10.35,10.55,Friday,13-Oct-17,Monthly
+A,8,Burrough,Stag and Hounds,11.05,11.25,Friday,13-Oct-17,Monthly
+A,8,John O'Gaunt,Village Centre,11.35,11.50,Friday,13-Oct-17,Monthly
+A,8,Twyford,Main Street,12.35,12.50,Friday,13-Oct-17,Monthly
+A,8,Thorpe Satchville,Salters Hill Drive,13.00,13.30,Friday,13-Oct-17,Monthly
+A,8,Ashby Folville,Carrington Arms,13.50,14.05,Friday,13-Oct-17,Monthly
+A,8,Great Dalby,Royal Oak Pub,14.20,14.35,Friday,13-Oct-17,Monthly
+A,9,Wymeswold,Trinity Crescent,9.45,10.05,Monday,16-Oct-17,Monthly
+A,9,Wymeswold,London Lane (Opp Appleton Dr),10.10,10.30,Monday,16-Oct-17,Monthly
+A,9,Wymeswold,Brook Street (next to Post Box),10.35,11.05,Monday,16-Oct-17,Monthly
+A,9,Burton on the Wolds,The Greyhound Pub,11.30,11.50,Monday,16-Oct-17,Monthly
+A,9,Burton on the Wolds,Springfield Close (Outside no.29),11.55,12.10,Monday,16-Oct-17,Monthly
+A,9,Walton on the Wolds,The Green,12.20,12.35,Monday,16-Oct-17,Monthly
+A,9,Seagrave,Green Lane (Opp Green Lane Cl),13.15,13.30,Monday,16-Oct-17,Monthly
+A,9,Willoughby on the Wolds,London Lane (Opp The Forge),14.00,14.15,Monday,16-Oct-17,Monthly
+A,9,Willoughby on the Wolds,Main Street Primary School,14.20,14.35,Monday,16-Oct-17,Monthly
+A,10,Loughborough,"Maxwell Drive, Gorse Covert",10.00,10.30,Wednesday,18-Oct-17,Monthly
+A,10,Loughborough,Watermead Lane,10.50,11.15,Wednesday,18-Oct-17,Monthly
+A,10,Loughborough,Valley Road Shops,11.25,11.50,Wednesday,18-Oct-17,Monthly
+A,10,Loughborough,Woodbrook Road (Layby),11.55,12.40,Wednesday,18-Oct-17,Monthly
+A,10,Loughborough,Holywell Drive (Opp. Shops),12.50,13.10,Wednesday,18-Oct-17,Monthly
+A,10,Loughborough,Rockingham Road,14.00,14.15,Wednesday,18-Oct-17,Monthly
+A,10,Loughborough,Wain Drive,14.20,14.30,Wednesday,18-Oct-17,Monthly
+A,10,Loughborough,Robert Bakewell School,14.45,15.35,Wednesday,18-Oct-17,Monthly
+A,11,Somerby,School,10.00,10.30,Thursday,19-Oct-17,Monthly
+A,11,Somerby,Owston Road,10.35,10.50,Thursday,19-Oct-17,Monthly
+A,11,Knossington,Grange School,11.00,11.10,Thursday,19-Oct-17,Monthly
+A,11,Knossington,Village Hall/Playgroup,11.15,11.30,Thursday,19-Oct-17,Monthly
+A,11,Cold Overton,The Hall,11.45,12.05,Thursday,19-Oct-17,Monthly
+A,11,Owston,Village Hall,12.25,12.40,Thursday,19-Oct-17,Monthly
+A,11,Marefield,Snows Farm,13.25,13.40,Thursday,19-Oct-17,Monthly
+A,11,Lowesby,Telephone Box,13.55,14.05,Thursday,19-Oct-17,Monthly
+A,11,Keyham,7 King Street,14.25,14.35,Thursday,19-Oct-17,Monthly
+A,11,Hungarton,Main Street Post Box,14.45,15.00,Thursday,19-Oct-17,Monthly
+A,12,Rothley,Thurcaston Lane (Cedar House),10.00,10.15,Friday,20-Oct-17,Monthly
+A,12,Cropston,Station Road (Outside no. 153),10.20,10.35,Friday,20-Oct-17,Monthly
+A,12,Cropston,Bradgate Arms Pub,10.40,10.55,Friday,20-Oct-17,Monthly
+A,12,Woodhouse Eaves,Perry Close,11.10,11.30,Friday,20-Oct-17,Monthly
+A,12,Woodhouse Eaves,Windmill Rise,11.35,11.55,Friday,20-Oct-17,Monthly
+A,12,Woodhouse Eaves,Main Street/ Rawlins Close,12.00,12.30,Friday,20-Oct-17,Monthly
+A,12,Woodhouse Eaves,Brand Lane,12.35,12.50,Friday,20-Oct-17,Monthly
+A,12,Woodhouse,Briscoe Lane,13.35,13.50,Friday,20-Oct-17,Monthly
+A,12,Quorn,Sutton Close,14.00,14.20,Friday,20-Oct-17,Monthly
+A,12,Loughborough,Cobden Street School,14.30,15.30,Friday,20-Oct-17,Monthly
+A,13,Loughborough,Althorpe Drive,10.00,10.20,Monday,23-Oct-17,Monthly
+A,13,Loughborough,Buckingham Road/Cothelstone Ave,10.25,10.40,Monday,23-Oct-17,Monthly
+A,13,Loughborough,Windsor Road/Hanover Court,10.45,11.05,Monday,23-Oct-17,Monthly
+A,13,Loughborough,Storer Road,11.25,11.45,Monday,23-Oct-17,Monthly
+A,13,Loughborough,Glebe Street,11.55,12.10,Monday,23-Oct-17,Monthly
+A,13,Loughborough,Belton Road,12.20,12.35,Monday,23-Oct-17,Monthly
+A,13,Loughborough,Windleden Court,13.30,13.50,Monday,23-Oct-17,Monthly
+A,13,Loughborough,Sharpley Road,13.55,14.15,Monday,23-Oct-17,Monthly
+A,13,Loughborough,Ravensthorpe Drive,14.20,14.35,Monday,23-Oct-17,Monthly
+A,13,Loughborough,Stonebow School,14.45,15.30,Monday,23-Oct-17,Monthly
+A,14,Loughborough,Wilton Ave,10.00,10.20,Wednesday,25-Oct-17,Monthly
+A,14,Loughborough,Great Central Road,10.30,11.00,Wednesday,25-Oct-17,Monthly
+A,14,Loughborough,White House Ave,11.10,11.30,Wednesday,25-Oct-17,Monthly
+A,14,Loughborough,Parklands Drive,11.40,12.00,Wednesday,25-Oct-17,Monthly
+A,14,Loughborough,Silverton Road,12.05,12.25,Wednesday,25-Oct-17,Monthly
+A,14,Loughborough,Ledbury Road,13.05,13.30,Wednesday,25-Oct-17,Monthly
+A,14,Loughborough,Jetcott Road,13.35,13.50,Wednesday,25-Oct-17,Monthly
+A,14,Loughborough,Hazel Road,13.55,14.15,Wednesday,25-Oct-17,Monthly
+A,14,Loughborough,Outwoods Edge School,14.20,15.30,Wednesday,25-Oct-17,Monthly
+A,15,Swithland,Main Street,9.40,9.50,Thursday,26-Oct-17,Monthly
+A,15,Thurcaston,Wallis Close,10.00,10.30,Thursday,26-Oct-17,Monthly
+A,15,Thurcaston,Anstey Lane,10.35,10.55,Thursday,26-Oct-17,Monthly
+A,15,Thurcaston,Mill Road,11.00,11.15,Thursday,26-Oct-17,Monthly
+A,15,Newtown Linford,Groby Lane,11.25,11.40,Thursday,26-Oct-17,Monthly
+A,15,Newtown Linford,Village Hall,11.45,12.00,Thursday,26-Oct-17,Monthly
+A,15,Loughborough,Badger Court,13.15,14.00,Thursday,26-Oct-17,Monthly
+A,15,Loughborough,Fielding Court,14.20,14.40,Thursday,26-Oct-17,Monthly
+A,15,Loughborough,Rendell Street School,14.50,15.35,Thursday,26-Oct-17,Monthly
+A,16,Barsby,"The Firs, Main Street",9.45,10.00,Friday,27-Oct-17,Monthly
+A,16,South Croxton,Church,10.05,10.20,Friday,27-Oct-17,Monthly
+A,16,South Croxton,Golden Fleece,10.25,10.40,Friday,27-Oct-17,Monthly
+A,16,Barkby,Pub Main Street,11.05,11.25,Friday,27-Oct-17,Monthly
+A,16,Queniborough,Rearsby Road Village Hall,11.40,12.00,Friday,27-Oct-17,Monthly
+A,16,Queniborough,Ringway,12.05,12.25,Friday,27-Oct-17,Monthly
+A,16,Queniborough,Primrose Way,12.30,12.50,Friday,27-Oct-17,Monthly
+A,16,Queniborough,Laurels Day Nursery,13.40,14.00,Friday,27-Oct-17,Monthly
+A,16,Queniborough,New Zealand Lane,14.05,14.25,Friday,27-Oct-17,Monthly
+A,16,Wanlip,Church Road,14.45,15.00,Friday,27-Oct-17,Monthly
+B,1,Tur Langton,Church,10.00,10.10,Monday,02-Oct-17,Monthly
+B,1,Church Langton,School/Playgroup,10.20,10.45,Monday,02-Oct-17,Monthly
+B,1,West Langton,The Triangle,10.50,11.00,Monday,02-Oct-17,Monthly
+B,1,East Langton,Bell Inn,11.05,11.15,Monday,02-Oct-17,Monthly
+B,1,Thorpe Langton,Bakers Arms,11.20,11.40,Monday,02-Oct-17,Monthly
+B,1,Welham,Main Street,11.50,12.00,Monday,02-Oct-17,Monthly
+B,1,Cranoe,Crossroads,12.05,12.15,Monday,02-Oct-17,Monthly
+B,1,Hallaton,School,12.30,12.45,Monday,02-Oct-17,Monthly
+B,1,Hallaton,Main Street,12.50,13.15,Monday,02-Oct-17,Monthly
+B,1,Sunflower Nursery,Leicester Road,14.15,14.45,Monday,02-Oct-17,Monthly
+B,1,Great Bowden,The Green,14.55,15.05,Monday,02-Oct-17,Monthly
+B,1,Gartree,Welland Avenue,15.15,15.25,Monday,02-Oct-17,Monthly
+B,2,Thorpe Astley,Community Centre,9.30,10.00,Tuesday,03-Oct-17,Monthly
+B,2,Thorpe Astley,Busy bees Nursery,10.05,10.45,Tuesday,03-Oct-17,Monthly
+B,2,Braunstone,19 Hazel Drive,10.55,11.15,Tuesday,03-Oct-17,Monthly
+B,2,Braunstone,23 Cyril Street,11.20,11.40,Tuesday,03-Oct-17,Monthly
+B,2,Thurnby/Bushby,Gilstead Close,12.40,13.10,Tuesday,03-Oct-17,Monthly
+B,2,Thurnby/Bushby,36 Charnwood Drive,13.20,13.40,Tuesday,03-Oct-17,Monthly
+B,2,Scraptoft,Hinks Road,14.20,14.35,Tuesday,03-Oct-17,Monthly
+B,2,Houghton,Deane Gate,14.45,15.00,Tuesday,03-Oct-17,Monthly
+B,2,Houghton,Forsells End,15.05,15.15,Tuesday,03-Oct-17,Monthly
+B,2,Houghton,Weir Lane,15.20,15.40,Tuesday,03-Oct-17,Monthly
+B,2,Houghton,Home Close,15.45,15.55,Tuesday,03-Oct-17,Monthly
+B,2,Thurnby/Bushby,3 Devonport Hill,16.05,16.15,Tuesday,03-Oct-17,Monthly
+B,2,Thurnby/Bushby,Hillcourt/Main Street,16.20,16.40,Tuesday,03-Oct-17,Monthly
+B,3,Theddingworth,Station Road,9.45,10.00,Wednesday,04-Oct-17,Monthly
+B,3,Lubenham,Phone Box,10.10,10.40,Wednesday,04-Oct-17,Monthly
+B,3,Foxton,Village Hall,10.50,11.05,Wednesday,04-Oct-17,Monthly
+B,3,Foxton,Swedish Close,11.10,11.20,Wednesday,04-Oct-17,Monthly
+B,3,Foxton,School,11.25,12.00,Wednesday,04-Oct-17,Monthly
+B,3,Gumley,Village Hall,12.10,12.25,Wednesday,04-Oct-17,Monthly
+B,3,Laughton,Village Green,13.10,13.25,Wednesday,04-Oct-17,Monthly
+B,3,Smeeton Westerby,Village Centre,13.35,13.45,Wednesday,04-Oct-17,Monthly
+B,3,Saddington,White Cottage,13.55,14.05,Wednesday,04-Oct-17,Monthly
+B,4,Billesdon,Vicarage Close,10.00,10.20,Friday,06-Oct-17,Monthly
+B,4,Billesdon,Knights Close,10.30,11.00,Friday,06-Oct-17,Monthly
+B,4,Tilton on the Hill,Rose and Crown,11.10,11.50,Friday,06-Oct-17,Monthly
+B,4,East Norton,Crossroads,12.05,12.15,Friday,06-Oct-17,Monthly
+B,4,Loddington,The Hall,12.25,12.40,Friday,06-Oct-17,Monthly
+B,4,Allexton,Bridge,13.30,13.35,Friday,06-Oct-17,Monthly
+B,4,Tugby,School,13.50,14.10,Friday,06-Oct-17,Monthly
+B,4,Skeffington,Hunters Avenue,14.20,14.40,Friday,06-Oct-17,Monthly
+B,5,Medbourne,Marlow Court,10.30,10.45,Monday,09-Oct-17,Monthly
+B,5,Medbourne,Old School Centre,10.50,11.10,Monday,09-Oct-17,Monthly
+B,5,Drayton,Main Street,11.20,11.30,Monday,09-Oct-17,Monthly
+B,5,Bringhurst,Grass Triangle,11.40,11.50,Monday,09-Oct-17,Monthly
+B,5,Great Easton,Clarksdale/Barnsdale,12.00,12.25,Monday,09-Oct-17,Monthly
+B,5,Great Easton,Moulds Lane/Pitchers Lane,12.30,13.10,Monday,09-Oct-17,Monthly
+B,5,Stockerston,Grass Triangle,13.25,13.40,Monday,09-Oct-17,Monthly
+B,5,Horninghold,East Norton Road,14.25,14.35,Monday,09-Oct-17,Monthly
+B,5,Blaston,Woodbine Cottages,14.45,15.00,Monday,09-Oct-17,Monthly
+B,5,Slawston,Green Triangle,15.10,15.25,Monday,09-Oct-17,Monthly
+B,6,New Inn,Roleston Est Entr,10.15,10.25,Tuesday,10-Oct-17,Monthly
+B,6,Noseley,The Post Box,10.35,10.45,Tuesday,10-Oct-17,Monthly
+B,6,Goadby,Holm Lodge,10.50,11.00,Tuesday,10-Oct-17,Monthly
+B,6,Shangton,Post Box,11.10,11.20,Tuesday,10-Oct-17,Monthly
+B,6,Stonton Wyville,The Manor,11.30,11.40,Tuesday,10-Oct-17,Monthly
+B,6,Glooston,The Cottages,11.50,12.00,Tuesday,10-Oct-17,Monthly
+B,6,Carlton Curlieu,Manor Farm,12.20,12.30,Tuesday,10-Oct-17,Monthly
+B,6,Illston on the Hill,Post Box,12.40,12.50,Tuesday,10-Oct-17,Monthly
+B,6,Gaulby,Telephone Box,13.00,13.15,Tuesday,10-Oct-17,Monthly
+B,6,Kings Norton,Grass Triangle,13.55,14.05,Tuesday,10-Oct-17,Monthly
+B,6,Little Stretton,White Cottages,14.15,14.25,Tuesday,10-Oct-17,Monthly
+B,6,Burton Overy,Church,14.35,15.05,Tuesday,10-Oct-17,Monthly
+B,7,Near Bitteswell,Montessori,9.30,10.00,Wednesday,11-Oct-17,Monthly
+B,7,Whetstone,Regency Oaks,10.15,10.35,Wednesday,11-Oct-17,Monthly
+B,7,Whetstone,Avon Drive,10.40,11.05,Wednesday,11-Oct-17,Monthly
+B,7,Croft,School,11.20,12.05,Wednesday,11-Oct-17,Monthly
+B,7,Croft,Bala Road,12.10,12.20,Wednesday,11-Oct-17,Monthly
+B,7,Sapcote,Castlegate Mobile home site,13.15,14.15,Wednesday,11-Oct-17,Monthly
+B,7,Frolesworth,"The Square, Alms House",14.30,14.40,Wednesday,11-Oct-17,Monthly
+B,8,Ashby Magna,Peveril Road,9.30,10.00,Friday,13-Oct-17,Monthly
+B,8,Willoughby Waterleys,Village Hall,10.05,10.35,Friday,13-Oct-17,Monthly
+B,8,Willoughby Waterleys,Retreat Farm,10.45,11.05,Friday,13-Oct-17,Monthly
+B,8,Peatling Magna,Church Lane,11.15,11.35,Friday,13-Oct-17,Monthly
+B,8,Peatling Parva,White House,11.40,12.10,Friday,13-Oct-17,Monthly
+B,8,Bruntingthorpe,"The Plough, Main Street",12.20,12.35,Friday,13-Oct-17,Monthly
+B,8,Upper Bruntingthorpe,Mere Road,12.45,13.05,Friday,13-Oct-17,Monthly
+B,8,Gilmorton,School,13.55,14.55,Friday,13-Oct-17,Monthly
+B,8,Gilmorton,Turville Road,15.00,15.25,Friday,13-Oct-17,Monthly
+B,8,Gilmorton,Lutterworth Road,15.30,16.10,Friday,13-Oct-17,Monthly
+B,9,Ashby Parva,Goodacre Cottage,9.30,9.45,Monday,16-Oct-17,Monthly
+B,9,Ashby Parva,Hollybush,9.50,10.20,Monday,16-Oct-17,Monthly
+B,9,Claybrooke Parva,School,10.30,11.15,Monday,16-Oct-17,Monthly
+B,9,Claybrooke Parva,Weston Drive,11.20,11.50,Monday,16-Oct-17,Monthly
+B,9,Claybrooke Parva,Post Box,12.05,12.25,Monday,16-Oct-17,Monthly
+B,9,Dunton Bassett,Little Lunnon,13.15,13.35,Monday,16-Oct-17,Monthly
+B,9,Dunton Bassett,School,13.40,14.35,Monday,16-Oct-17,Monthly
+B,9,Dunton Bassett,Ralphs Close,14.40,15.10,Monday,16-Oct-17,Monthly
+B,10,Mowsley,Phone Box,9.45,10.00,Tuesday,17-Oct-17,Monthly
+B,10,Shearsby,Post Box,10.10,10.25,Tuesday,17-Oct-17,Monthly
+B,10,Arnesby,School,10.35,10.55,Tuesday,17-Oct-17,Monthly
+B,10,Arnesby,Co-Op House Oak Lane,11.00,11.30,Tuesday,17-Oct-17,Monthly
+B,10,Wistow,The Hall,11.45,12.00,Tuesday,17-Oct-17,Monthly
+B,10,Newton Harcourt,The Square,12.10,12.25,Tuesday,17-Oct-17,Monthly
+B,10,Kilby,Wistow Close,13.10,13.30,Tuesday,17-Oct-17,Monthly
+B,10,Kilby,School,13.35,14.25,Tuesday,17-Oct-17,Monthly
+B,11,Bitteswell,School,9.45,10.30,Wednesday,18-Oct-17,Monthly
+B,11,Ullesthorpe,School and Playgroup,10.40,11.55,Wednesday,18-Oct-17,Monthly
+B,11,Ullesthorpe,Stevens Close/Manor Road,12.00,12.20,Wednesday,18-Oct-17,Monthly
+B,11,Ullesthorpe,Orchard Walk,12.25,12.45,Wednesday,18-Oct-17,Monthly
+B,11,Leire,Village Hall,13.30,14.00,Wednesday,18-Oct-17,Monthly
+B,11,Leire,Post Box/Main Street,14.05,14.15,Wednesday,18-Oct-17,Monthly
+B,12,North Kilworth,School,9.30,10.15,Friday,20-Oct-17,Monthly
+B,12,North Kilworth,White Lion Public House,10.20,10.25,Friday,20-Oct-17,Monthly
+B,12,Husbands Bosworth,School,10.35,11.35,Friday,20-Oct-17,Monthly
+B,12,Husbands Bosworth,Berridges Lane,11.40,12.20,Friday,20-Oct-17,Monthly
+B,12,Husbands Bosworth,Church Lane,12.25,13.00,Friday,20-Oct-17,Monthly
+B,12,Walton,The Cross/Chapel Lane,13.55,14.05,Friday,20-Oct-17,Monthly
+B,12,Walton,Old School Close,14.10,14.30,Friday,20-Oct-17,Monthly
+B,12,Kimcote,Poultney Lane,14.35,14.50,Friday,20-Oct-17,Monthly
+B,13,Sharnford,Halls Crescent,9.30,10.10,Monday,23-Oct-17,Monthly
+B,13,Sharnford,Playgroup,10.15,10.45,Monday,23-Oct-17,Monthly
+B,13,Sutton Elms,Playgroup,10.55,11.15,Monday,23-Oct-17,Monthly
+B,13,Croft,School Close /Brookes Ave,11.20,11.45,Monday,23-Oct-17,Monthly
+B,13,Croft,Salisbury Ave,11.50,12.10,Monday,23-Oct-17,Monthly
+B,13,Croft,Sparkenhoe,12.15,12.30,Monday,23-Oct-17,Monthly
+B,13,Huncote,St.James The Greater Church,13.15,14.15,Monday,23-Oct-17,Monthly
+B,13,Wigston Parva,Village Centre,14.35,14.50,Monday,23-Oct-17,Monthly
+B,13,Claybrooke Magna,Bus Shelter Main Street,15.00,15.35,Monday,23-Oct-17,Monthly
+B,14,Fenny Drayton,Fox Covert,9.40,9.55,Tuesday,24-Oct-17,Monthly
+B,14,Fenny Drayton,Rookery Close,10.00,10.20,Tuesday,24-Oct-17,Monthly
+B,14,Stapleton,Beale Close/Manor Close,10.35,11.05,Tuesday,24-Oct-17,Monthly
+B,14,Dadlington,27 Hinckley Road,11.15,11.35,Tuesday,24-Oct-17,Monthly
+B,14,Stoke Golding,Greenwood,11.45,12.10,Tuesday,24-Oct-17,Monthly
+B,14,Stoke Golding,The White Swan,12.15,12.55,Tuesday,24-Oct-17,Monthly
+B,14,Wykin,Springfield Park,13.40,14.00,Tuesday,24-Oct-17,Monthly
+B,14,Burbage,Herford Way,14.30,14.45,Tuesday,24-Oct-17,Monthly
+B,14,Burbage,Hanover Court,15.00,15.40,Tuesday,24-Oct-17,Monthly
+B,15,Cotesbach,"Village Hall, Main street",9.30,9.45,Wednesday,25-Oct-17,Monthly
+B,15,Shawell,Council Houses,9.55,10.10,Wednesday,25-Oct-17,Monthly
+B,15,Cathorpe,Rugby Road Church,10.15,10.30,Wednesday,25-Oct-17,Monthly
+B,15,Walcote,The Tavern,10.50,11.10,Wednesday,25-Oct-17,Monthly
+B,15,South Kilworth,School,11.25,12.10,Wednesday,25-Oct-17,Monthly
+B,15,,,,,Wednesday,25-Oct-17,Monthly
+B,15,South Kilworth,Leys Crescent,12.15,12.30,Wednesday,25-Oct-17,Monthly
+B,15,South Kilworth,North Kilworth Road,12.35,12.45,Wednesday,25-Oct-17,Monthly
+B,15,Swinford,Rugby Road,13.35,14.20,Wednesday,25-Oct-17,Monthly
+B,16,Sutton Cheney,The Square,9.30,9.55,Friday,27-Oct-17,Monthly
+B,16,Shenton,Mill Lane,10.05,10.20,Friday,27-Oct-17,Monthly
+B,16,Upton,Post Box Main Street,10.30,10.55,Friday,27-Oct-17,Monthly
+B,16,Sibson,Village Hall,11.05,11.15,Friday,27-Oct-17,Monthly
+B,16,Witherley,Orchard Close,11.30,12.00,Friday,27-Oct-17,Monthly
+B,16,Witherley,Hunt Lane,12.05,12.25,Friday,27-Oct-17,Monthly
+B,16,Higham,Station Close,13.25,13.45,Friday,27-Oct-17,Monthly
+B,16,Higham,Cherry Orchard,13.50,14.00,Friday,27-Oct-17,Monthly
+B,16,Higham,School,14.05,14.50,Friday,27-Oct-17,Monthly
+B,16,Higham,Oddfellows Pub,14.55,15.15,Friday,27-Oct-17,Monthly
+C,1,Barlestone,Newbold Road,9.40,9.50,Monday,02-Oct-17,Monthly
+C,1,Barlestone,Meadows Road,9.55,10.30,Monday,02-Oct-17,Monthly
+C,1,Barlestone,Westfields Road,10.35,10.55,Monday,02-Oct-17,Monthly
+C,1,Barlestone,School,11.00,12.00,Monday,02-Oct-17,Monthly
+C,1,Barlestone,Barton Road/Service Road,12.05,12.30,Monday,02-Oct-17,Monthly
+C,1,Barlestone,Curtis Way,13.10,13.50,Monday,02-Oct-17,Monthly
+C,1,Nailstone,Grange Cottages,14.05,14.20,Monday,02-Oct-17,Monthly
+C,1,Nailstone,26 Bagworth Road,14.25,14.55,Monday,02-Oct-17,Monthly
+C,1,Osbaston,Osbaston Lane Junction Post Box,15.00,15.15,Monday,02-Oct-17,Monthly
+C,1,Osbaston,Gate Pub,15.20,15.35,Monday,02-Oct-17,Monthly
+C,2,Blackfordby,Village Hall Sandtop Lane,9.30,10.30,Tuesday,03-Oct-17,Monthly
+C,2,Blackfordby,Heath Lane/Main Street,10.40,10.55,Tuesday,03-Oct-17,Monthly
+C,2,Moira,Daybell Road,11.05,11.30,Tuesday,03-Oct-17,Monthly
+C,2,Moira,52 Norris Hill,11.40,12.15,Tuesday,03-Oct-17,Monthly
+C,2,Moira,Woodlands Way/ Sycamore Drive,13.00,13.30,Tuesday,03-Oct-17,Monthly
+C,2,Moira,Donisthorpe Lane,13.35,14.05,Tuesday,03-Oct-17,Monthly
+C,2,Ashby,Derwent Housing,14.20,14.40,Tuesday,03-Oct-17,Monthly
+C,3,Ellistown,The School,9.30,10.00,Wednesday,04-Oct-17,Monthly
+C,3,Ellistown,145 Whitehill Road,10.05,10.25,Wednesday,04-Oct-17,Monthly
+C,3,Ellistown,St. Christophers Road,10.30,10.40,Wednesday,04-Oct-17,Monthly
+C,3,Battram,Battram Road,10.45,11.20,Wednesday,04-Oct-17,Monthly
+C,3,Bagworth,Station Road/Park Lane,11.30,11.40,Wednesday,04-Oct-17,Monthly
+C,3,Bagworth,Community Centre,11.45,12.45,Wednesday,04-Oct-17,Monthly
+C,3,Battleflat,East Lane,13.30,13.55,Wednesday,04-Oct-17,Monthly
+C,3,Battleflat,Beveridge Lane,14.00,14.25,Wednesday,04-Oct-17,Monthly
+C,3,Markfield,Little Shaw Lane,14.35,15.05,Wednesday,04-Oct-17,Monthly
+C,3,Markfield,Shaw Lane,15.10,15.35,Wednesday,04-Oct-17,Monthly
+C,4,Packington,40 High Street,9.30,10.30,Thursday,05-Oct-17,Monthly
+C,4,Ravenstone,"Ravenstone Court, Hospital Lane",10.45,11.45,Thursday,05-Oct-17,Monthly
+C,4,Ravenstone,Cresswell Drive,11.55,12.05,Thursday,05-Oct-17,Monthly
+C,4,Normanton Le Heath,Main Street (flats),12.50,13.10,Thursday,05-Oct-17,Monthly
+C,5,Oakthorpe,School Street,9.30,10.10,Monday,09-Oct-17,Monthly
+C,5,Oakthorpe,Stretton View,10.20,10.50,Monday,09-Oct-17,Monthly
+C,5,Donisthorpe,Chapel Street,11.05,11.45,Monday,09-Oct-17,Monthly
+C,5,Donisthorpe,70 Ramscliffe Avenue,11.50,12.25,Monday,09-Oct-17,Monthly
+C,5,Donisthorpe,Ashby Road/ School,12.30,13.00,Monday,09-Oct-17,Monthly
+C,5,Albert Village,The Close,13.45,14.10,Monday,09-Oct-17,Monthly
+C,5,Chilcote,Home Farm,14.30,14.45,Monday,09-Oct-17,Monthly
+C,6,Swepstone,25-27 Main Street,9.20,9.50,Tuesday,10-Oct-17,Monthly
+C,6,Swepstone,Village Hall,9.55,10.15,Tuesday,10-Oct-17,Monthly
+C,6,Newton Burgoland,Belper Pub,10.25,10.45,Tuesday,10-Oct-17,Monthly
+C,6,Newton Burgoland,School - near Francis Lane,10.50,11.50,Tuesday,10-Oct-17,Monthly
+C,6,Barton in the Beans,Deacons Rise,12.00,12.40,Tuesday,10-Oct-17,Monthly
+C,6,Carlton,"38 Church Cottages, Main Street",13.25,13.40,Tuesday,10-Oct-17,Monthly
+C,6,Bilstone,"The Smithy, Twycross Rd/ Main St",13.50,14.20,Tuesday,10-Oct-17,Monthly
+C,6,Congerstone,Shadow Lane,14.30,15.00,Tuesday,10-Oct-17,Monthly
+C,6,Shackerstone,Church Road,15.10,15.30,Tuesday,10-Oct-17,Monthly
+C,7,Markfield,Markfield Court Bungalows,9.30,10.15,Wednesday,11-Oct-17,Monthly
+C,7,Botcheston,Kirby Grange,10.25,11.20,Wednesday,11-Oct-17,Monthly
+C,7,Kirkby Mallory,Church Street,11.35,12.05,Wednesday,11-Oct-17,Monthly
+C,7,Peckleton,37 Main Street,12.15,12.35,Wednesday,11-Oct-17,Monthly
+C,7,Thurlaston,Village Hall,12.55,13.15,Wednesday,11-Oct-17,Monthly
+C,7,Thurlaston,Main Street,13.55,14.35,Wednesday,11-Oct-17,Monthly
+C,7,Elmesthorpe,Roundhills,14.40,15.00,Wednesday,11-Oct-17,Monthly
+C,8,Peggs Green,New Inn,9.50,10.15,Thursday,12-Oct-17,Monthly
+C,8,Osgathorpe,Main Street,10.25,10.45,Thursday,12-Oct-17,Monthly
+C,8,Coleorton Moor,Viscount Beaumont School,11.00,11.45,Thursday,12-Oct-17,Monthly
+C,8,Coleorton Moor,Opp.  Pitts Lane,11.50,12.10,Thursday,12-Oct-17,Monthly
+C,8,Coleorton Moor,Moorlands Service Road,12.15,12.30,Thursday,12-Oct-17,Monthly
+C,8,Coleorton,Post Office,12.40,12.55,Thursday,12-Oct-17,Monthly
+C,8,Coleorton,Bus Shelter Aqueduct Road,13.00,13.20,Thursday,12-Oct-17,Monthly
+C,8,Newbold Coleorton,School,14.00,14.40,Thursday,12-Oct-17,Monthly
+C,8,Newbold Coleorton,Vicarage Close,14.45,15.10,Thursday,12-Oct-17,Monthly
+C,8,Newbold Coleorton,Cloud Hill View,15.15,15.25,Thursday,12-Oct-17,Monthly
+C,9,Appleby Magna,Hillside,9.30,10.10,Monday,16-Oct-17,Monthly
+C,9,Appleby Magna,Parkfield,10.15,10.55,Monday,16-Oct-17,Monthly
+C,9,Appleby Magna,Wren Close,11.00,11.25,Monday,16-Oct-17,Monthly
+C,9,Snarestone,Quarry Lane,11.35,12.15,Monday,16-Oct-17,Monthly
+C,9,Snarestone,Quarry Farm,13.00,13.15,Monday,16-Oct-17,Monthly
+C,9,Heather,Sparkenhoe Estate,13.30,14.10,Monday,16-Oct-17,Monthly
+C,9,Donington le Heath,Tweentown,14.25,14.35,Monday,16-Oct-17,Monthly
+C,10,Bardon,Bardon Close,9.05,9.25,Tuesday,17-Oct-17,Monthly
+C,10,Groby,Lena Drive,9.45,10.15,Tuesday,17-Oct-17,Monthly
+C,10,Stanton under Bardon,Village Hall,10.30,11.10,Tuesday,17-Oct-17,Monthly
+C,10,Stanton under Bardon,School,11.15,12.00,Tuesday,17-Oct-17,Monthly
+C,10,Stanton under Bardon,Everards Close,12.05,12.30,Tuesday,17-Oct-17,Monthly
+C,10,Newbold Heath,16 Merry Lees Road,12.40,12.50,Tuesday,17-Oct-17,Monthly
+C,10,Merry Lees,Merry Lees Road,13.35,13.55,Tuesday,17-Oct-17,Monthly
+C,10,Thornton,Highfields,14.00,14.20,Tuesday,17-Oct-17,Monthly
+C,10,Thornton,Community Centre,14.25,15.30,Tuesday,17-Oct-17,Monthly
+C,11,Whitwick,Howe Court,9.30,10.00,Wednesday,18-Oct-17,Monthly
+C,11,Thringstone,Playgroup/Community Centre,10.05,10.35,Wednesday,18-Oct-17,Monthly
+C,11,Thringstone,Glebe Road/Priory Close,10.40,11.10,Wednesday,18-Oct-17,Monthly
+C,11,Thringstone,Thringstone Bowling Club,11.15,12.00,Wednesday,18-Oct-17,Monthly
+C,11,Shepshed,Lacy Court,12.45,13.25,Wednesday,18-Oct-17,Monthly
+C,11,Thringstone,St Andrews Close,13.45,14.05,Wednesday,18-Oct-17,Monthly
+C,11,Thringstone,Dalkeith Road/Melrose Road,14.10,14.40,Wednesday,18-Oct-17,Monthly
+C,12,Belton,Rempstone Road,9.30,9.45,Thursday,19-Oct-17,Monthly
+C,12,Long Whatton,Oakley Drive,9.55,10.20,Thursday,19-Oct-17,Monthly
+C,12,Long Whatton,Piper Drive,10.25,10.55,Thursday,19-Oct-17,Monthly
+C,12,Long Whatton,Main Street/Layby,11.05,11.55,Thursday,19-Oct-17,Monthly
+C,12,Diseworth,The Bowley,12.05,12.35,Thursday,19-Oct-17,Monthly
+C,12,Diseworth,Clemensgate,12.40,13.30,Thursday,19-Oct-17,Monthly
+C,12,Belton Village,Village Hall,14.10,14.50,Thursday,19-Oct-17,Monthly
+C,12,Worthington,Post Office,15.05,15.40,Thursday,19-Oct-17,Monthly
+C,12,Worthington,Sparrow Cottage,15.45,16.10,Thursday,19-Oct-17,Monthly
+C,13,Norton Juxta Twycross,Wood Lane opp Worthington Farm,9.30,9.35,Monday,23-Oct-17,Monthly
+C,13,Norton Juxta Twycross,Opp 11 Main Street,9.40,10.00,Monday,23-Oct-17,Monthly
+C,13,Ratcliffe Culey,The Gate Inn,10.25,11.15,Monday,23-Oct-17,Monthly
+C,13,Sheepy Magna,Layby,11.25,12.10,Monday,23-Oct-17,Monthly
+C,13,Sheepy Magna,9 Riverside Close,12.15,12.30,Monday,23-Oct-17,Monthly
+C,13,Sheepy Magna,4 Mill Lane,12.35,12.55,Monday,23-Oct-17,Monthly
+C,13,Sheepy Magna,School,13.40,14.40,Monday,23-Oct-17,Monthly
+C,13,Twycross,6 Hallfields,15.00,15.15,Monday,23-Oct-17,Monthly
+C,13,Orton on Hill,Opp 47 Main Street,15.30,15.50,Monday,23-Oct-17,Monthly
+C,14,Hugglescote,2 Peggs Grange,9.15,9.40,Tuesday,24-Oct-17,Monthly
+C,14,Coalville,Oakham Drive,10.00,10.20,Tuesday,24-Oct-17,Monthly
+C,14,Coalville,St Davids Crescent,10.30,10.50,Tuesday,24-Oct-17,Monthly
+C,14,Coalville,Abbots Oak Drive,10.55,11.25,Tuesday,24-Oct-17,Monthly
+C,14,Coalville,Bradgate Drive,11.35,12.05,Tuesday,24-Oct-17,Monthly
+C,14,Coalville,Linford Crescent,12.10,12.40,Tuesday,24-Oct-17,Monthly
+C,14,Coalville,Romans Crescent,13.25,14.00,Tuesday,24-Oct-17,Monthly
+C,15,Breedon on Hill,Brookside Caravans,9.40,10.00,Wednesday,25-Oct-17,Monthly
+C,15,Breedon on Hill,Berrys Avenue,10.05,10.35,Wednesday,25-Oct-17,Monthly
+C,15,Tonge,Peters Close,10.40,10.55,Wednesday,25-Oct-17,Monthly
+C,15,Wilson,Bulls Head Main Street,11.05,11.15,Wednesday,25-Oct-17,Monthly
+C,15,Wilson,Wilson Hall Farm,11.20,11.50,Wednesday,25-Oct-17,Monthly
+C,15,Hemington,Jolly Sailor Inn,12.45,13.10,Wednesday,25-Oct-17,Monthly
+C,15,Lockington,Village Hall,13.20,13.30,Wednesday,25-Oct-17,Monthly
+C,15,Griffydam,School Playing Field,14.00,14.30,Wednesday,25-Oct-17,Monthly
+C,16,Swannington,61 Main Street,9.30,10.00,Tuesday,26-Oct-17,Monthly
+C,16,Whitwick,Hall Lane,10.15,10.45,Tuesday,26-Oct-17,Monthly
+C,16,Whitwick,George Street,10.50,11.00,Tuesday,26-Oct-17,Monthly
+C,16,Whitwick,Bonchurch Road,11.05,11.25,Tuesday,26-Oct-17,Monthly
+C,16,Whitwick,St Bernards Road,12.10,12.40,Tuesday,26-Oct-17,Monthly
+C,16,Whitwick,Temple Hill,12.50,13.20,Tuesday,26-Oct-17,Monthly
+C,16,Whitwick,Parsonwood Hill,13.25,13.55,Tuesday,26-Oct-17,Monthly

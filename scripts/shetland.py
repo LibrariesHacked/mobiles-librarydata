@@ -10,38 +10,34 @@ from datetime import datetime
 
 DATA_SOURCE = '../data/raw/shetland_raw.csv'
 DATA_OUTPUT = '../data/shetland.csv'
-APIKEY = '58d904a497c67e00015b45fcc3d8ff500a48497b5dd7a68a81baf0b2'
 
 def run():
     """Runs the main script"""
     mobiles = []
-    routes = collections.OrderedDict()
     with open(DATA_SOURCE, 'r') as raw:
         mobreader = csv.reader(raw, delimiter=',', quotechar='"')
         next(mobreader, None)
         for row in mobreader:
-            # Mobile,Route,Stop,Start,End,Day,Date,Frequency,Timetable
+            # Mobile,Route,Stop,Postcode,Start,End,Day,Date,Frequency,Timetable
             mobile = row[0].strip()
             route = row[1].strip()
             stop = row[2].strip()
-            start = row[3].strip()
-            end = row[4].strip()
-            day = row[5].strip()
-            date = datetime.strptime(row[6].strip(), '%d %b %Y')
-            frequency = row[7].strip()
-            timetable = row[8].strip()
+            postcode = row[3].strip()
+            start = row[4].strip()
+            end = row[5].strip()
+            day = row[6].strip()
+            date = datetime.strptime(row[7].strip(), '%d/%m/%Y')
+            frequency = row[8].strip()
+            timetable = row[9].strip()
 
             address = stop + ', Shetland'
 
-            geo_url = 'https://api.openrouteservice.org/geocoding?api_key=' + APIKEY + '&query=' + quote(address) + '&lang=en&limit=1'
-            geo_res = urllib.request.urlopen(geo_url)
-            geo_data = json.loads(geo_res.read().decode(geo_res.info().get_param('charset') or 'utf-8'))
+            pc_url = 'https://api.postcodes.io/postcodes/' + postcode
+            pc_rs = urllib.request.urlopen(pc_url)
+            pc_data = json.loads(pc_rs.read().decode(pc_rs.info().get_param('charset') or 'utf-8'))
 
-            longitude = ''
-            latitude = ''
-            if len(geo_data['features']) < 0:
-                longitude = geo_data['features'][0]['geometry']['coordinates'][0]
-                latitude = geo_data['features'][0]['geometry']['coordinates'][1]
+            latitude = pc_data['result']['latitude']
+            longitude = pc_data['result']['longitude']
 
             mobile = [
                 mobile, route, stop, stop, address, longitude, latitude,
@@ -49,11 +45,7 @@ def run():
 
             mobiles.append(mobile)
 
-            time.sleep(2)
-
-            if routes.get(route) is None:
-                routes[route] = collections.OrderedDict()
-            routes[route][stop] = [latitude, longitude]
+            time.sleep(1)
 
     with open(DATA_OUTPUT, 'w', encoding='utf8', newline='') as out_csv:
         mob_writer = csv.writer(out_csv, delimiter=',', quotechar='"', quoting=csv.QUOTE_MINIMAL)
