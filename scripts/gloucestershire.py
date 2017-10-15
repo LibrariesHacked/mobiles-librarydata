@@ -19,7 +19,8 @@ def run():
         next(mobreader, None)  # skip the headers
         # Week,Day,Route,Village,Stop Name,StartTime,EndTime,Date
         for row in mobreader:
-            
+
+            # Read all the data from the raw spreadsheet
             week = row[0].strip()
             day = row[1].strip()
             route = row[2].strip()
@@ -27,21 +28,19 @@ def run():
             stop = row[4].strip()
             start = row[5].strip()
             end = row[6].strip()
-            date = datetime.strptime(row[6].strip(), '%d/%m/%Y')
-            
+            date = datetime.strptime(row[7].strip(), '%d/%m/%Y')
+
             frequency = '4'
             mobile = 'Gloucestershire'
             address = stop + ', ' + community
             date_output = date.strftime('%Y-%m-%d')
+            timetable = 'http://www.gloucestershire.gov.uk/libraries/find-a-library/mobile-library-service/'
 
-            address_json = {
-                "address": stop,
-                "locality": community,
-                "county": "Gloucestershire",
-                "country": "GB"
-                }
+            extent = '-2.68754,51.57754,-1.61520,52.11258'
 
-            geo_url = 'https://api.openrouteservice.org/geocoding?api_key=' + APIKEY + '&query=' + quote(json.dumps(address_json)) + '&lang=en&limit=1'
+            address = stop + ' ' + community
+
+            geo_url = 'https://api.openrouteservice.org/geocoding?boundary_type=rect&rect=' + extent + '&api_key=' + APIKEY + '&query=' + quote(address) + '&lang=en&limit=1'
             print(geo_url)
             geo_res = urllib.request.urlopen(geo_url)
             geo_data = json.loads(geo_res.read().decode(geo_res.info().get_param('charset') or 'utf-8'))
@@ -52,13 +51,9 @@ def run():
                 longitude = geo_data['features'][0]['geometry']['coordinates'][0]
                 latitude = geo_data['features'][0]['geometry']['coordinates'][1]
             else:
-                time.sleep(5)
-                address_json = {
-                    "locality": community,
-                    "county": "Gloucestershire",
-                    "country": "GB"
-                }
-                geo_url = 'https://api.openrouteservice.org/geocoding?api_key=' + APIKEY + '&query=' + quote(address) + '&lang=en&limit=1'
+                time.sleep(4)
+                address = community
+                geo_url = 'https://api.openrouteservice.org/geocoding?boundary_type=rect&rect=' + extent + '&api_key=' + APIKEY + '&query=' + quote(address) + '&lang=en&limit=1'
                 print(geo_url)
                 geo_res = urllib.request.urlopen(geo_url)
                 geo_data = json.loads(geo_res.read().decode(geo_res.info().get_param('charset') or 'utf-8'))
@@ -76,7 +71,7 @@ def run():
 
             mobiles.append(mobile)
 
-            time.sleep(5)
+            time.sleep(4)
 
     with open(DATA_OUTPUT, 'w', encoding='utf8', newline='') as out_csv:
         mob_writer = csv.writer(out_csv, delimiter=',', quotechar='"', quoting=csv.QUOTE_MINIMAL)

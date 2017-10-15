@@ -1,0 +1,51 @@
+Mobile,Route,Community,Stop,Address,Longitude,Latitude,Date,Day,Frequency,Start,End,Timetable
+Gloucestershire,1B,Tutshill,War Memorial Hall,War Memorial Hall Tutshill,-2.658956,51.646644,2017-11-14,Tuesday,4,10:15,11:15,http://www.gloucestershire.gov.uk/libraries/find-a-library/mobile-library-service/
+Gloucestershire,1B,Awre,Village Hall,Village Hall Awre,-2.449055,51.761264,2017-11-14,Tuesday,4,12:00,13:00,http://www.gloucestershire.gov.uk/libraries/find-a-library/mobile-library-service/
+Gloucestershire,1C,Hartpury,Post Office,Post Office Hartpury,-2.307514,51.906554,2017-11-15,Wednesday,4,10:00,12:00,http://www.gloucestershire.gov.uk/libraries/find-a-library/mobile-library-service/
+Gloucestershire,1C,Ashleworth,Village Hall Car Park,Village Hall Car Park Ashleworth,-1.658648,51.598355,2017-11-15,Wednesday,4,12:15,13:15,http://www.gloucestershire.gov.uk/libraries/find-a-library/mobile-library-service/
+Gloucestershire,1C,Churcham,School,School Churcham,-2.349804,51.866356,2017-11-15,Wednesday,4,14:30,16:00,http://www.gloucestershire.gov.uk/libraries/find-a-library/mobile-library-service/
+Gloucestershire,1D,Northwood Green,Village Hall,Village Hall Northwood Green,-2.401324,51.844441,2017-11-16,Thursday,4,9:40,11:25,http://www.gloucestershire.gov.uk/libraries/find-a-library/mobile-library-service/
+Gloucestershire,1D,Huntley,Village Hall,Village Hall Huntley,-2.403863,51.873053,2017-11-16,Thursday,4,12:00,13:00,http://www.gloucestershire.gov.uk/libraries/find-a-library/mobile-library-service/
+Gloucestershire,1D,Maisemore,Village Hall,Village Hall Maisemore,-1.667579,51.582033,2017-11-16,Thursday,4,14:15,15:45,http://www.gloucestershire.gov.uk/libraries/find-a-library/mobile-library-service/
+Gloucestershire,1E,Minsterworth,School,School Minsterworth,-2.326238,51.852119,2017-11-17,Friday,4,10:00,10:30,http://www.gloucestershire.gov.uk/libraries/find-a-library/mobile-library-service/
+Gloucestershire,1E,Staunton & Corse,Prince of Wales,Prince of Wales Staunton & Corse,-2.302282,51.960857,2017-11-17,Friday,4,11:05,13:05,http://www.gloucestershire.gov.uk/libraries/find-a-library/mobile-library-service/
+Gloucestershire,1E,Apperley,Near the school,Near the school Apperley,-2.201331,51.952851,2017-11-17,Friday,4,14:20,15:50,http://www.gloucestershire.gov.uk/libraries/find-a-library/mobile-library-service/
+Gloucestershire,1E,Deerhurst,Crossroads,Crossroads Deerhurst,-1.625231,51.970078,2017-11-17,Friday,4,16:05,16:35,http://www.gloucestershire.gov.uk/libraries/find-a-library/mobile-library-service/
+Gloucestershire,2B,Kemble,Village Hall,Village Hall Kemble,-2.023145,51.676915,2017-11-21,Tuesday,4,10:10,11:10,http://www.gloucestershire.gov.uk/libraries/find-a-library/mobile-library-service/
+Gloucestershire,2B,Coates,Old School,Old School Coates,-1.678153,51.788947,2017-11-21,Tuesday,4,11:25,12:25,http://www.gloucestershire.gov.uk/libraries/find-a-library/mobile-library-service/
+Gloucestershire,2B,Chalford,Old Neighbourhood Inn,Old Neighbourhood Inn Chalford,-2.159825,51.72635,2017-11-21,Tuesday,4,13:30,15:00,http://www.gloucestershire.gov.uk/libraries/find-a-library/mobile-library-service/
+Gloucestershire,2B,France,Lynch Crossroads,Lynch Crossroads France,-1.774552,51.58426,2017-11-21,Tuesday,4,15:10,16:40,http://www.gloucestershire.gov.uk/libraries/find-a-library/mobile-library-service/
+Gloucestershire,2C,Somerford Keynes,Mill Lane,Mill Lane Somerford Keynes,-1.971614,51.665905,2017-11-22,Wednesday,4,10:20,12:20,http://www.gloucestershire.gov.uk/libraries/find-a-library/mobile-library-service/
+Gloucestershire,2C,South Cerney,Manor,Manor South Cerney,-1.916288,51.67366,2017-11-22,Wednesday,4,13:30,15.00,http://www.gloucestershire.gov.uk/libraries/find-a-library/mobile-library-service/
+Gloucestershire,2C,Down Ampney,School,School Down Ampney,-1.856379,51.673914,2017-11-22,Wednesday,4,15:15,16:00,http://www.gloucestershire.gov.uk/libraries/find-a-library/mobile-library-service/
+Gloucestershire,2D,Waterlane,Crossroads,Crossroads Waterlane,-1.774552,51.58426,2017-11-23,Thursday,4,11:10,11:55,http://www.gloucestershire.gov.uk/libraries/find-a-library/mobile-library-service/
+Gloucestershire,2D,Oakridge,Butchers Arms,Butchers Arms Oakridge,-2.272302,51.97197,2017-11-23,Thursday,4,12:05,12:50,http://www.gloucestershire.gov.uk/libraries/find-a-library/mobile-library-service/
+Gloucestershire,2D,Bussage,"The Ridgeway, by the school","The Ridgeway, by the school Bussage",-2.163829,51.735003,2017-11-23,Thursday,4,14:00,16:00,http://www.gloucestershire.gov.uk/libraries/find-a-library/mobile-library-service/
+Gloucestershire,2E,Kingscote,Walled Garden,Walled Garden Kingscote,-2.380974,51.659741,2017-11-24,Friday,4,11:00,12:00,http://www.gloucestershire.gov.uk/libraries/find-a-library/mobile-library-service/
+Gloucestershire,2E,Kingswood,Bus Shelter,Bus Shelter Kingswood,-2.312269,52.108537,2017-11-24,Friday,4,12:30,13:00,http://www.gloucestershire.gov.uk/libraries/find-a-library/mobile-library-service/
+Gloucestershire,2E,South Cerney,Barracks,Barracks South Cerney,-1.921628,51.667588,2017-11-24,Friday,4,15:00,16:30,http://www.gloucestershire.gov.uk/libraries/find-a-library/mobile-library-service/
+Gloucestershire,3A,Frampton-on-Severn,Village Hall,Village Hall Frampton-on-Severn,-1.667579,51.582033,2017-10-30,Monday,4,11:15,12:45,http://www.gloucestershire.gov.uk/libraries/find-a-library/mobile-library-service/
+Gloucestershire,3A,Arlingham,Red Lion,Red Lion Arlingham,-2.111283,51.88056,2017-10-30,Monday,4,13:45,14:15,http://www.gloucestershire.gov.uk/libraries/find-a-library/mobile-library-service/
+Gloucestershire,3A,Saul,Church,Church Saul,-2.354596,51.779973,2017-10-30,Monday,4,14:30,16:00,http://www.gloucestershire.gov.uk/libraries/find-a-library/mobile-library-service/
+Gloucestershire,3B,Chedworth,Village Hall,Village Hall Chedworth,-1.923664,51.801348,2017-10-31,Tuesday,4,10:15,11:45,http://www.gloucestershire.gov.uk/libraries/find-a-library/mobile-library-service/
+Gloucestershire,3B,Andoversford,Village Shop,Village Shop Andoversford,-1.855878,51.674309,2017-10-31,Tuesday,4,12:10,13:10,http://www.gloucestershire.gov.uk/libraries/find-a-library/mobile-library-service/
+Gloucestershire,3B,Woodmancote,Tudor House,Tudor House Woodmancote,-1.996176,51.779848,2017-10-31,Tuesday,4,14:25,15:25,http://www.gloucestershire.gov.uk/libraries/find-a-library/mobile-library-service/
+Gloucestershire,3C,Bibury,Bus Shelter,Bus Shelter Bibury,-2.312269,52.108537,2017-11-01,Wednesday,4,10:45,11:45,http://www.gloucestershire.gov.uk/libraries/find-a-library/mobile-library-service/
+Gloucestershire,3C,Arlington,Quarry Close,Quarry Close Arlington,-2.58242,51.920797,2017-11-01,Wednesday,4,11:50,12:20,http://www.gloucestershire.gov.uk/libraries/find-a-library/mobile-library-service/
+Gloucestershire,3C,Coln Rogers,Telephone Box,Telephone Box Coln Rogers,-1.899083,51.767379,2017-11-01,Wednesday,4,13:25,13:55,http://www.gloucestershire.gov.uk/libraries/find-a-library/mobile-library-service/
+Gloucestershire,3C,Northleach,Market Square,Market Square Northleach,-1.84064,51.832362,2017-11-01,Wednesday,4,14:15,16:15,http://www.gloucestershire.gov.uk/libraries/find-a-library/mobile-library-service/
+Gloucestershire,3D,Cranham,School,School Cranham,-2.156051,51.811296,2017-11-02,Thursday,4,9:30,11:30,http://www.gloucestershire.gov.uk/libraries/find-a-library/mobile-library-service/
+Gloucestershire,3D,Kings Stanley,Car Park,Car Park Kings Stanley,-2.33878,52.00228,2017-11-02,Thursday,4,12:15,14:00,http://www.gloucestershire.gov.uk/libraries/find-a-library/mobile-library-service/
+Gloucestershire,3D,Cashes Green,Queens Drive,Queens Drive Cashes Green,-2.248107,51.750913,2017-11-02,Thursday,4,15:30,16:30,http://www.gloucestershire.gov.uk/libraries/find-a-library/mobile-library-service/
+Gloucestershire,4B,Mickleton,Bus Shelter (opp NISA store),Bus Shelter (opp NISA store) Mickleton,-1.766404,52.091311,2017-11-07,Tuesday,4,10:45,12:45,http://www.gloucestershire.gov.uk/libraries/find-a-library/mobile-library-service/
+Gloucestershire,4B,Blockley,Springfield,Springfield Blockley,-1.76037,52.011595,2017-11-07,Tuesday,4,13:50,15:50,http://www.gloucestershire.gov.uk/libraries/find-a-library/mobile-library-service/
+Gloucestershire,4C,Guiting Power,The Square,The Square Guiting Power,-1.864529,51.921518,2017-11-08,Wednesday,4,10:30,11:30,http://www.gloucestershire.gov.uk/libraries/find-a-library/mobile-library-service/
+Gloucestershire,4C,Upper Slaughter,The Triangle,The Triangle Upper Slaughter,-1.78225,51.915083,2017-11-08,Wednesday,4,12:35,13:35,http://www.gloucestershire.gov.uk/libraries/find-a-library/mobile-library-service/
+Gloucestershire,4C,Bledington,School,School Bledington,-1.640372,51.901511,2017-11-08,Wednesday,4,14:15,15:30,http://www.gloucestershire.gov.uk/libraries/find-a-library/mobile-library-service/
+Gloucestershire,4C,Dumbleton,Dairy Lane,Dairy Lane Dumbleton,-1.977558,52.021999,2017-11-09,Wednesday,4,11:00,11:30,http://www.gloucestershire.gov.uk/libraries/find-a-library/mobile-library-service/
+Gloucestershire,4D,Wormington,Village Green,Village Green Wormington,-2.035413,52.020665,2017-11-09,Thursday,4,11:45,12:45,http://www.gloucestershire.gov.uk/libraries/find-a-library/mobile-library-service/
+Gloucestershire,4D,Willersey,Bell Inn,Bell Inn Willersey,-2.012413,52.097466,2017-11-09,Thursday,4,13:50,15:50,http://www.gloucestershire.gov.uk/libraries/find-a-library/mobile-library-service/
+Gloucestershire,4E,Northway,Co-op,Co-op Northway,-2.110595,52.004773,2017-11-10,Friday,4,10:15,11:15,http://www.gloucestershire.gov.uk/libraries/find-a-library/mobile-library-service/
+Gloucestershire,4E,Aston-on-Carrant,Wisteria Cottages,Wisteria Cottages Aston-on-Carrant,-2.189153,51.887877,2017-11-10,Friday,4,11:35,13:05,http://www.gloucestershire.gov.uk/libraries/find-a-library/mobile-library-service/
+Gloucestershire,4E,Ashchurch,Village Hall,Village Hall Ashchurch,-2.106012,51.997445,2017-11-10,Friday,4,14:00,14:30,http://www.gloucestershire.gov.uk/libraries/find-a-library/mobile-library-service/
+Gloucestershire,4E,Coombe Hill,The Swan,The Swan Coombe Hill,-2.19607,51.939856,2017-11-10,Friday,4,15:10,16:10,http://www.gloucestershire.gov.uk/libraries/find-a-library/mobile-library-service/

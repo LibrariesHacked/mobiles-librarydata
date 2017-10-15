@@ -19,61 +19,68 @@ def run():
         next(mobreader, None)  # skip the headers
         # Mobile,Route,Community,Stopping Place,From,To,Day,Date,Frequency
         for row in mobreader:
+
+            # Read all the data from the raw spreadsheet
             mobile = row[0].strip()
             route = row[1].strip()
-            # We should make the route unique so combine with mobile e.g. A1
-            route = mobile + route
             community = row[2].strip()
             stop = row[3].strip()
             start = row[4].strip().replace('.', ':')
             end = row[5].strip().replace('.', ':')
             day = row[6].strip()
-            date = datetime.strptime(row[7].strip(), '%d-%b-%Y')
+            date = datetime.strptime(row[7].strip(), '%d-%b-%y')
             frequency = row[8].strip()
-            timetable = 'https://www.leicestershire.gov.uk/leisure-and-community/libraries/mobile-library-routes'
-            address = stop + ', ' + community
-            date_output = date.strftime('%Y-%m-%d')
-            address_json = {
-                "address": stop + ', ' + community,
-                "locality": "Leicestershire",
-                "country": "EN"
-                }
 
+            # Custom manipulations of the data
+
+            # Manually set the timetable
+            timetable = 'https://www.leicestershire.gov.uk/leisure-and-community/libraries/mobile-library-routes'
+            # The address can be the stop and the community
+            address = stop + ' ' + community
+
+            # Put the address into a standard YYYY-MM-DD format
+            date_output = date.strftime('%Y-%m-%d')
+
+            # We should make the route unique so combine with mobile e.g. A1
+            route = mobile + route
+
+            # Leicestershire county bounding box coordinates.
             boundingbox = '-1.59755,52.39215,-0.66411,52.97766'
 
-            geo_url = 'https://api.openrouteservice.org/geocoding?boundary_type=rect&rect=' + boundingbox + '&api_key=' + APIKEY + '&query=' + quote(json.dumps(address_json)) + '&lang=en&limit=1'
-            print(geo_url)
+            # Initial geocoding URL - use just the community to try to get the right area
+            geo_url = (
+                'https://api.openrouteservice.org/geocoding?boundary_type=rect&rect=' +
+                boundingbox + '&api_key=' + APIKEY + '&query=' +
+                quote(json.dumps(community)) + '&lang=en&limit=1')
             geo_res = urllib.request.urlopen(geo_url)
-            geo_data = json.loads(geo_res.read().decode(geo_res.info().get_param('charset') or 'utf-8'))
+            geo_data = json.loads(geo_res.read())
 
             longitude = ''
             latitude = ''
             if len(geo_data['features']) > 0:
                 longitude = geo_data['features'][0]['geometry']['coordinates'][0]
                 latitude = geo_data['features'][0]['geometry']['coordinates'][1]
-            else:
-                time.sleep(5)
-                address_json = {
-                    "address": community,
-                    "locality": "Leicestershire",
-                    "country": "EN"
-                }
-                geo_url = 'https://api.openrouteservice.org/geocoding?boundary_type=rect&rect=' + boundingbox + '&api_key=' + APIKEY + '&query=' + quote(address) + '&lang=en&limit=1'
-                print(geo_url)
-                geo_res = urllib.request.urlopen(geo_url)
-                geo_data = json.loads(geo_res.read().decode(geo_res.info().get_param('charset') or 'utf-8'))
+
+            # Now, geocode again, this time with the extra detail
+            time.sleep(4)
+            geo_url = (
+                'https://api.openrouteservice.org/geocoding?boundary_type=rect&rect=' +
+                boundingbox + '&api_key=' + APIKEY + '&query=' +
+                quote(address) + '&lang=en&limit=1')
+            geo_res = urllib.request.urlopen(geo_url)
+            geo_data = json.loads(geo_res.read())
 
             if len(geo_data['features']) > 0:
                 longitude = geo_data['features'][0]['geometry']['coordinates'][0]
                 latitude = geo_data['features'][0]['geometry']['coordinates'][1]
 
+            # Add the data to the mobile array
             mobile = [
                 mobile, route, community, stop, address, longitude, latitude,
                 date_output, day, frequency, start, end, timetable]
-
             mobiles.append(mobile)
 
-            time.sleep(5)
+            time.sleep(4)
 
     with open(DATA_OUTPUT, 'w', encoding='utf8', newline='') as out_csv:
         mob_writer = csv.writer(out_csv, delimiter=',', quotechar='"', quoting=csv.QUOTE_MINIMAL)
@@ -82,7 +89,9 @@ def run():
              'Latitude', 'Date', 'Day', 'Frequency', 'Start', 'End', 'Timetable'])
         for sto in mobiles:
             mob_writer.writerow(
-                [sto[0], sto[1], sto[2], sto[3], sto[4], sto[5],
-                 sto[6], sto[7], sto[8], sto[9], sto[10], sto[11], sto[12]])     
+                [
+                    sto[0], sto[1], sto[2], sto[3], sto[4], sto[5],
+                    sto[6], sto[7], sto[8], sto[9], sto[10], sto[11], sto[12]
+                ])
 
 run()

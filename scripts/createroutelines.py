@@ -54,6 +54,7 @@ def run():
                 routes[route][idx] = [str(point[0].x), str(point[0].y)]
         authroutes.append({'code':auth['code'], 'authority':auth['authority'], 'routes': routes})
 
+
     for auth in authroutes:
         authname = auth['authority']
         auth_geodata = []
@@ -62,18 +63,22 @@ def run():
             for idx,trip in enumerate(routes[route]):
                 url = url + routes[route][trip][0] + ',' + routes[route][trip][1] + '|'
             if len(routes[route]) > 1:
+                print(url)
                 with urllib.request.urlopen(url[:-1]) as response:
                     res_data = json.load(response)
                     line_coords = []
-                    for coords in polyline.decode(res_data['routes'][0]['geometry']):
-                        line_coords.append(coords[::-1])
-                    line = LineString(line_coords)
-                    auth_geodata.append({'route': route, 'geo':line})
+                    if (res_data['routes'][0]['summary']['distance'] > 0):
+                        for coords in polyline.decode(res_data['routes'][0]['geometry']):
+                            line_coords.append(coords[::-1])
+                        line = LineString(line_coords)
+                        auth_geodata.append({'route': route, 'geo':line})
 
-                    time.sleep(10)
+                    time.sleep(5)
         frame = pd.DataFrame(data=auth_geodata)
         geo_df = geopandas.GeoDataFrame(frame, crs={'init': 'epsg:4326'}, geometry='geo')
         # Output the route as a GeoJSON format file
+        print(authname)
+        print(geo_df)
         geo_df.to_file('../data/routes/' + authname + '_Routes.geojson', driver="GeoJSON")
 
 run()
