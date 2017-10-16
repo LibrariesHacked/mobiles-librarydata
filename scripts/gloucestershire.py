@@ -3,9 +3,10 @@
 import csv
 import json
 import urllib.request
+import time
 from urllib.parse import quote
 from datetime import datetime
-import time
+import pyproj
 
 DATA_SOURCE = '../data/raw/gloucestershire_raw.csv'
 DATA_OUTPUT = '../data/gloucestershire.csv'
@@ -30,17 +31,32 @@ def run():
             end = row[6].strip()
             date = datetime.strptime(row[7].strip(), '%d/%m/%Y')
 
-            frequency = '4'
-            mobile = 'Gloucestershire'
+            # Set some mcustom values
+
+
+            # The address can just be the stop name and community 
             address = stop + ', ' + community
+
+            # Output date as a standard format
             date_output = date.strftime('%Y-%m-%d')
+
+            # There's only 1 mobile so we'll just cal it Gloucestershire
+            mobile = 'Gloucestershire'
+
+            # The frequency is every 4 weeks.
+            frequency = '4'
+            
+            # There's 1 link to the timetable
             timetable = 'http://www.gloucestershire.gov.uk/libraries/find-a-library/mobile-library-service/'
 
+            # This is the extent (bounding box) of Gloucestershire
             extent = '-2.68754,51.57754,-1.61520,52.11258'
 
-            address = stop + ' ' + community
+            # We'll make the route number from a combination of week and route letter
+            route = week + route
 
-            geo_url = 'https://api.openrouteservice.org/geocoding?boundary_type=rect&rect=' + extent + '&api_key=' + APIKEY + '&query=' + quote(address) + '&lang=en&limit=1'
+            # First geocoding call will be to the community.
+            geo_url = 'https://api.openrouteservice.org/geocoding?boundary_type=rect&rect=' + extent + '&api_key=' + APIKEY + '&query=' + quote(community) + '&lang=en&limit=1'
             print(geo_url)
             geo_res = urllib.request.urlopen(geo_url)
             geo_data = json.loads(geo_res.read().decode(geo_res.info().get_param('charset') or 'utf-8'))
@@ -62,8 +78,27 @@ def run():
                 longitude = geo_data['features'][0]['geometry']['coordinates'][0]
                 latitude = geo_data['features'][0]['geometry']['coordinates'][1]
 
-            # We'll make the route number from a combination of week and route letter
-            route = week + route
+            # Now, geocode again, this time with the extra detail
+            time.sleep(4)
+            geo_url = (
+                'https://api.openrouteservice.org/geocoding?boundary_type=rect&rect=' +
+                extent + '&api_key=' + APIKEY + '&query=' +
+                quote(address) + '&lang=en&limit=1')
+            geo_res = urllib.request.urlopen(geo_url)
+            geo_data = json.loads(geo_res.read())
+
+            if len(geo_data['features']) > 0:
+
+                lng = geo_data['features'][0]['geometry']['coordinates'][0]
+                lat = geo_data['features'][0]['geometry']['coordinates'][1]
+                geod = pyproj.Geod(ellps='WGS84')
+                angle1,angle2,distance = geod.inv(lng, lat, longitude, latitude)
+                print(distance)
+
+                # Only set the new latitude and longitude IF it's within 2 miles of the original
+                if distance < 3218:
+                    longitude = lng
+                    latitude = lat
 
             mobile = [
                 mobile, route, community, stop, address, longitude, latitude,
