@@ -1,4 +1,4 @@
-Mobile,Route,Community,Stop,Address,Longitude,Latitude,Date,Day,Frequency,Start,End,Timetable
+Mobile,Route,Community,Stop,Address,Date,Day,Frequency,Start,End,Timetable
 South,Thursday Week 1,Alderbury,Eyres Drive,"Eyres Drive, Alderbury",2017-11-16,Thursday,4,10:00,10:20,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/35
 South,Thursday Week 1,Alderbury,School,"School, Alderbury",2017-11-16,Thursday,4,13:45,14:20,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/35
 South,Saturday Week 1,Alderbury,Village Hall (fortnightly stop),"Village Hall (fortnightly stop), Alderbury",2017-11-18,Saturday,4,09:30,11:30,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/37
