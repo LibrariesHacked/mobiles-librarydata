@@ -14,7 +14,6 @@ from bs4 import BeautifulSoup
 APIKEY = '58d904a497c67e00015b45fcc3d8ff500a48497b5dd7a68a81baf0b2'
 # Initial file from web scraping
 DATA_OUTPUT_RAW = '../data/raw/wiltshire_raw.csv'
-DATA_INPUT_RAW = '../data/raw/wiltshire_raw_temp.csv'
 # Final file to output
 DATA_OUTPUT_FINAL = '../data/wiltshire.csv'
 # Wiltshire County bounding box coordinates for geocoding
@@ -83,8 +82,11 @@ def run():
                 out_raw, delimiter=',', quotechar='"', quoting=csv.QUOTE_MINIMAL
             )
             mob_writer.writerow(
-                ['Mobile', 'Route', 'Community', 'Stop', 'Address', 'Longitude',
-                'Latitude', 'Date', 'Day', 'Frequency', 'Start', 'End', 'Timetable'])
+                [
+                  'Mobile', 'Route', 'Community', 'Stop', 'Address', 'Date',
+                  'Day', 'Frequency', 'Start', 'End', 'Timetable'
+                ]
+            )
             for sto in mobiles:
                 mob_writer.writerow(
                     [
@@ -93,7 +95,7 @@ def run():
                     ])
 
     mobiles = []
-    with open(DATA_INPUT_RAW, 'r', encoding='utf8', newline='') as raw:
+    with open(DATA_OUTPUT_RAW, 'r', encoding='utf8', newline='') as raw:
         mobreader = csv.reader(raw, delimiter=',', quotechar='"')
         next(mobreader, None)  # skip the headers
         # Mobile,Route,Community,Stop,Address,Date,Day,Frequency,Start,End,Timetable
@@ -157,7 +159,7 @@ def run():
             }
             mobiles.append(mobile)
 
-    with open(DATA_OUTPUT_RAW, 'w', encoding='utf8', newline='') as out:
+    with open(DATA_OUTPUT_FINAL, 'w', encoding='utf8', newline='') as out:
         mob_writer = csv.writer(out, delimiter=',', quotechar='"', quoting=csv.QUOTE_MINIMAL)
         mob_writer.writerow(
             [
