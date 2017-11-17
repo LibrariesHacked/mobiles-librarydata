@@ -109,7 +109,7 @@ def run():
             attempts = 0
             while attempts < 100:
                 try:
-                    time.sleep(10)
+                    time.sleep(5)
                     geo_res = requests.get(geo_url)
                     geo_data = json.loads(geo_res.content)
                     break
@@ -132,7 +132,7 @@ def run():
             attempts = 0
             while attempts < 100:
                 try:
-                    time.sleep(10)
+                    time.sleep(5)
                     geo_res = requests.get(geo_url)
                     geo_data = json.loads(geo_res.content)
                     break
@@ -143,12 +143,15 @@ def run():
                 lng = geo_data['features'][0]['geometry']['coordinates'][0]
                 lat = geo_data['features'][0]['geometry']['coordinates'][1]
                 geod = pyproj.Geod(ellps='WGS84')
-                angle1, angle2, distance = geod.inv(lng, lat, longitude, latitude)
-
-                # Only set the new latitude and longitude IF it's within 2 miles of the original
-                if distance < 3218:
+                if latitude == '':
                     longitude = lng
                     latitude = lat
+                else:
+                    # Only set the new latitude and longitude IF it's within 2 miles of the original
+                    angle1, angle2, distance = geod.inv(lng, lat, longitude, latitude)
+                    if latitude == '' or distance < 3218:
+                        longitude = lng
+                        latitude = lat
 
             # Mobile,Route,Stop,Community,Address,Longitude,Latitude,Date,Day,Frequency,Start,End,Timetable
             mobile = {
