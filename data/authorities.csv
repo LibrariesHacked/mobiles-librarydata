@@ -7,7 +7,7 @@ Argyll and Bute,S12000035,1,https://www.argyll-bute.gov.uk/mobile-library/islay-
 Barking and Dagenham,E09000002,0,,
 Barnet,E09000003,1,https://www.barnet.gov.uk/citizen-home/libraries/mobile-library.html,
 Barnsley,E08000016,0,,
-Bath and North East Somerset,E06000022,1,http://www.bathnes.gov.uk/services/libraries-and-archives/access-all/mobile-library-routes,banes.csv
+Bath and North East Somerset,E06000022,1,http://www.bathnes.gov.uk/services/libraries-and-archives/access-all/mobile-library-routes,
 Bedford,E06000055,1,http://virtual-library.culturalservices.net/webingres/bedfordshire/vlib/0.beds_libraries/mobile_libraries.htm,
 Bexley,E09000004,0,,
 Birmingham,E08000025,1,http://libraryofbirmingham.com/article/mobilelibraryservice,
@@ -195,7 +195,7 @@ West Lothian,S12000040,0,,
 West Sussex,E10000032,2,https://www.westsussex.gov.uk/libraries/using-library-services/mobile-libraries/,
 Westminster,E09000033,0,,
 Wigan,E08000010,0,,
-Wiltshire,E06000054,3,http://services.wiltshire.gov.uk/MobileLibrary/,
+Wiltshire,E06000054,3,http://services.wiltshire.gov.uk/MobileLibrary/,wiltshire.csv
 Windsor & Maidenhead,E06000040,1,https://www3.rbwm.gov.uk/info/200197/libraries/834/mobile_library_service,
 Wirrall,E08000015,0,,
 Wokingham,E06000041,0,,
