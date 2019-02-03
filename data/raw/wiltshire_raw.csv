@@ -1,243 +1,358 @@
 Mobile,Route,Community,Stop,Address,Date,Day,Frequency,Start,End,Timetable
-South,Thursday Week 1,Alderbury,Eyres Drive,"Eyres Drive, Alderbury",2017-11-16,Thursday,4,10:00,10:20,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/35
-South,Thursday Week 1,Alderbury,School,"School, Alderbury",2017-11-16,Thursday,4,13:45,14:20,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/35
-South,Saturday Week 1,Alderbury,Village Hall (fortnightly stop),"Village Hall (fortnightly stop), Alderbury",2017-11-18,Saturday,4,09:30,11:30,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/37
-South,Saturday Week 3,Alderbury,Village Hall (fortnightly stop),"Village Hall (fortnightly stop), Alderbury",2017-12-02,Saturday,4,09:30,11:30,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/51
-North,Friday Week 2,All Cannings,Village Hall,"Village Hall, All Cannings",2017-11-24,Friday,4,15:00,15:45,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/13
-South,Thursday Week 3,Ansty,The Maypole,"The Maypole, Ansty",2017-11-30,Thursday,4,11:15,11:45,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/49
-North,Wednesday Week 4,Ashton Common,Bus stop,"Bus stop, Ashton Common",2017-11-08,Wednesday,4,15:45,16:10,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/25
-North,Friday Week 1,Ashton Keynes,Village Hall (fortnightly stop),"Village Hall (fortnightly stop), Ashton Keynes",2017-11-17,Friday,4,14:00,15:45,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/5
-North,Friday Week 3,Ashton Keynes,Village Hall (fortnightly stop),"Village Hall (fortnightly stop), Ashton Keynes",2017-12-01,Friday,4,14:00,15:45,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/20
-North,Tuesday Week 1,Atworth,Mead Park,"Mead Park, Atworth",2017-11-14,Tuesday,4,09:45,10:15,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/2
-North,Tuesday Week 3,Avebury,Caravan Park,"Caravan Park, Avebury",2017-11-28,Tuesday,4,14:30,15:00,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/17
-North,Tuesday Week 3,Avebury,High Street,"High Street, Avebury",2017-11-28,Tuesday,4,13:55,14:25,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/17
-North,Tuesday Week 3,Avebury Trusloe,Bungalows,"Bungalows, Avebury Trusloe",2017-11-28,Tuesday,4,12:15,12:45,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/17
-South,Tuesday Week 4,Barford St Martin,St Martin’s Close,"St Martin’s Close, Barford St Martin",2017-11-07,Tuesday,4,16:15,16:30,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/54
-North,Thursday Week 4,Baydon,"Ermin Street, outside School","Ermin Street, outside School, Baydon",2017-11-09,Thursday,4,10:50,11:40,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/26
-South,Monday Week 1,Beechingstoke,Limberstone,"Limberstone, Beechingstoke",2017-11-13,Monday,4,11:50,12:10,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/32
-South,Thursday Week 3,Berwick St John,Talbot Inn,"Talbot Inn, Berwick St John",2017-11-30,Thursday,4,09:50,10:40,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/49
-South,Tuesday Week 1,Bishopdown,Busy Bees Nursery,"Busy Bees Nursery, Bishopdown",2017-11-14,Tuesday,4,09:55,10:40,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/33
-South,Saturday Week 3,Bishopdown Farm,Pavilion,"Pavilion, Bishopdown Farm",2017-12-02,Saturday,4,15:20,16:15,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/51
-North,Tuesday Week 3,Bishops Cannings,The Street,"The Street, Bishops Cannings",2017-11-28,Tuesday,4,09:30,10:30,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/17
-South,Wednesday Week 4,Bishopstone,The Styles,"The Styles, Bishopstone",2017-11-08,Wednesday,4,11:30,11:50,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/55
-South,Friday Week 3,Boscombe/Allington,Telephone Box,"Telephone Box, Boscombe/Allington",2017-12-01,Friday,4,10:45,11:00,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/50
-South,Wednesday Week 4,Bowerchalke,Village Hall,"Village Hall, Bowerchalke",2017-11-08,Wednesday,4,12:40,12:55,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/55
-North,Wednesday Week 4,Bratton,The Duke Pub,"The Duke Pub, Bratton",2017-11-08,Wednesday,4,10:40,11:00,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/25
-North,Thursday Week 2,Brinkworth,Little Foxes,"Little Foxes, Brinkworth",2017-11-23,Thursday,4,09:45,10:45,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/12
-North,Thursday Week 2,Brinkworth,Village Hall,"Village Hall, Brinkworth",2017-11-23,Thursday,4,10:50,11:25,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/12
-South,Wednesday Week 4,Britford,Shelter Barn,"Shelter Barn, Britford",2017-11-08,Wednesday,4,10:10,10:30,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/55
-North,Tuesday Week 3,Broad Hinton,Village Hall,"Village Hall, Broad Hinton",2017-11-28,Tuesday,4,15:15,16:00,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/17
-South,Wednesday Week 4,Broadchalke,Church Car Park,"Church Car Park, Broadchalke",2017-11-08,Wednesday,4,15:05,15:40,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/55
-South,Wednesday Week 4,Broadchalke,Knighton Road,"Knighton Road, Broadchalke",2017-11-08,Wednesday,4,12:00,12:20,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/55
-South,Wednesday Week 4,Broadchalke,School,"School, Broadchalke",2017-11-08,Wednesday,4,14:15,14:45,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/55
-North,Saturday Week 4,Bromham,Highfield Road,"Highfield Road, Bromham",2017-11-11,Saturday,4,15:20,16:10,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/28
-North,Saturday Week 4,Bromham,The Greyhound,"The Greyhound, Bromham",2017-11-11,Saturday,4,14:40,15:10,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/28
-North,Saturday Week 4,Bromham,Westbrook,"Westbrook, Bromham",2017-11-11,Saturday,4,13:45,14:30,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/28
-North,Tuesday Week 1,Broughton Gifford,The Fox Pub,"The Fox Pub, Broughton Gifford",2017-11-14,Tuesday,4,10:30,11:00,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/2
-North,Monday Week 1,Bulkington,The Well,"The Well, Bulkington",2017-11-13,Monday,4,11:05,11:30,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/1
-South,Wednesday Week 2,Burbage,Taskers Lane lay-by,"Taskers Lane lay-by, Burbage",2017-11-22,Wednesday,4,12:05,12:35,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/41
-South,Wednesday Week 2,Burbage,The Sprays,"The Sprays, Burbage",2017-11-22,Wednesday,4,11:35,12:00,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/41
-South,Wednesday Week 2,Burbage,Village Hall,"Village Hall, Burbage",2017-11-22,Wednesday,4,10:30,11:30,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/41
-North,Saturday Week 2,Cadley,Green near garage,"Green near garage, Cadley",2017-11-25,Saturday,4,14:15,14:45,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/14
-North,Tuesday Week 4,Castle Combe,By Market Cross,"By Market Cross, Castle Combe",2017-11-07,Tuesday,4,15:15,15:45,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/24
-North,Wednesday Week 2,Chapmanslade,School (fortnightly stop),"School (fortnightly stop), Chapmanslade",2017-11-22,Wednesday,4,13:30,14:30,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/11
-North,Wednesday Week 4,Chapmanslade,School (fortnightly stop),"School (fortnightly stop), Chapmanslade",2017-11-08,Wednesday,4,13:30,14:30,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/25
-North,Monday Week 3,Cherhill,Church,"Church, Cherhill",2017-11-27,Monday,4,12:15,12:35,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/16
-North,Monday Week 3,Cherhill,Olivers Hill,"Olivers Hill, Cherhill",2017-11-27,Monday,4,12:40,13:00,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/16
-South,Tuesday Week 4,Chilmark,Hops Close,"Hops Close, Chilmark",2017-11-07,Tuesday,4,14:45,15:20,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/54
-North,Thursday Week 4,Chilton Foliat,Stagg Hill,"Stagg Hill, Chilton Foliat",2017-11-09,Thursday,4,13:00,13:45,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/26
-South,Monday Week 1,Chirton,The Street,"The Street, Chirton",2017-11-13,Monday,4,13:35,14:35,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/32
-South,Friday Week 4,Chitterne,Car Park near the Church,"Car Park near the Church, Chitterne",2017-11-10,Friday,4,11:40,12:00,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/57
-North,Thursday Week 1,Christian Malford,Village Hall,"Village Hall, Christian Malford",2017-11-16,Thursday,4,14:15,14:45,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/4
-South,Friday Week 2,Chute Cadley,Pond,"Pond, Chute Cadley",2017-11-24,Friday,4,10:55,11:25,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/43
-South,Friday Week 2,Chute Forest,Bus Shelter,"Bus Shelter, Chute Forest",2017-11-24,Friday,4,10:15,10:40,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/43
-South,Friday Week 4,Codford,School,"School, Codford",2017-11-10,Friday,4,13:10,14:50,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/57
-North,Wednesday Week 1,Colerne,Fosseway Close,"Fosseway Close, Colerne",2017-11-15,Wednesday,4,09:45,10:20,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/3
-North,Wednesday Week 1,Colerne,Near School (fortnightly stop),"Near School (fortnightly stop), Colerne",2017-11-15,Wednesday,4,10:30,13:00,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/3
-North,Wednesday Week 3,Colerne,Near School (fortnightly stop),"Near School (fortnightly stop), Colerne",2017-11-29,Wednesday,4,10:30,13:00,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/18
-South,Friday Week 1,Collingbourne Ducis,New School,"New School, Collingbourne Ducis",2017-11-17,Friday,4,11:50,12:45,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/36
-South,Friday Week 1,Collingbourne Ducis,West Farm,"West Farm, Collingbourne Ducis",2017-11-17,Friday,4,11:10,11:40,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/36
-South,Friday Week 1,Collingbourne Kingston,Aughton,"Aughton, Collingbourne Kingston",2017-11-17,Friday,4,13:55,14:25,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/36
-North,Monday Week 3,Compton Bassett,Briar Leaze,"Briar Leaze, Compton Bassett",2017-11-27,Monday,4,11:00,11:20,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/16
-North,Friday Week 1,Crudwell,The Dawneys,"The Dawneys, Crudwell",2017-11-17,Friday,4,11:30,12:15,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/5
-North,Friday Week 3,Dauntsey,School,"School, Dauntsey",2017-12-01,Friday,4,10:50,11:20,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/20
-North,Tuesday Week 1,Derry Hill,Lansdowne Hall,"Lansdowne Hall, Derry Hill",2017-11-14,Tuesday,4,14:30,15:45,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/2
-North,Wednesday Week 4,Dilton Marsh,Lyes Grove,"Lyes Grove, Dilton Marsh",2017-11-08,Wednesday,4,14:45,15:15,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/25
-South,Tuesday Week 2,Dinton,School (fortnightly stop),"School (fortnightly stop), Dinton",2017-11-21,Tuesday,4,13:10,14:00,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/40
-South,Tuesday Week 4,Dinton,School (fortnightly stop),"School (fortnightly stop), Dinton",2017-11-07,Tuesday,4,13:10,14:00,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/54
-South,Tuesday Week 4,Dinton,Spracklands,"Spracklands, Dinton",2017-11-07,Tuesday,4,15:40,16:00,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/54
-South,Saturday Week 1,East Gomeldon,Bus Turning Area (fortnightly stop),"Bus Turning Area (fortnightly stop), East Gomeldon",2017-11-18,Saturday,4,14:30,15:20,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/37
-South,Friday Week 3,East Gomeldon,Bus Turning Area (fortnightly stop),"Bus Turning Area (fortnightly stop), East Gomeldon",2017-12-01,Friday,4,14:45,15:50,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/50
-South,Friday Week 2,East Grafton,Coronation Hall,"Coronation Hall, East Grafton",2017-11-24,Friday,4,11:55,12:25,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/43
-South,Tuesday Week 3,East Grimstead,The Pond,"The Pond, East Grimstead",2017-11-28,Tuesday,4,11:55,12:15,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/47
-South,Saturday Week 2,East Harnham,Burford Road,"Burford Road, East Harnham",2017-11-25,Saturday,4,13:30,14:00,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/44
-South,Tuesday Week 2,East Knoyle,Seymour Arms Pub,"Seymour Arms Pub, East Knoyle",2017-11-21,Tuesday,4,11:10,11:40,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/40
-North,Wednesday Week 4,Edington,Post box,"Post box, Edington",2017-11-08,Wednesday,4,10:00,10:30,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/25
-South,Friday Week 1,Enford,Water Lane,"Water Lane, Enford",2017-11-17,Friday,4,15:30,16:00,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/36
-South,Friday Week 1,Everleigh,High Trees,"High Trees, Everleigh",2017-11-17,Friday,4,14:45,15:10,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/36
-South,Tuesday Week 3,Farley,Church,"Church, Farley",2017-11-28,Tuesday,4,11:10,11:40,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/47
-South,Wednesday Week 2,Figheldean,Oak Lane,"Oak Lane, Figheldean",2017-11-22,Wednesday,4,14:30,15:30,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/41
-South,Tuesday Week 1,Firsdown,Great Croft,"Great Croft, Firsdown",2017-11-14,Tuesday,4,11:35,11:50,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/33
-South,Tuesday Week 1,Firsdown,Top Post Box,"Top Post Box, Firsdown",2017-11-14,Tuesday,4,11:55,12:10,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/33
-South,Tuesday Week 1,Ford,Green Lane,"Green Lane, Ford",2017-11-14,Tuesday,4,10:55,11:20,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/33
-South,Thursday Week 3,Fovant,Clays Orchard,"Clays Orchard, Fovant",2017-11-30,Thursday,4,12:00,12:15,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/49
-South,Saturday Week 2,Fugglestone Red,Ramleaze Drive,"Ramleaze Drive, Fugglestone Red",2017-11-25,Saturday,4,15:25,15:55,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/44
-North,Friday Week 2,Great Bedwyn,Church Street,"Church Street, Great Bedwyn",2017-11-24,Friday,4,13:20,13:40,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/13
-North,Friday Week 2,Great Bedwyn,Village Hall (fortnightly stop),"Village Hall (fortnightly stop), Great Bedwyn",2017-11-24,Friday,4,11:00,12:15,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/13
-North,Friday Week 4,Great Bedwyn,Village Hall (fortnightly stop),"Village Hall (fortnightly stop), Great Bedwyn",2017-11-10,Friday,4,11:10,12:15,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/27
-North,Friday Week 2,Great Bedwyn,Wansdyke Road,"Wansdyke Road, Great Bedwyn",2017-11-24,Friday,4,10:35,10:55,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/13
-South,Wednesday Week 3,Great Cheverell,The Old School,"The Old School, Great Cheverell",2017-11-29,Wednesday,4,10:05,10:20,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/48
-North,Thursday Week 1,Great Somerford,Near Volunteer Arms,"Near Volunteer Arms, Great Somerford",2017-11-16,Thursday,4,12:45,13:10,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/4
-North,Thursday Week 1,Great Somerford,School,"School, Great Somerford",2017-11-16,Thursday,4,13:15,14:00,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/4
-South,Thursday Week 3,Great Wishford,Farmyard opposite the Church,"Farmyard opposite the Church, Great Wishford",2017-11-30,Thursday,4,13:50,14:40,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/49
-South,Tuesday Week 4,Hanging Langford,Post Box,"Post Box, Hanging Langford",2017-11-07,Tuesday,4,10:20,10:45,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/54
-North,Monday Week 3,Heddington,Amenities car park,"Amenities car park, Heddington",2017-11-27,Monday,4,14:55,15:55,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/16
-South,Friday Week 4,Heytesbury,St John’s,"St John’s, Heytesbury",2017-11-10,Friday,4,15:30,16:00,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/57
-North,Monday Week 3,Hilmarton,School Community Hall car park,"School Community Hall car park, Hilmarton",2017-11-27,Monday,4,10:15,10:45,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/16
-South,Thursday Week 2,Hindon,Bank House High Street (fortnightly stop),"Bank House High Street (fortnightly stop), Hindon",2017-11-23,Thursday,4,14:05,16:00,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/42
-South,Thursday Week 4,Hindon,Bank House High Street (fortnightly stop),"Bank House High Street (fortnightly stop), Hindon",2017-11-09,Thursday,4,14:05,16:00,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/56
-South,Thursday Week 2,Hindon,School (fortnightly stop),"School (fortnightly stop), Hindon",2017-11-23,Thursday,4,13:30,14:00,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/42
-South,Thursday Week 4,Hindon,School (fortnightly stop),"School (fortnightly stop), Hindon",2017-11-09,Thursday,4,13:30,14:00,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/56
-North,Wednesday Week 2,Holt,Little Parks,"Little Parks, Holt",2017-11-22,Wednesday,4,15:15,16:00,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/11
-North,Wednesday Week 1,Holt,The Elms (fortnightly stop),"The Elms (fortnightly stop), Holt",2017-11-15,Wednesday,4,15:30,16:20,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/3
-North,Wednesday Week 3,Holt,The Elms (fortnightly stop),"The Elms (fortnightly stop), Holt",2017-11-29,Wednesday,4,15:30,16:20,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/18
-South,Wednesday Week 4,Homington,The Manor,"The Manor, Homington",2017-11-08,Wednesday,4,10:50,11:05,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/55
-North,Tuesday Week 2,Hook,Drury Close,"Drury Close, Hook",2017-11-21,Tuesday,4,10:40,11:00,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/10
-North,Tuesday Week 2,Hook,Lydiard Residential Park,"Lydiard Residential Park, Hook",2017-11-21,Tuesday,4,11:10,11:30,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/10
-South,Tuesday Week 2,Horningsham,Village hall,"Village hall, Horningsham",2017-11-21,Tuesday,4,10:00,10:30,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/40
-North,Thursday Week 1,Hullavington,By School,"By School, Hullavington",2017-11-16,Thursday,4,10:15,11:00,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/4
-North,Thursday Week 1,Hullavington,Near garage/bus stop,"Near garage/bus stop, Hullavington",2017-11-16,Thursday,4,11:05,11:30,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/4
-North,Monday Week 1,Keevil,Stocks Green,"Stocks Green, Keevil",2017-11-13,Monday,4,10:35,10:55,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/1
-South,Thursday Week 2,Kilmington,Home Guard Car Park (fortnightly stop),"Home Guard Car Park (fortnightly stop), Kilmington",2017-11-23,Thursday,4,11:25,11:35,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/42
-South,Thursday Week 4,Kilmington,Home Guard Car Park (fortnightly stop),"Home Guard Car Park (fortnightly stop), Kilmington",2017-11-09,Thursday,4,11:25,11:35,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/56
-South,Thursday Week 2,Kilmington,School (fortnightly stop),"School (fortnightly stop), Kilmington",2017-11-23,Thursday,4,11:40,12:05,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/42
-South,Thursday Week 4,Kilmington,School (fortnightly stop),"School (fortnightly stop), Kilmington",2017-11-09,Thursday,4,11:40,12:05,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/56
-North,Saturday Week 1,Kington Langley,Village Hall,"Village Hall, Kington Langley",2017-11-18,Saturday,4,09:20,10:00,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/6
-North,Thursday Week 1,Kington St Michael,Lodge Farm Nursery,"Lodge Farm Nursery, Kington St Michael",2017-11-16,Thursday,4,09:30,10:00,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/4
-North,Tuesday Week 4,Kington St Michael,Post Office,"Post Office, Kington St Michael",2017-11-07,Tuesday,4,10:10,10:30,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/24
-North,Tuesday Week 2,Kington St Michael,School (fortnightly stop),"School (fortnightly stop), Kington St Michael",2017-11-21,Tuesday,4,09:15,10:00,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/10
-North,Tuesday Week 4,Kington St Michael,School (fortnightly stop),"School (fortnightly stop), Kington St Michael",2017-11-07,Tuesday,4,09:15,10:00,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/24
-North,Tuesday Week 1,Lacock,High Street,"High Street, Lacock",2017-11-14,Tuesday,4,13:15,13:55,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/2
-South,Saturday Week 1,Landford,Beech Grange,"Beech Grange, Landford",2017-11-18,Saturday,4,11:50,12:40,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/37
-South,Monday Week 1,Larkhill,Opposite School,"Opposite School, Larkhill",2017-11-13,Monday,4,15:20,16:00,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/32
-North,Tuesday Week 2,Latton,By the phone box,"By the phone box, Latton",2017-11-21,Tuesday,4,13:20,13:40,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/10
-South,Saturday Week 3,Laverstock,Elm Close,"Elm Close, Laverstock",2017-12-02,Saturday,4,14:45,15:05,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/51
-South,Saturday Week 3,Laverstock,Napier Crescent,"Napier Crescent, Laverstock",2017-12-02,Saturday,4,14:10,14:35,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/51
-North,Friday Week 1,Lea,Near School,"Near School, Lea",2017-11-17,Friday,4,10:20,11:10,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/5
-North,Thursday Week 3,Limpley Stoke,Uplands,"Uplands, Limpley Stoke",2017-11-30,Thursday,4,10:00,10:25,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/19
-North,Friday Week 2,Little Bedwyn,Church Lane,"Church Lane, Little Bedwyn",2017-11-24,Friday,4,13:50,14:10,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/13
-North,Saturday Week 3,Littleton Drew,Near old School,"Near old School, Littleton Drew",2017-12-02,Saturday,4,09:40,10:15,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/21
-South,Wednesday Week 3,Littleton Pannell,Lay-by in High Street,"Lay-by in High Street, Littleton Pannell",2017-11-29,Wednesday,4,10:30,10:45,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/48
-North,Tuesday Week 3,Lockeridge,Who’d a Thought It,"Who’d a Thought It, Lockeridge",2017-11-28,Tuesday,4,10:45,11:15,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/17
-South,Saturday Week 4,Lover,St Mary’s Close,"St Mary’s Close, Lover",2017-11-11,Saturday,4,14:25,15:00,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/58
-North,Friday Week 3,Lower Stanton,Near Green,"Near Green, Lower Stanton",2017-12-01,Friday,4,11:40,12:10,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/20
-South,Wednesday Week 1,Lower Woodford,The Wheatsheaf,"The Wheatsheaf, Lower Woodford",2017-11-15,Wednesday,4,11:40,12:00,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/34
-North,Tuesday Week 4,Luckington,Playing Fields,"Playing Fields, Luckington",2017-11-07,Tuesday,4,11:45,12:15,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/24
-South,Tuesday Week 2,Ludwell,Coronation Close Bungalows,"Coronation Close Bungalows, Ludwell",2017-11-21,Tuesday,4,14:30,14:55,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/40
-North,Saturday Week 2,Lydeway,Clock Inn Park,"Clock Inn Park, Lydeway",2017-11-25,Saturday,4,12:00,12:45,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/14
-North,Tuesday Week 2,Lydiard Millicent,Sun Inn,"Sun Inn, Lydiard Millicent",2017-11-21,Tuesday,4,11:40,12:00,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/10
-South,Friday Week 2,Milton Lilbourne,New Severalls,"New Severalls, Milton Lilbourne",2017-11-24,Friday,4,13:45,14:20,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/43
-North,Tuesday Week 2,Minety,Bus shelter,"Bus shelter, Minety",2017-11-21,Tuesday,4,14:45,15:30,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/10
-North,Tuesday Week 2,Minety,Derry Park,"Derry Park, Minety",2017-11-21,Tuesday,4,15:35,16:00,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/10
-North,Saturday Week 1,Neston,Pitts Croft,"Pitts Croft, Neston",2017-11-18,Saturday,4,15:15,15:45,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/6
-North,Tuesday Week 4,Nettleton,Long Leaze,"Long Leaze, Nettleton",2017-11-07,Tuesday,4,14:20,15:00,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/24
-South,Friday Week 3,Newton Tony,The School,"The School, Newton Tony",2017-12-01,Friday,4,11:10,12:00,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/50
-South,Saturday Week 2,Nomansland,The Green (fortnightly stop),"The Green (fortnightly stop), Nomansland",2017-11-25,Saturday,4,09:30,12:00,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/44
-South,Saturday Week 4,Nomansland,The Green (fortnightly stop),"The Green (fortnightly stop), Nomansland",2017-11-11,Saturday,4,09:30,12:00,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/58
-North,Friday Week 1,Oaksey,Bendy Bow (fortnightly stop),"Bendy Bow (fortnightly stop), Oaksey",2017-11-17,Friday,4,13:15,13:45,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/5
-North,Friday Week 3,Oaksey,Bendy Bow (fortnightly stop),"Bendy Bow (fortnightly stop), Oaksey",2017-12-01,Friday,4,13:15,13:45,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/20
-South,Monday Week 3,Oare,Old Post Office,"Old Post Office, Oare",2017-11-27,Monday,4,12:40,13:10,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/46
-North,Thursday Week 4,Ogbourne St George,Liddiards Green,"Liddiards Green, Ogbourne St George",2017-11-09,Thursday,4,10:00,10:30,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/26
-South,Wednesday Week 1,Old Sarum,Pheasant Drive,"Pheasant Drive, Old Sarum",2017-11-15,Wednesday,4,10:00,10:45,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/34
-North,Saturday Week 2,Pewsham,King’s Lodge School (fortnightly stop),"King’s Lodge School (fortnightly stop), Pewsham",2017-11-25,Saturday,4,09:15,11:15,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/14
-North,Saturday Week 4,Pewsham,King’s Lodge School (fortnightly stop),"King’s Lodge School (fortnightly stop), Pewsham",2017-11-11,Saturday,4,09:15,11:15,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/28
-South,Tuesday Week 3,Pitton,Black Lane,"Black Lane, Pitton",2017-11-28,Tuesday,4,10:00,10:20,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/47
-South,Tuesday Week 3,Pitton,School,"School, Pitton",2017-11-28,Tuesday,4,10:25,10:55,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/47
-South,Tuesday Week 3,Pitton,Village Hall,"Village Hall, Pitton",2017-11-28,Tuesday,4,09:30,09:55,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/47
-South,Friday Week 3,Porton,Malvern Way,"Malvern Way, Porton",2017-12-01,Friday,4,13:20,13:45,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/50
-North,Monday Week 1,Potterne,St Mary’s,"St Mary’s, Potterne",2017-11-13,Monday,4,15:05,15:20,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/1
-North,Monday Week 1,Potterne,The School,"The School, Potterne",2017-11-13,Monday,4,14:00,15:00,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/1
-North,Monday Week 1,Poulshot,The Raven Pub,"The Raven Pub, Poulshot",2017-11-13,Monday,4,12:40,13:00,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/1
-South,Saturday Week 4,Quavey,The Well,"The Well, Quavey",2017-11-11,Saturday,4,13:55,14:15,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/58
-North,Saturday Week 4,Rowde,Village Hall,"Village Hall, Rowde",2017-11-11,Saturday,4,11:40,12:30,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/28
-North,Saturday Week 1,Rudloe,Estate,"Estate, Rudloe",2017-11-18,Saturday,4,14:30,15:00,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/6
-South,Monday Week 3,Rushall,Pewsey Road,"Pewsey Road, Rushall",2017-11-27,Monday,4,10:15,11:05,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/46
-North,Friday Week 4,Savernake,School,"School, Savernake",2017-11-10,Friday,4,10:00,10:30,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/27
-North,Friday Week 2,Savernake,The Warren (fortnightly stop),"The Warren (fortnightly stop), Savernake",2017-11-24,Friday,4,10:00,10:25,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/13
-North,Friday Week 4,Savernake,The Warren (fortnightly stop),"The Warren (fortnightly stop), Savernake",2017-11-10,Friday,4,10:35,11:00,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/27
-North,Monday Week 1,Seend,The Lye,"The Lye, Seend",2017-11-13,Monday,4,09:40,10:00,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/1
-North,Monday Week 1,Seend Cleeve,Telephone box,"Telephone box, Seend Cleeve",2017-11-13,Monday,4,10:05,10:25,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/1
-North,Wednesday Week 2,Semington,Littlemarsh,"Littlemarsh, Semington",2017-11-22,Wednesday,4,09:45,10:05,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/11
-North,Wednesday Week 2,Semington,Village Hall,"Village Hall, Semington",2017-11-22,Wednesday,4,10:10,10:30,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/11
-North,Friday Week 4,Shalbourne,Kingston Road,"Kingston Road, Shalbourne",2017-11-10,Friday,4,14:15,14:55,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/27
-North,Friday Week 4,Shalbourne,The Plough,"The Plough, Shalbourne",2017-11-10,Friday,4,13:25,14:10,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/27
-North,Saturday Week 1,Sherston,High Street (fortnightly stop),"High Street (fortnightly stop), Sherston",2017-11-18,Saturday,4,10:30,12:45,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/6
-North,Saturday Week 3,Sherston,High Street (fortnightly stop),"High Street (fortnightly stop), Sherston",2017-12-02,Saturday,4,10:30,12:45,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/21
-North,Tuesday Week 4,Sherston,Noah’s Ark Nursery,"Noah’s Ark Nursery, Sherston",2017-11-07,Tuesday,4,13:10,13:50,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/24
-South,Wednesday Week 1,Shrewton,Hindes Meadow (fortnightly stop),"Hindes Meadow (fortnightly stop), Shrewton",2017-11-15,Wednesday,4,13:30,13:45,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/34
-South,Wednesday Week 3,Shrewton,Hindes Meadow (fortnightly stop),"Hindes Meadow (fortnightly stop), Shrewton",2017-11-29,Wednesday,4,13:30,13:45,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/48
-South,Wednesday Week 1,Shrewton,Maddington Church Rooms,"Maddington Church Rooms, Shrewton",2017-11-15,Wednesday,4,14:00,16:00,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/34
-South,Wednesday Week 3,Shrewton,Maddington Church Rooms,"Maddington Church Rooms, Shrewton",2017-11-29,Wednesday,4,14:00,16:00,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/48
-South,Saturday Week 1,South Newton,Vale View Road (fortnightly stop),"Vale View Road (fortnightly stop), South Newton",2017-11-18,Saturday,4,16:00,16:30,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/37
-South,Thursday Week 3,South Newton,Vale View Road (fortnightly stop),"Vale View Road (fortnightly stop), South Newton",2017-11-30,Thursday,4,14:50,15:40,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/49
-North,Monday Week 3,Spirthill,Naish House Farm,"Naish House Farm, Spirthill",2017-11-27,Monday,4,09:30,10:00,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/16
-North,Friday Week 4,Stanton St Bernard,Village Hall,"Village Hall, Stanton St Bernard",2017-11-10,Friday,4,15:40,16:10,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/27
-North,Tuesday Week 4,Stanton St Quintin,School,"School, Stanton St Quintin",2017-11-07,Tuesday,4,10:50,11:20,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/24
-North,Friday Week 3,Startley,Near Greystones,"Near Greystones, Startley",2017-12-01,Friday,4,10:10,10:30,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/20
-North,Wednesday Week 2,Steeple Ashton,Longs Arms pub (fortnightly stop),"Longs Arms pub (fortnightly stop), Steeple Ashton",2017-11-22,Wednesday,4,11:15,12:15,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/11
-North,Wednesday Week 4,Steeple Ashton,Longs Arms pub (fortnightly stop),"Longs Arms pub (fortnightly stop), Steeple Ashton",2017-11-08,Wednesday,4,11:15,12:15,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/25
-North,Wednesday Week 2,Steeple Ashton,St Marys,"St Marys, Steeple Ashton",2017-11-22,Wednesday,4,10:45,11:05,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/11
-South,Tuesday Week 4,Steeple Langford,The Old School,"The Old School, Steeple Langford",2017-11-07,Tuesday,4,10:50,11:30,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/54
-North,Monday Week 3,Stockley,Telephone box,"Telephone box, Stockley",2017-11-27,Monday,4,14:15,14:45,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/16
-South,Wednesday Week 1,Stratford-sub-Castle,Castle Keep,"Castle Keep, Stratford-sub-Castle",2017-11-15,Wednesday,4,11:00,11:25,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/34
-North,Thursday Week 1,Sutton Benger,Bell Piece,"Bell Piece, Sutton Benger",2017-11-16,Thursday,4,14:55,16:00,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/4
-South,Friday Week 4,Sutton Veny,School,"School, Sutton Veny",2017-11-10,Friday,4,09:30,10:30,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/57
-South,Tuesday Week 4,Teffont,Lay-by opposite Frith’s Barn,"Lay-by opposite Frith’s Barn, Teffont",2017-11-07,Tuesday,4,14:10,14:30,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/54
-North,Wednesday Week 3,Thickwood,Calder House School,"Calder House School, Thickwood",2017-11-29,Wednesday,4,14:00,14:50,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/18
-South,Friday Week 4,Tilshead,Near the Church,"Near the Church, Tilshead",2017-11-10,Friday,4,10:55,11:30,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/57
-North,Thursday Week 2,Tockenham,Church,"Church, Tockenham",2017-11-23,Thursday,4,11:45,12:20,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/12
-South,Tuesday Week 2,Tollard Royal,The Pond,"The Pond, Tollard Royal",2017-11-21,Tuesday,4,15:10,15:30,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/40
-South,Monday Week 3,Upavon,Fairfields,"Fairfields, Upavon",2017-11-27,Monday,4,11:15,11:45,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/46
-South,Monday Week 3,Upavon,Watson Close,"Watson Close, Upavon",2017-11-27,Monday,4,11:50,12:20,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/46
-North,Tuesday Week 2,Upper Minety,Hovington Leaze,"Hovington Leaze, Upper Minety",2017-11-21,Tuesday,4,14:10,14:30,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/10
-North,Friday Week 1,Upper Seagry,School (fortnightly stop),"School (fortnightly stop), Upper Seagry",2017-11-17,Friday,4,09:20,10:00,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/5
-North,Friday Week 3,Upper Seagry,School (fortnightly stop),"School (fortnightly stop), Upper Seagry",2017-12-01,Friday,4,09:20,10:00,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/20
-North,Tuesday Week 4,Upper Wraxall,The Green,"The Green, Upper Wraxall",2017-11-07,Tuesday,4,16:00,16:20,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/24
-South,Friday Week 4,Upton Lovell,14a The Bungalow,"14a The Bungalow, Upton Lovell",2017-11-10,Friday,4,15:00,15:20,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/57
-North,Thursday Week 2,Urchfont,The Croft,"The Croft, Urchfont",2017-11-23,Thursday,4,13:50,14:35,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/12
-North,Thursday Week 2,Urchfont,The Green (fortnightly stop),"The Green (fortnightly stop), Urchfont",2017-11-23,Thursday,4,14:45,16:00,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/12
-North,Thursday Week 4,Urchfont,The Green (fortnightly stop),"The Green (fortnightly stop), Urchfont",2017-11-09,Thursday,4,14:45,16:00,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/26
-South,Monday Week 1,Wedhampton,Telephone Box,"Telephone Box, Wedhampton",2017-11-13,Monday,4,10:10,10:45,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/32
-North,Thursday Week 3,West Ashton,Orchard Close,"Orchard Close, West Ashton",2017-11-30,Thursday,4,15:15,15:45,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/19
-South,Thursday Week 1,West Dean,Village Hall,"Village Hall, West Dean",2017-11-16,Thursday,4,14:45,15:05,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/35
-South,Thursday Week 1,West Grimstead,Greenfields,"Greenfields, West Grimstead",2017-11-16,Thursday,4,15:20,15:35,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/35
-South,Thursday Week 1,West Grimstead,Recreation Ground,"Recreation Ground, West Grimstead",2017-11-16,Thursday,4,15:40,15:55,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/35
-South,Saturday Week 2,West Harnham,Berkshire Road,"Berkshire Road, West Harnham",2017-11-25,Saturday,4,14:10,15:00,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/44
-South,Wednesday Week 3,West Lavington,School,"School, West Lavington",2017-11-29,Wednesday,4,10:50,11:50,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/48
-North,Tuesday Week 3,West Overton,Peacocks,"Peacocks, West Overton",2017-11-28,Tuesday,4,11:25,12:05,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/17
-North,Thursday Week 3,Westwood,Post Office,"Post Office, Westwood",2017-11-30,Thursday,4,12:40,13:00,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/19
-South,Thursday Week 1,Whiteparish,Ashmore Close (fortnightly stop),"Ashmore Close (fortnightly stop), Whiteparish",2017-11-16,Thursday,4,10:35,11:05,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/35
-South,Saturday Week 3,Whiteparish,Ashmore Close (fortnightly stop),"Ashmore Close (fortnightly stop), Whiteparish",2017-12-02,Saturday,4,11:45,12:15,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/51
-South,Thursday Week 1,Whiteparish,School,"School, Whiteparish",2017-11-16,Thursday,4,11:10,12:10,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/35
-North,Tuesday Week 1,Whitley,Reading Rooms,"Reading Rooms, Whitley",2017-11-14,Tuesday,4,11:15,12:15,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/2
-South,Monday Week 1,Wilsford,Outside Lamberts,"Outside Lamberts, Wilsford",2017-11-13,Monday,4,11:00,11:35,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/32
-North,Thursday Week 3,Wingfield,The Poplars Pub,"The Poplars Pub, Wingfield",2017-11-30,Thursday,4,14:05,14:50,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/19
-North,Thursday Week 3,Winsley,Avonpark Retirement Village,"Avonpark Retirement Village, Winsley",2017-11-30,Thursday,4,10:40,11:10,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/19
-North,Thursday Week 3,Winsley,School,"School, Winsley",2017-11-30,Thursday,4,11:20,12:20,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/19
-South,Friday Week 3,Winterbourne Earls,Earls Manor Court,"Earls Manor Court, Winterbourne Earls",2017-12-01,Friday,4,14:00,14:30,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/50
-South,Friday Week 1,Winterbourne Earls,Glebe Hall (fortnightly stop),"Glebe Hall (fortnightly stop), Winterbourne Earls",2017-11-17,Friday,4,09:30,10:30,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/36
-South,Friday Week 3,Winterbourne Earls,Glebe Hall (fortnightly stop),"Glebe Hall (fortnightly stop), Winterbourne Earls",2017-12-01,Friday,4,09:30,10:30,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/50
-South,Friday Week 2,Winterbourne Gunner,Camp,"Camp, Winterbourne Gunner",2017-11-24,Friday,4,15:20,15:50,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/43
-South,Tuesday Week 1,Winterslow,Village Hall (fortnightly stop),"Village Hall (fortnightly stop), Winterslow",2017-11-14,Tuesday,4,13:30,16:15,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/33
-South,Tuesday Week 3,Winterslow,Village Hall (fortnightly stop),"Village Hall (fortnightly stop), Winterslow",2017-11-28,Tuesday,4,13:30,16:15,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/47
-South,Monday Week 3,Woodborough,Church,"Church, Woodborough",2017-11-27,Monday,4,14:30,14:50,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/46
-South,Monday Week 3,Woodborough,Social Club Car Park,"Social Club Car Park, Woodborough",2017-11-27,Monday,4,14:55,15:45,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/46
-South,Saturday Week 4,Woodfalls,Opposite Post Office,"Opposite Post Office, Woodfalls",2017-11-11,Saturday,4,13:25,13:45,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/58
-North,Monday Week 1,Worton,The School,"The School, Worton",2017-11-13,Monday,4,13:10,13:50,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/1
-South,Tuesday Week 4,Wylye,The Bell Pub,"The Bell Pub, Wylye",2017-11-07,Tuesday,4,09:30,10:05,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/54
-North,Monday Week 3,Yatesbury,The Lymers,"The Lymers, Yatesbury",2017-11-27,Monday,4,11:45,12:05,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/16
-North,Wednesday Week 1,Yatton Keynell,Village Hall,"Village Hall, Yatton Keynell",2017-11-15,Wednesday,4,14:15,14:45,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/3
-South,Thursday Week 2,Zeals,43 Zeals Rise (fortnightly stop),"43 Zeals Rise (fortnightly stop), Zeals",2017-11-23,Thursday,4,10:10,10:30,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/42
-South,Thursday Week 4,Zeals,43 Zeals Rise (fortnightly stop),"43 Zeals Rise (fortnightly stop), Zeals",2017-11-09,Thursday,4,10:10,10:30,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/56
-South,Thursday Week 2,Zeals,School (fortnightly stop),"School (fortnightly stop), Zeals",2017-11-23,Thursday,4,10:35,11:15,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/42
-South,Thursday Week 4,Zeals,School (fortnightly stop),"School (fortnightly stop), Zeals",2017-11-09,Thursday,4,10:35,11:15,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/56
+South,Thursday Week 1,Alderbury,Eyres Drive,"Eyres Drive, Alderbury",2019-02-07,Thursday,4,10:00,10:20,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/35
+South,Thursday Week 1,Alderbury,School,"School, Alderbury",2019-02-07,Thursday,4,13:45,14:20,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/35
+South,Saturday Week 2,Alderbury,Village Hall,"Village Hall, Alderbury",2019-02-16,Saturday,4,09:30,11:00,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/44
+South,Saturday Week 4,Alderbury,Village Hall,"Village Hall, Alderbury",2019-02-02,Saturday,4,09:30,11:00,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/58
+North,Friday Week 2,All Cannings,Village Hall,"Village Hall, All Cannings",2019-02-15,Friday,4,15:00,15:45,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/13
+Residential homes,Wednesday Week 3,Amesbury,Lanfear Close,"Lanfear Close, Amesbury",2019-02-20,Wednesday,4,09:30,10:00,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/104
+South,Tuesday Week 2,Ansty,The Maypole,"The Maypole, Ansty",2019-02-12,Tuesday,4,14:25,14:45,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/40
+North,Wednesday Week 2,Ashton Common,Bus stop,"Bus stop, Ashton Common",2019-02-13,Wednesday,4,15:45,16:10,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/11
+North,Wednesday Week 4,Ashton Common,Bus stop,"Bus stop, Ashton Common",2019-01-30,Wednesday,4,15:45,16:10,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/25
+North,Friday Week 1,Ashton Keynes,Village Hall,"Village Hall, Ashton Keynes",2019-02-08,Friday,4,14:00,15:45,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/5
+North,Friday Week 3,Ashton Keynes,Village Hall,"Village Hall, Ashton Keynes",2019-02-22,Friday,4,14:00,15:45,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/20
+North,Tuesday Week 2,Atworth,Mead Park,"Mead Park, Atworth",2019-02-12,Tuesday,4,09:45,10:15,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/10
+Residential homes,Tuesday Week 3,Atworth,Shell Court,"Shell Court, Atworth",2019-02-19,Tuesday,4,12:45,13:30,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/103
+North,Tuesday Week 3,Avebury,Caravan Park,"Caravan Park, Avebury",2019-02-19,Tuesday,4,14:30,15:00,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/17
+North,Tuesday Week 3,Avebury,High Street,"High Street, Avebury",2019-02-19,Tuesday,4,13:55,14:25,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/17
+North,Tuesday Week 3,Avebury Trusloe,Bungalows,"Bungalows, Avebury Trusloe",2019-02-19,Tuesday,4,12:15,12:45,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/17
+South,Tuesday Week 4,Barford St Martin,St Martin’s Close,"St Martin’s Close, Barford St Martin",2019-02-26,Tuesday,4,16:15,16:30,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/54
+North,Thursday Week 4,Baydon,"Ermin Street,","Ermin Street,, Baydon",2019-01-31,Thursday,4,10:50,11:40,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/26
+South,Monday Week 1,Beechingstoke,Limberstone,"Limberstone, Beechingstoke",2019-02-04,Monday,4,11:30,11:55,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/32
+South,Monday Week 3,Beechingstoke,Limberstone,"Limberstone, Beechingstoke",2019-02-18,Monday,4,11:30,11:55,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/46
+South,Thursday Week 3,Berwick St John,Talbot Inn,"Talbot Inn, Berwick St John",2019-02-21,Thursday,4,15:05,15:25,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/49
+South,Tuesday Week 1,Bishopdown,Busy Bees Nursery,"Busy Bees Nursery, Bishopdown",2019-02-05,Tuesday,4,09:55,10:40,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/33
+South,Saturday Week 2,Bishopdown Farm,Pavilion,"Pavilion, Bishopdown Farm",2019-02-16,Saturday,4,15:20,16:15,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/44
+South,Saturday Week 4,Bishopdown Farm,Pavilion,"Pavilion, Bishopdown Farm",2019-02-02,Saturday,4,15:20,16:15,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/58
+North,Tuesday Week 3,Bishops Cannings,The Street,"The Street, Bishops Cannings",2019-02-19,Tuesday,4,09:30,10:30,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/17
+South,Thursday Week 3,Bishopstone,The Styles,"The Styles, Bishopstone",2019-02-21,Thursday,4,11:15,11:35,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/49
+South,Friday Week 1,Boscombe/Allington,Telephone Box,"Telephone Box, Boscombe/Allington",2019-02-08,Friday,4,10:45,11:00,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/36
+South,Friday Week 3,Boscombe/Allington,Telephone Box,"Telephone Box, Boscombe/Allington",2019-02-22,Friday,4,10:45,11:00,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/50
+South,Thursday Week 3,Bower Chalke,The Village Hall,"The Village Hall, Bower Chalke",2019-02-21,Thursday,4,14:20,14:35,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/49
+Residential homes,Tuesday Week 3,Box,Brunel House,"Brunel House, Box",2019-02-19,Tuesday,4,14:15,14:40,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/103
+Residential homes,Tuesday Week 3,Box,Bybrook House,"Bybrook House, Box",2019-02-19,Tuesday,4,13:45,14:05,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/103
+Residential homes,Friday Week 1,Bradford on Avon,Aldhelm Court,"Aldhelm Court, Bradford on Avon",2019-02-08,Friday,4,11:25,11:45,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/92
+Residential homes,Friday Week 1,Bradford on Avon ,Cedar Court,"Cedar Court, Bradford on Avon ",2019-02-08,Friday,4,10:55,11:15,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/92
+Residential homes,Friday Week 1,Bradford on Avon ,Wiltshire Heights,"Wiltshire Heights, Bradford on Avon ",2019-02-08,Friday,4,10:30,10:50,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/92
+North,Thursday Week 3,Bratton,The Duke Pub,"The Duke Pub, Bratton",2019-02-21,Thursday,4,14:45,15:15,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/19
+Residential homes,Tuesday Week 1,Braydon,White Lodge,"White Lodge, Braydon",2019-02-05,Tuesday,4,11:45,12:15,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/89
+North,Friday Week 3,Brinkworth,Little Foxes,"Little Foxes, Brinkworth",2019-02-22,Friday,4,10:40,11:10,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/20
+North,Friday Week 3,Brinkworth,Village Hall,"Village Hall, Brinkworth",2019-02-22,Friday,4,11:15,11:45,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/20
+South,Thursday Week 3,Britford,Shelter Barn,"Shelter Barn, Britford",2019-02-21,Thursday,4,10:00,10:20,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/49
+South,Thursday Week 3,Broad Chalke,Church Car Park,"Church Car Park, Broad Chalke",2019-02-21,Thursday,4,11:50,12:10,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/49
+South,Thursday Week 3,Broad Chalke,School,"School, Broad Chalke",2019-02-21,Thursday,4,13:30,14:00,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/49
+North,Tuesday Week 3,Broad Hinton,Village Hall,"Village Hall, Broad Hinton",2019-02-19,Tuesday,4,15:15,16:00,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/17
+Residential homes,Monday Week 3,Bromham,Angell House,"Angell House, Bromham",2019-02-18,Monday,4,09:00,09:50,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/102
+North,Saturday Week 2,Bromham,Highfield Road,"Highfield Road, Bromham",2019-02-16,Saturday,4,14:50,15:20,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/14
+North,Saturday Week 2,Bromham,The Greyhound,"The Greyhound, Bromham",2019-02-16,Saturday,4,14:10,14:40,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/14
+North,Saturday Week 2,Bromham,Westbrook,"Westbrook, Bromham",2019-02-16,Saturday,4,13:30,14:00,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/14
+North,Tuesday Week 2,Broughton Gifford,The Rusty Stag Pub,"The Rusty Stag Pub, Broughton Gifford",2019-02-12,Tuesday,4,10:30,11:00,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/10
+North,Monday Week 1,Bulkington,The Well,"The Well, Bulkington",2019-02-04,Monday,4,11:05,11:30,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/1
+South,Wednesday Week 2,Burbage,Taskers Lane lay-by,"Taskers Lane lay-by, Burbage",2019-02-13,Wednesday,4,11:10,11:25,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/41
+South,Wednesday Week 2,Burbage,The Sprays,"The Sprays, Burbage",2019-02-13,Wednesday,4,10:45,11:05,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/41
+South,Wednesday Week 2,Burbage,Village Hall,"Village Hall, Burbage",2019-02-13,Wednesday,4,10:10,10:40,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/41
+North,Friday Week 2,Cadley,Green near garage,"Green near garage, Cadley",2019-02-15,Friday,4,14:05,14:25,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/13
+Residential homes,Thursday Week 4,Calne,James House,"James House, Calne",2019-01-31,Thursday,4,10:30,10:50,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/112
+Residential homes,Thursday Week 4,Calne,Marden Court,"Marden Court, Calne",2019-01-31,Thursday,4,10:10,10:25,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/112
+Residential homes,Thursday Week 4,Calne,The Wharf,"The Wharf, Calne",2019-01-31,Thursday,4,09:45,10:05,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/112
+North,Wednesday Week 1,Castle Combe,By Market Cross,"By Market Cross, Castle Combe",2019-02-06,Wednesday,4,15:15,15:45,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/3
+North,Wednesday Week 3,Castle Combe,By Market Cross,"By Market Cross, Castle Combe",2019-02-20,Wednesday,4,15:15,15:45,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/18
+North,Wednesday Week 2,Chapmanslade,School,"School, Chapmanslade",2019-02-13,Wednesday,4,13:45,14:30,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/11
+North,Wednesday Week 4,Chapmanslade,School,"School, Chapmanslade",2019-01-30,Wednesday,4,13:45,14:30,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/25
+North,Monday Week 3,Cherhill,Church,"Church, Cherhill",2019-02-18,Monday,4,12:15,12:35,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/16
+North,Monday Week 3,Cherhill,Olivers Hill,"Olivers Hill, Cherhill",2019-02-18,Monday,4,12:40,13:00,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/16
+South,Tuesday Week 4,Chilmark,Hops Close,"Hops Close, Chilmark",2019-02-26,Tuesday,4,14:55,15:20,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/54
+North,Thursday Week 4,Chilton Foliat,Stagg Hill,"Stagg Hill, Chilton Foliat",2019-01-31,Thursday,4,13:00,13:45,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/26
+Residential homes,Monday Week 3,Chippenham,Avon Court,"Avon Court, Chippenham",2019-02-18,Monday,4,13:25,13:45,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/102
+Residential homes,Monday Week 3,Chippenham,Cepen Lodge,"Cepen Lodge, Chippenham",2019-02-18,Monday,4,11:10,11:20,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/102
+Residential homes,Tuesday Week 4,Chippenham,Clift House,"Clift House, Chippenham",2019-02-26,Tuesday,4,11:15,11:45,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/110
+Residential homes,Tuesday Week 4,Chippenham,Croft Court,"Croft Court, Chippenham",2019-02-26,Tuesday,4,10:30,11:00,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/110
+Residential homes,Monday Week 3,Chippenham,Fairways,"Fairways, Chippenham",2019-02-18,Monday,4,11:20,12:00,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/102
+Residential homes,Monday Week 3,Chippenham,Ivyfield Court,"Ivyfield Court, Chippenham",2019-02-18,Monday,4,13:00,13:15,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/102
+Residential homes,Tuesday Week 4,Chippenham,St. Clements,"St. Clements, Chippenham",2019-02-26,Tuesday,4,09:45,10:20,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/110
+Residential homes,Tuesday Week 4,Chippenham,The Priory,"The Priory, Chippenham",2019-02-26,Tuesday,4,12:45,13:20,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/110
+South,Monday Week 1,Chirton,The Street,"The Street, Chirton",2019-02-04,Monday,4,13:15,14:00,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/32
+South,Monday Week 3,Chirton,The Street,"The Street, Chirton",2019-02-18,Monday,4,13:15,14:00,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/46
+South,Friday Week 4,Chitterne,Car Park near the Church,"Car Park near the Church, Chitterne",2019-02-01,Friday,4,11:25,11:45,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/57
+North,Thursday Week 1,Christian Malford,Village Hall,"Village Hall, Christian Malford",2019-02-07,Thursday,4,14:15,14:45,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/4
+South,Friday Week 2,Chute Cadley,Pond,"Pond, Chute Cadley",2019-02-15,Friday,4,10:35,10:55,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/43
+South,Friday Week 2,Chute Forest,Bus Shelter,"Bus Shelter, Chute Forest",2019-02-15,Friday,4,10:00,10:25,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/43
+South,Friday Week 4,Codford,Cherry Orchard,"Cherry Orchard, Codford",2019-02-01,Friday,4,13:50,14:10,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/57
+North,Wednesday Week 1,Colerne,Fosseway Close,"Fosseway Close, Colerne",2019-02-06,Wednesday,4,09:45,10:05,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/3
+North,Wednesday Week 1,Colerne,Near School,"Near School, Colerne",2019-02-06,Wednesday,4,10:15,12:45,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/3
+North,Wednesday Week 3,Colerne,Near School,"Near School, Colerne",2019-02-20,Wednesday,4,10:15,12:45,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/18
+South,Friday Week 2,Collingbourne Ducis,West Farm,"West Farm, Collingbourne Ducis",2019-02-15,Friday,4,11:20,11:45,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/43
+South,Friday Week 2,Collingbourne Kingston,Aughton,"Aughton, Collingbourne Kingston",2019-02-15,Friday,4,11:55,12:20,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/43
+North,Monday Week 3,Compton Bassett,Briar Leaze,"Briar Leaze, Compton Bassett",2019-02-18,Monday,4,11:00,11:20,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/16
+Residential homes,Tuesday Week 3,Corsham,Claremont and Warrington Lodge,"Claremont and Warrington Lodge, Corsham",2019-02-19,Tuesday,4,10:50,11:40,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/103
+Residential homes,Tuesday Week 3,Corsham,Holton House,"Holton House, Corsham",2019-02-19,Tuesday,4,09:45,10:00,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/103
+Residential homes,Tuesday Week 3,Corsham,Jargeau Court,"Jargeau Court, Corsham",2019-02-19,Tuesday,4,10:05,10:30,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/103
+Residential homes,Tuesday Week 1,Cricklade,Heberden House,"Heberden House, Cricklade",2019-02-05,Tuesday,4,11:05,11:30,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/89
+North,Friday Week 1,Crudwell,The Dawneys,"The Dawneys, Crudwell",2019-02-08,Friday,4,11:10,11:45,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/5
+North,Friday Week 3,Dauntsey,School,"School, Dauntsey",2019-02-22,Friday,4,10:00,10:20,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/20
+Residential homes,Monday Week 3,Derry Hill,Kingston House,"Kingston House, Derry Hill",2019-02-18,Monday,4,10:15,10:45,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/102
+North,Tuesday Week 2,Derry Hill,Lansdowne Hall,"Lansdowne Hall, Derry Hill",2019-02-12,Tuesday,4,14:20,15:45,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/10
+North,Tuesday Week 4,Derry Hill,Lansdowne Hall,"Lansdowne Hall, Derry Hill",2019-02-26,Tuesday,4,14:30,15:45,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/24
+Residential homes,Thursday Week 4,Devizes,Crammer Court,"Crammer Court, Devizes",2019-01-31,Thursday,4,11:15,11:45,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/112
+Residential homes,Monday Week 1,Devizes,Haywood Care,"Haywood Care, Devizes",2019-02-04,Monday,4,11:40,12:00,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/88
+Residential homes,Monday Week 1,Devizes,Needham House ,"Needham House , Devizes",2019-02-04,Monday,4,12:15,12:45,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/88
+Residential homes,Thursday Week 4,Devizes,The Croft,"The Croft, Devizes",2019-01-31,Thursday,4,11:50,12:20,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/112
+North,Wednesday Week 4,Dilton Marsh,Lyes Grove,"Lyes Grove, Dilton Marsh",2019-01-30,Wednesday,4,15:00,15:30,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/25
+South,Tuesday Week 4,Dinton,Pre-school,"Pre-school, Dinton",2019-02-26,Tuesday,4,13:40,14:10,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/54
+South,Tuesday Week 2,Dinton,School,"School, Dinton",2019-02-12,Tuesday,4,13:00,13:35,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/40
+South,Tuesday Week 4,Dinton,School,"School, Dinton",2019-02-26,Tuesday,4,13:00,13:35,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/54
+South,Tuesday Week 4,Dinton,Shop,"Shop, Dinton",2019-02-26,Tuesday,4,15:35,16:00,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/54
+South,Friday Week 1,East Gomeldon,Bus Turning Area,"Bus Turning Area, East Gomeldon",2019-02-08,Friday,4,14:45,15:50,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/36
+South,Friday Week 3,East Gomeldon,Bus Turning Area,"Bus Turning Area, East Gomeldon",2019-02-22,Friday,4,14:45,15:50,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/50
+South,Wednesday Week 2,East Grafton,Coronation Hall,"Coronation Hall, East Grafton",2019-02-13,Wednesday,4,11:40,12:00,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/41
+South,Tuesday Week 3,East Grimstead,The Pond,"The Pond, East Grimstead",2019-02-19,Tuesday,4,11:55,12:15,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/47
+South,Saturday Week 1,East Harnham,Burford Road,"Burford Road, East Harnham",2019-02-09,Saturday,4,13:30,14:00,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/37
+South,Tuesday Week 2,East Knoyle,Seymour Arms Pub,"Seymour Arms Pub, East Knoyle",2019-02-12,Tuesday,4,11:00,11:30,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/40
+South,Tuesday Week 4,East Knoyle,Seymour Arms Pub,"Seymour Arms Pub, East Knoyle",2019-02-26,Tuesday,4,11:10,11:40,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/54
+North,Wednesday Week 2,Edington,Post box,"Post box, Edington",2019-02-13,Wednesday,4,15:00,15:30,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/11
+South,Friday Week 2,Enford,Water Lane,"Water Lane, Enford",2019-02-15,Friday,4,15:45,16:10,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/43
+South,Wednesday Week 2,Everleigh,High Trees,"High Trees, Everleigh",2019-02-13,Wednesday,4,12:25,12:55,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/41
+South,Tuesday Week 3,Farley,Church,"Church, Farley",2019-02-19,Tuesday,4,11:10,11:40,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/47
+South,Friday Week 2,Figheldean,Oak Lane,"Oak Lane, Figheldean",2019-02-15,Friday,4,14:55,15:25,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/43
+South,Tuesday Week 1,Firsdown,Great Croft,"Great Croft, Firsdown",2019-02-05,Tuesday,4,11:35,11:50,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/33
+South,Tuesday Week 1,Firsdown,Top Post Box,"Top Post Box, Firsdown",2019-02-05,Tuesday,4,11:55,12:10,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/33
+South,Tuesday Week 1,Ford,Green Lane,"Green Lane, Ford",2019-02-05,Tuesday,4,10:55,11:20,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/33
+South,Tuesday Week 2,Fovant,Clays Orchard,"Clays Orchard, Fovant",2019-02-12,Tuesday,4,13:55,14:10,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/40
+South,Saturday Week 1,Fugglestone Red,Ramleaze Drive,"Ramleaze Drive, Fugglestone Red",2019-02-09,Saturday,4,15:10,15:25,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/37
+North,Friday Week 2,Great Bedwyn,Church Street,"Church Street, Great Bedwyn",2019-02-15,Friday,4,13:20,13:40,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/13
+North,Friday Week 2,Great Bedwyn,Village Hall,"Village Hall, Great Bedwyn",2019-02-15,Friday,4,11:00,12:15,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/13
+North,Friday Week 4,Great Bedwyn,Village Hall,"Village Hall, Great Bedwyn",2019-02-01,Friday,4,11:10,12:15,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/27
+North,Friday Week 2,Great Bedwyn,Wansdyke Road,"Wansdyke Road, Great Bedwyn",2019-02-15,Friday,4,10:35,10:55,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/13
+South,Wednesday Week 4,Great Cheverell,The Old School,"The Old School, Great Cheverell",2019-01-30,Wednesday,4,13:15,13:35,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/55
+North,Thursday Week 1,Great Somerford,School,"School, Great Somerford",2019-02-07,Thursday,4,13:15,14:00,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/4
+South,Wednesday Week 4,Great Wishford,Farmyard opposite the Church,"Farmyard opposite the Church, Great Wishford",2019-01-30,Wednesday,4,09:50,10:20,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/55
+South,Friday Week 4,Hanging Langford,Post Box,"Post Box, Hanging Langford",2019-02-01,Friday,4,15:40,16:00,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/57
+North,Monday Week 3,Heddington,Amenities car park,"Amenities car park, Heddington",2019-02-18,Monday,4,14:55,15:45,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/16
+South,Friday Week 4,Heytesbury,St John’s,"St John’s, Heytesbury",2019-02-01,Friday,4,10:40,11:05,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/57
+North,Monday Week 3,Hilmarton,School Community Hall car park,"School Community Hall car park, Hilmarton",2019-02-18,Monday,4,10:15,10:45,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/16
+South,Thursday Week 2,Hindon,Bank House High Street,"Bank House High Street, Hindon",2019-02-14,Thursday,4,14:05,16:00,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/42
+South,Thursday Week 4,Hindon,Bank House High Street,"Bank House High Street, Hindon",2019-01-31,Thursday,4,14:05,16:00,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/56
+South,Thursday Week 2,Hindon,School,"School, Hindon",2019-02-14,Thursday,4,13:30,14:00,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/42
+South,Thursday Week 4,Hindon,School,"School, Hindon",2019-01-31,Thursday,4,13:30,14:00,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/56
+Residential homes,Tuesday Week 4,Holt,Firlawn,"Firlawn, Holt",2019-02-26,Tuesday,4,13:40,14:10,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/110
+North,Saturday Week 4,Holt,Little Parks,"Little Parks, Holt",2019-02-02,Saturday,4,15:15,15:45,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/28
+North,Wednesday Week 2,Holt,The Elms,"The Elms, Holt",2019-02-13,Wednesday,4,09:30,10:15,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/11
+North,Wednesday Week 4,Holt,The Elms,"The Elms, Holt",2019-01-30,Wednesday,4,09:30,10:15,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/25
+South,Thursday Week 3,Homington,The Manor,"The Manor, Homington",2019-02-21,Thursday,4,10:40,10:55,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/49
+North,Tuesday Week 1,Hook,Drury Close,"Drury Close, Hook",2019-02-05,Tuesday,4,10:40,11:00,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/2
+North,Tuesday Week 1,Hook,Lydiard Residential Park,"Lydiard Residential Park, Hook",2019-02-05,Tuesday,4,11:10,11:30,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/2
+South,Tuesday Week 2,Horningsham,Village hall,"Village hall, Horningsham",2019-02-12,Tuesday,4,10:00,10:25,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/40
+South,Tuesday Week 4,Horningsham,Village hall,"Village hall, Horningsham",2019-02-26,Tuesday,4,10:00,10:25,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/54
+North,Thursday Week 1,Hullavington,By School,"By School, Hullavington",2019-02-07,Thursday,4,10:15,11:00,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/4
+North,Thursday Week 1,Hullavington,Near garage/bus stop,"Near garage/bus stop, Hullavington",2019-02-07,Thursday,4,11:05,11:30,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/4
+North,Monday Week 1,Keevil,Stocks Green,"Stocks Green, Keevil",2019-02-04,Monday,4,10:35,10:55,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/1
+South,Thursday Week 2,Kilmington,Home Guard Car Park,"Home Guard Car Park, Kilmington",2019-02-14,Thursday,4,11:20,11:35,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/42
+South,Thursday Week 4,Kilmington,Home Guard Car Park,"Home Guard Car Park, Kilmington",2019-01-31,Thursday,4,11:25,11:35,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/56
+North,Saturday Week 2,Kington Langley,Village Hall,"Village Hall, Kington Langley",2019-02-16,Saturday,4,09:20,10:00,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/14
+North,Saturday Week 4,Kington Langley,Village Hall,"Village Hall, Kington Langley",2019-02-02,Saturday,4,09:20,10:00,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/28
+North,Thursday Week 1,Kington St Michael,Lodge Farm Nursery,"Lodge Farm Nursery, Kington St Michael",2019-02-07,Thursday,4,09:30,10:00,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/4
+North,Tuesday Week 4,Kington St Michael,Post Office,"Post Office, Kington St Michael",2019-02-26,Tuesday,4,10:10,10:30,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/24
+North,Tuesday Week 4,Kington St Michael,School,"School, Kington St Michael",2019-02-26,Tuesday,4,09:15,10:00,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/24
+North,Tuesday Week 2,Lacock,High Street,"High Street, Lacock",2019-02-12,Tuesday,4,13:15,13:55,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/10
+South,Saturday Week 2,Landford,Beech Grange,"Beech Grange, Landford",2019-02-16,Saturday,4,11:20,11:50,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/44
+South,Saturday Week 4,Landford,Beech Grange,"Beech Grange, Landford",2019-02-02,Saturday,4,11:20,11:50,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/58
+South,Wednesday Week 2,Larkhill,Car Park,"Car Park, Larkhill",2019-02-13,Wednesday,4,14:35,15:35,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/41
+South,Wednesday Week 4,Larkhill,Car Park,"Car Park, Larkhill",2019-01-30,Wednesday,4,14:35,15:35,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/55
+South,Saturday Week 2,Laverstock,Elm Close,"Elm Close, Laverstock",2019-02-16,Saturday,4,14:45,15:05,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/44
+South,Saturday Week 4,Laverstock,Elm Close,"Elm Close, Laverstock",2019-02-02,Saturday,4,14:45,15:05,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/58
+South,Saturday Week 2,Laverstock,Napier Crescent,"Napier Crescent, Laverstock",2019-02-16,Saturday,4,14:10,14:35,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/44
+South,Saturday Week 4,Laverstock,Napier Crescent,"Napier Crescent, Laverstock",2019-02-02,Saturday,4,14:10,14:35,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/58
+North,Friday Week 1,Lea,Near School,"Near School, Lea",2019-02-08,Friday,4,10:20,10:50,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/5
+North,Thursday Week 3,Limpley Stoke,Uplands,"Uplands, Limpley Stoke",2019-02-21,Thursday,4,10:00,10:25,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/19
+North,Saturday Week 1,Littleton Drew,Near old School,"Near old School, Littleton Drew",2019-02-09,Saturday,4,09:30,10:10,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/6
+North,Saturday Week 3,Littleton Drew,Near old School,"Near old School, Littleton Drew",2019-02-23,Saturday,4,09:30,10:10,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/21
+South,Wednesday Week 4,Littleton Pannell,Lay-by in High Street,"Lay-by in High Street, Littleton Pannell",2019-01-30,Wednesday,4,13:45,14:00,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/55
+North,Tuesday Week 3,Lockeridge,Who’d a Thought It,"Who’d a Thought It, Lockeridge",2019-02-19,Tuesday,4,10:45,11:15,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/17
+South,Saturday Week 3,Lover,St Mary’s Close,"St Mary’s Close, Lover",2019-02-23,Saturday,4,14:25,15:00,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/51
+North,Thursday Week 1,Lower Stanton,Near Green,"Near Green, Lower Stanton",2019-02-07,Thursday,4,11:45,12:05,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/4
+South,Wednesday Week 1,Lower Woodford,The Wheatsheaf,"The Wheatsheaf, Lower Woodford",2019-02-06,Wednesday,4,11:40,12:00,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/34
+South,Wednesday Week 3,Lower Woodford,The Wheatsheaf,"The Wheatsheaf, Lower Woodford",2019-02-20,Wednesday,4,11:40,12:00,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/48
+North,Tuesday Week 4,Luckington,Playing Fields,"Playing Fields, Luckington",2019-02-26,Tuesday,4,11:45,12:15,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/24
+South,Thursday Week 3,Ludwell,Coronation Close Bungalows,"Coronation Close Bungalows, Ludwell",2019-02-21,Thursday,4,15:40,16:05,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/49
+North,Thursday Week 2,Lydeway,Clock Inn Park,"Clock Inn Park, Lydeway",2019-02-14,Thursday,4,12:15,12:45,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/12
+North,Tuesday Week 1,Lydiard Millicent,Sun Inn,"Sun Inn, Lydiard Millicent",2019-02-05,Tuesday,4,11:40,12:00,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/2
+Residential homes,Friday Week 4,Malmesbury,Athelstan House,"Athelstan House, Malmesbury",2019-02-01,Friday,4,11:00,11:30,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/113
+Residential homes,Friday Week 4,Malmesbury,Glovers Court,"Glovers Court, Malmesbury",2019-02-01,Friday,4,10:15,10:40,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/113
+Residential homes,Friday Week 4,Malmesbury,Orchard Court,"Orchard Court, Malmesbury",2019-02-01,Friday,4,12:05,12:30,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/113
+Residential homes,Friday Week 4,Malmesbury,Townsend Court,"Townsend Court, Malmesbury",2019-02-01,Friday,4,11:35,12:00,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/113
+Residential homes,Tuesday Week 2,Marlborough,Castle Court,"Castle Court, Marlborough",2019-02-12,Tuesday,4,11:10,11:40,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/96
+Residential homes,Tuesday Week 2,Marlborough,Churchill Court,"Churchill Court, Marlborough",2019-02-12,Tuesday,4,13:35,14:15,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/96
+Residential homes,Thursday Week 3,Marlborough,Coombe End,"Coombe End, Marlborough",2019-02-21,Thursday,4,10:15,10:30,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/105
+Residential homes,Tuesday Week 2,Marlborough,Highfield,"Highfield, Marlborough",2019-02-12,Tuesday,4,10:00,10:25,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/96
+Residential homes,Thursday Week 3,Marlborough,Marlborough Lodge,"Marlborough Lodge, Marlborough",2019-02-21,Thursday,4,10:00,10:15,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/105
+Residential homes,Thursday Week 3,Marlborough,Merlin Court,"Merlin Court, Marlborough",2019-02-21,Thursday,4,10:35,11:00,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/105
+Residential homes,Tuesday Week 2,Marlborough,Purcells Court,"Purcells Court, Marlborough",2019-02-12,Tuesday,4,13:00,13:30,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/96
+Residential homes,Thursday Week 3,Marlborough,St. Luke’s Court,"St. Luke’s Court, Marlborough",2019-02-21,Thursday,4,11:00,11:25,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/105
+Residential homes,Tuesday Week 2,Marlborough,York Place,"York Place, Marlborough",2019-02-12,Tuesday,4,10:30,11:00,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/96
+Residential homes,Friday Week 2,Melksham,Blenheim House (Sampford) ,"Blenheim House (Sampford) , Melksham",2019-02-15,Friday,4,13:00,13:20,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/99
+Residential homes,Friday Week 2,Melksham,Brookside,"Brookside, Melksham",2019-02-15,Friday,4,10:40,11:00,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/99
+Residential homes,Friday Week 2,Melksham,Kestrel Court,"Kestrel Court, Melksham",2019-02-15,Friday,4,10:05,10:30,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/99
+Residential homes,Friday Week 2,Melksham,Thornbank,"Thornbank, Melksham",2019-02-15,Friday,4,09:30,10:00,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/99
+Residential homes,Friday Week 2,Melksham,Wharf Court,"Wharf Court, Melksham",2019-02-15,Friday,4,11:10,11:40,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/99
+Residential homes,Thursday Week 1,Mere,Bramley House,"Bramley House, Mere",2019-02-07,Thursday,4,13:00,13:30,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/91
+South,Friday Week 2,Milton Lilbourne,New Severalls,"New Severalls, Milton Lilbourne",2019-02-15,Friday,4,13:45,14:20,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/43
+North,Tuesday Week 1,Minety,Bus shelter,"Bus shelter, Minety",2019-02-05,Tuesday,4,14:15,15:30,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/2
+North,Tuesday Week 1,Minety,Derry Park,"Derry Park, Minety",2019-02-05,Tuesday,4,13:50,14:10,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/2
+North,Saturday Week 1,Neston,Pitts Croft,"Pitts Croft, Neston",2019-02-09,Saturday,4,15:00,15:45,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/6
+North,Saturday Week 3,Neston,Pitts Croft,"Pitts Croft, Neston",2019-02-23,Saturday,4,15:00,15:45,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/21
+North,Wednesday Week 1,Nettleton,Long Leaze,"Long Leaze, Nettleton",2019-02-06,Wednesday,4,14:20,15:00,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/3
+North,Wednesday Week 3,Nettleton,Long Leaze,"Long Leaze, Nettleton",2019-02-20,Wednesday,4,14:20,15:00,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/18
+South,Friday Week 1,Newton Tony,The School,"The School, Newton Tony",2019-02-08,Friday,4,11:10,12:00,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/36
+South,Friday Week 3,Newton Tony,The School,"The School, Newton Tony",2019-02-22,Friday,4,11:10,12:00,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/50
+South,Saturday Week 1,Nomansland,The Green,"The Green, Nomansland",2019-02-09,Saturday,4,09:30,12:00,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/37
+South,Saturday Week 3,Nomansland,The Green,"The Green, Nomansland",2019-02-23,Saturday,4,09:30,12:00,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/51
+North,Friday Week 1,Oaksey,Bendy Bow,"Bendy Bow, Oaksey",2019-02-08,Friday,4,13:00,13:45,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/5
+North,Friday Week 3,Oaksey,Bendy Bow,"Bendy Bow, Oaksey",2019-02-22,Friday,4,13:00,13:45,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/20
+North,Friday Week 4,Oare,Bus stop lay-by,"Bus stop lay-by, Oare",2019-02-01,Friday,4,15:30,16:00,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/27
+North,Thursday Week 4,Ogbourne St George,Liddiards Green,"Liddiards Green, Ogbourne St George",2019-01-31,Thursday,4,10:00,10:30,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/26
+South,Wednesday Week 1,Old Sarum,Pheasant Drive,"Pheasant Drive, Old Sarum",2019-02-06,Wednesday,4,10:00,10:45,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/34
+South,Wednesday Week 3,Old Sarum,Pheasant Drive,"Pheasant Drive, Old Sarum",2019-02-20,Wednesday,4,10:00,10:45,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/48
+Residential homes,Monday Week 1,Pewsey,Edwardian Court,"Edwardian Court, Pewsey",2019-02-04,Monday,4,10:45,11:15,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/88
+Residential homes,Monday Week 1,Pewsey,Manor Court,"Manor Court, Pewsey",2019-02-04,Monday,4,09:45,10:15,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/88
+Residential homes,Monday Week 1,Pewsey,Meadow Court,"Meadow Court, Pewsey",2019-02-04,Monday,4,10:20,10:40,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/88
+North,Saturday Week 2,Pewsham,King’s Lodge School,"King’s Lodge School, Pewsham",2019-02-16,Saturday,4,10:30,12:30,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/14
+North,Saturday Week 4,Pewsham,King’s Lodge School,"King’s Lodge School, Pewsham",2019-02-02,Saturday,4,10:30,12:00,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/28
+South,Tuesday Week 3,Pitton,Black Lane,"Black Lane, Pitton",2019-02-19,Tuesday,4,10:00,10:20,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/47
+South,Tuesday Week 3,Pitton,School,"School, Pitton",2019-02-19,Tuesday,4,10:25,10:55,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/47
+South,Tuesday Week 3,Pitton,Village Hall,"Village Hall, Pitton",2019-02-19,Tuesday,4,09:30,09:55,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/47
+South,Friday Week 1,Porton,Malvern Way,"Malvern Way, Porton",2019-02-08,Friday,4,13:20,13:45,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/36
+South,Friday Week 3,Porton,Malvern Way,"Malvern Way, Porton",2019-02-22,Friday,4,13:20,13:45,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/50
+North,Monday Week 1,Potterne,St Mary’s Close,"St Mary’s Close, Potterne",2019-02-04,Monday,4,15:05,15:30,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/1
+North,Monday Week 1,Potterne,The School,"The School, Potterne",2019-02-04,Monday,4,14:00,15:00,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/1
+North,Monday Week 1,Poulshot,The Raven Pub,"The Raven Pub, Poulshot",2019-02-04,Monday,4,12:40,13:00,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/1
+Residential homes,Tuesday Week 1,Purton,Ashgrove House,"Ashgrove House, Purton",2019-02-05,Tuesday,4,10:30,10:45,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/89
+Residential homes,Tuesday Week 1,Purton,Hooks Hill,"Hooks Hill, Purton",2019-02-05,Tuesday,4,10:15,10:25,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/89
+South,Saturday Week 3,Quavey,The Well,"The Well, Quavey",2019-02-23,Saturday,4,13:55,14:15,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/51
+North,Thursday Week 2,Rowde,Maundrell Close,"Maundrell Close, Rowde",2019-02-14,Thursday,4,09:30,10:00,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/12
+North,Saturday Week 1,Rudloe,Westwood Road,"Westwood Road, Rudloe",2019-02-09,Saturday,4,14:15,14:45,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/6
+North,Saturday Week 3,Rudloe,Westwood Road,"Westwood Road, Rudloe",2019-02-23,Saturday,4,14:15,14:45,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/21
+South,Monday Week 1,Rushall,Pewsey Road,"Pewsey Road, Rushall",2019-02-04,Monday,4,10:00,10:30,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/32
+Residential homes,Wednesday Week 2,Salisbury,Abbeyfield,"Abbeyfield, Salisbury",2019-02-13,Wednesday,4,11:10,11:30,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/97
+Residential homes,Wednesday Week 3,Salisbury,Archers Court,"Archers Court, Salisbury",2019-02-20,Wednesday,4,13:15,13:45,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/104
+Residential homes,Wednesday Week 4,Salisbury,Bemerton Lodge ,"Bemerton Lodge , Salisbury",2019-01-30,Wednesday,4,09:55,10:10,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/111
+Residential homes,Wednesday Week 3,Salisbury,Braemar Lodge,"Braemar Lodge, Salisbury",2019-02-20,Wednesday,4,11:25,11:45,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/104
+Residential homes,Wednesday Week 1,Salisbury,Brympton House ,"Brympton House , Salisbury",2019-02-06,Wednesday,4,13:00,13:30,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/90
+Residential homes,Wednesday Week 3,Salisbury,Gloucester House,"Gloucester House, Salisbury",2019-02-20,Wednesday,4,10:50,11:20,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/104
+Residential homes,Wednesday Week 4,Salisbury,Hardy House,"Hardy House, Salisbury",2019-01-30,Wednesday,4,11:30,12:00,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/111
+Residential homes,Wednesday Week 2,Salisbury,Harnham Croft,"Harnham Croft, Salisbury",2019-02-13,Wednesday,4,12:20,12:50,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/97
+Residential homes,Wednesday Week 4,Salisbury,Laverstock Care Centre,"Laverstock Care Centre, Salisbury",2019-01-30,Wednesday,4,10:25,11:15,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/111
+Residential homes,Wednesday Week 2,Salisbury,Milford House,"Milford House, Salisbury",2019-02-13,Wednesday,4,10:40,11:05,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/97
+Residential homes,Wednesday Week 4,Salisbury,Philip Court,"Philip Court, Salisbury",2019-01-30,Wednesday,4,09:30,09:50,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/111
+Residential homes,Wednesday Week 1,Salisbury,Robert Stokes Almshouse,"Robert Stokes Almshouse, Salisbury",2019-02-06,Wednesday,4,11:00,11:30,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/90
+Residential homes,Wednesday Week 2,Salisbury,Salisbury Manor,"Salisbury Manor, Salisbury",2019-02-13,Wednesday,4,09:30,10:00,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/97
+Residential homes,Wednesday Week 2,Salisbury,St. Andrews,"St. Andrews, Salisbury",2019-02-13,Wednesday,4,10:10,10:35,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/97
+Residential homes,Wednesday Week 3,Salisbury,St. Mark's House,"St. Mark's House, Salisbury",2019-02-20,Wednesday,4,12:50,13:10,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/104
+Residential homes,Wednesday Week 1,Salisbury,St. Nicholas,"St. Nicholas, Salisbury",2019-02-06,Wednesday,4,11:35,12:05,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/90
+Residential homes,Wednesday Week 2,Salisbury,Tower House,"Tower House, Salisbury",2019-02-13,Wednesday,4,11:30,12:15,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/97
+Residential homes,Wednesday Week 3,Sarum,Avonbourne Centre,"Avonbourne Centre, Sarum",2019-02-20,Wednesday,4,10:15,10:45,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/104
+North,Friday Week 4,Savernake,School,"School, Savernake",2019-02-01,Friday,4,10:00,10:30,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/27
+North,Friday Week 2,Savernake,The Warren,"The Warren, Savernake",2019-02-15,Friday,4,10:00,10:25,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/13
+North,Friday Week 4,Savernake,The Warren,"The Warren, Savernake",2019-02-01,Friday,4,10:35,11:00,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/27
+Residential homes,Thursday Week 1,Sedgehill,Hays Park,"Hays Park, Sedgehill",2019-02-07,Thursday,4,10:45,11:30,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/91
+North,Monday Week 1,Seend,The Lye,"The Lye, Seend",2019-02-04,Monday,4,09:40,10:00,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/1
+North,Monday Week 1,Seend Cleeve,Telephone box,"Telephone box, Seend Cleeve",2019-02-04,Monday,4,10:05,10:25,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/1
+North,Wednesday Week 4,Semington,Littlemarsh,"Littlemarsh, Semington",2019-01-30,Wednesday,4,10:30,10:50,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/25
+North,Wednesday Week 2,Semington,Village Hall,"Village Hall, Semington",2019-02-13,Wednesday,4,10:30,10:50,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/11
+North,Friday Week 4,Shalbourne,Kingston Road,"Kingston Road, Shalbourne",2019-02-01,Friday,4,14:15,14:55,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/27
+North,Friday Week 4,Shalbourne,The Plough,"The Plough, Shalbourne",2019-02-01,Friday,4,13:25,14:10,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/27
+Residential homes,Monday Week 3,Shaw,Mavern House,"Mavern House, Shaw",2019-02-18,Monday,4,14:00,14:30,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/102
+North,Saturday Week 1,Sherston,High Street,"High Street, Sherston",2019-02-09,Saturday,4,10:30,12:45,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/6
+North,Saturday Week 3,Sherston,High Street,"High Street, Sherston",2019-02-23,Saturday,4,10:30,12:45,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/21
+South,Wednesday Week 1,Shrewton,Hindes Meadow,"Hindes Meadow, Shrewton",2019-02-06,Wednesday,4,13:30,13:45,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/34
+South,Wednesday Week 3,Shrewton,Hindes Meadow,"Hindes Meadow, Shrewton",2019-02-20,Wednesday,4,13:30,13:45,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/48
+South,Wednesday Week 1,Shrewton,Maddington Church Rooms,"Maddington Church Rooms, Shrewton",2019-02-06,Wednesday,4,14:00,16:00,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/34
+South,Wednesday Week 3,Shrewton,Maddington Church Rooms,"Maddington Church Rooms, Shrewton",2019-02-20,Wednesday,4,14:00,16:00,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/48
+Residential homes,Wednesday Week 1,South Newton,Glenside,"Glenside, South Newton",2019-02-06,Wednesday,4,09:30,10:00,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/90
+South,Saturday Week 1,South Newton,Vale View Road,"Vale View Road, South Newton",2019-02-09,Saturday,4,15:45,16:15,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/37
+South,Saturday Week 3,South Newton,Vale View Road,"Vale View Road, South Newton",2019-02-23,Saturday,4,15:45,16:15,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/51
+North,Monday Week 3,Spirthill,Naish House Farm,"Naish House Farm, Spirthill",2019-02-18,Monday,4,09:30,10:00,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/16
+North,Thursday Week 2,Stanton St Bernard,Village Hall,"Village Hall, Stanton St Bernard",2019-02-14,Thursday,4,10:30,11:15,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/12
+North,Tuesday Week 4,Stanton St Quintin,School,"School, Stanton St Quintin",2019-02-26,Tuesday,4,13:35,14:05,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/24
+North,Friday Week 3,Startley,Near Greystones,"Near Greystones, Startley",2019-02-22,Friday,4,09:30,09:45,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/20
+North,Wednesday Week 2,Steeple Ashton,Longs Arms pub,"Longs Arms pub, Steeple Ashton",2019-02-13,Wednesday,4,11:00,12:00,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/11
+North,Wednesday Week 4,Steeple Ashton,Longs Arms pub,"Longs Arms pub, Steeple Ashton",2019-01-30,Wednesday,4,11:00,12:00,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/25
+Residential homes,Wednesday Week 4,Steeple Langford,Edgars Close,"Edgars Close, Steeple Langford",2019-01-30,Wednesday,4,12:20,12:40,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/111
+North,Monday Week 3,Stockley,Telephone box,"Telephone box, Stockley",2019-02-18,Monday,4,14:15,14:45,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/16
+South,Wednesday Week 1,Stratford-sub-Castle,Castle Keep,"Castle Keep, Stratford-sub-Castle",2019-02-06,Wednesday,4,11:00,11:25,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/34
+South,Wednesday Week 3,Stratford-sub-Castle,Castle Keep,"Castle Keep, Stratford-sub-Castle",2019-02-20,Wednesday,4,11:00,11:25,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/48
+North,Thursday Week 1,Sutton Benger,Bell Piece,"Bell Piece, Sutton Benger",2019-02-07,Thursday,4,14:55,16:00,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/4
+South,Friday Week 4,Sutton Veny,School,"School, Sutton Veny",2019-02-01,Friday,4,09:45,10:30,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/57
+Residential homes,Thursday Week 1,Sutton Veny,Sutton Veny House,"Sutton Veny House, Sutton Veny",2019-02-07,Thursday,4,09:00,09:20,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/91
+South,Tuesday Week 4,Teffont,Lay-by opposite Frith’s Barn,"Lay-by opposite Frith’s Barn, Teffont",2019-02-26,Tuesday,4,14:20,14:40,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/54
+South,Friday Week 4,Tilshead,Near the Church,"Near the Church, Tilshead",2019-02-01,Friday,4,11:55,12:20,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/57
+Residential homes,Thursday Week 1,Tisbury,Nadder Close,"Nadder Close, Tisbury",2019-02-07,Thursday,4,09:45,10:30,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/91
+North,Tuesday Week 1,Tockenham,Church,"Church, Tockenham",2019-02-05,Tuesday,4,09:45,10:15,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/2
+South,Tuesday Week 2,Tollard Royal,The Pond,"The Pond, Tollard Royal",2019-02-12,Tuesday,4,15:10,15:30,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/40
+Residential homes,Thursday Week 2,Trowbridge,Avondown Court,"Avondown Court, Trowbridge",2019-02-14,Thursday,4,13:00,13:30,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/98
+Residential homes,Thursday Week 2,Trowbridge,Charlotte Court,"Charlotte Court, Trowbridge",2019-02-14,Thursday,4,13:40,14:00,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/98
+Residential homes,Friday Week 1,Trowbridge,Florence Court,"Florence Court, Trowbridge",2019-02-08,Friday,4,13:30,14:00,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/92
+Residential homes,Thursday Week 2,Trowbridge,Grove Court,"Grove Court, Trowbridge",2019-02-14,Thursday,4,10:05,10:15,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/98
+Residential homes,Thursday Week 2,Trowbridge,Manor Court ,"Manor Court , Trowbridge",2019-02-14,Thursday,4,11:00,11:15,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/98
+Residential homes,Thursday Week 2,Trowbridge,Maple Grove ,"Maple Grove , Trowbridge",2019-02-14,Thursday,4,10:20,10:50,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/98
+Residential homes,Friday Week 1,Trowbridge,Old Vicarage,"Old Vicarage, Trowbridge",2019-02-08,Friday,4,10:00,10:15,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/92
+Residential homes,Thursday Week 2,Trowbridge,Romney House,"Romney House, Trowbridge",2019-02-14,Thursday,4,11:30,11:45,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/98
+Residential homes,Friday Week 1,Trowbridge,Staverton House,"Staverton House, Trowbridge",2019-02-08,Friday,4,09:45,10:00,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/92
+Residential homes,Friday Week 3,Trowbridge,Teazle Court,"Teazle Court, Trowbridge",2019-02-22,Friday,4,09:15,09:35,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/106
+Residential homes,Thursday Week 2,Trowbridge,The Homestead,"The Homestead, Trowbridge",2019-02-14,Thursday,4,09:15,10:00,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/98
+Residential homes,Friday Week 1,Trowbridge,Trowbridge Oaks,"Trowbridge Oaks, Trowbridge",2019-02-08,Friday,4,09:10,09:25,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/92
+Residential homes,Friday Week 4,Trowbridge,Weavers Drive,"Weavers Drive, Trowbridge",2019-02-01,Friday,4,14:00,14:30,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/113
+Residential homes,Friday Week 1,Trowbridge,Wingfield Lodge and,"Wingfield Lodge and, Trowbridge",2019-02-08,Friday,4,12:45,13:15,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/92
+South,Monday Week 3,Upavon,Fairfield,"Fairfield, Upavon",2019-02-18,Monday,4,10:00,10:25,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/46
+South,Monday Week 3,Upavon,Nursery,"Nursery, Upavon",2019-02-18,Monday,4,10:35,11:00,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/46
+North,Tuesday Week 1,Upper Minety,Hovington Leaze,"Hovington Leaze, Upper Minety",2019-02-05,Tuesday,4,13:15,13:35,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/2
+North,Friday Week 1,Upper Seagry,Recreation Ground,"Recreation Ground, Upper Seagry",2019-02-08,Friday,4,09:30,10:00,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/5
+North,Wednesday Week 1,Upper Wraxall,The Green,"The Green, Upper Wraxall",2019-02-06,Wednesday,4,16:00,16:20,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/3
+North,Wednesday Week 3,Upper Wraxall,The Green,"The Green, Upper Wraxall",2019-02-20,Wednesday,4,16:00,16:20,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/18
+South,Friday Week 4,Upton Lovell,14a The Bungalow,"14a The Bungalow, Upton Lovell",2019-02-01,Friday,4,14:20,14:40,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/57
+North,Thursday Week 2,Urchfont,The Croft,"The Croft, Urchfont",2019-02-14,Thursday,4,14:10,14:40,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/12
+North,Thursday Week 2,Urchfont,The Green,"The Green, Urchfont",2019-02-14,Thursday,4,14:45,15:45,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/12
+North,Thursday Week 4,Urchfont,The Green,"The Green, Urchfont",2019-01-31,Thursday,4,14:45,15:45,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/26
+North,Saturday Week 4,Wadswick,Wadswick Green,"Wadswick Green, Wadswick",2019-02-02,Saturday,4,13:30,14:15,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/28
+Residential homes,Thursday Week 1,Warminster,Fleurs Court,"Fleurs Court, Warminster",2019-02-07,Thursday,4,14:00,14:30,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/91
+Residential homes,Friday Week 3,Warminster,Frederick Taylor Court,"Frederick Taylor Court, Warminster",2019-02-22,Friday,4,13:20,13:50,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/106
+North,Thursday Week 2,Wedhampton,22-23 High Street,"22-23 High Street, Wedhampton",2019-02-14,Thursday,4,11:35,12:05,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/12
+North,Thursday Week 3,West Ashton,Orchard Close,"Orchard Close, West Ashton",2019-02-21,Thursday,4,15:30,16:00,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/19
+South,Thursday Week 1,West Dean,Village Hall,"Village Hall, West Dean",2019-02-07,Thursday,4,14:45,15:05,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/35
+South,Thursday Week 1,West Grimstead,Greenfields,"Greenfields, West Grimstead",2019-02-07,Thursday,4,15:20,15:35,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/35
+South,Thursday Week 1,West Grimstead,Recreation Ground,"Recreation Ground, West Grimstead",2019-02-07,Thursday,4,15:40,15:55,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/35
+South,Saturday Week 1,West Harnham,Berkshire Road,"Berkshire Road, West Harnham",2019-02-09,Saturday,4,14:10,14:50,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/37
+South,Wednesday Week 4,West Lavington,School,"School, West Lavington",2019-01-30,Wednesday,4,11:00,11:55,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/55
+North,Tuesday Week 3,West Overton,Peacocks,"Peacocks, West Overton",2019-02-19,Tuesday,4,11:25,12:05,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/17
+Residential homes,Friday Week 3,Westbury,Bell Orchard,"Bell Orchard, Westbury",2019-02-22,Friday,4,10:15,10:30,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/106
+Residential homes,Friday Week 3,Westbury,Chantry Court,"Chantry Court, Westbury",2019-02-22,Friday,4,11:30,12:00,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/106
+Residential homes,Friday Week 3,Westbury,Watersmead,"Watersmead, Westbury",2019-02-22,Friday,4,09:50,10:10,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/106
+Residential homes,Friday Week 3,Westbury,Westbury Court,"Westbury Court, Westbury",2019-02-22,Friday,4,10:40,11:20,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/106
+South,Thursday Week 1,Whiteparish,Ashmore Close,"Ashmore Close, Whiteparish",2019-02-07,Thursday,4,10:35,11:05,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/35
+South,Saturday Week 4,Whiteparish,Ashmore Close,"Ashmore Close, Whiteparish",2019-02-02,Saturday,4,12:05,12:35,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/58
+South,Thursday Week 1,Whiteparish,School,"School, Whiteparish",2019-02-07,Thursday,4,11:10,12:10,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/35
+North,Tuesday Week 2,Whitley,Reading Rooms,"Reading Rooms, Whitley",2019-02-12,Tuesday,4,11:15,12:00,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/10
+South,Monday Week 1,Wilsford,Outside Lamberts,"Outside Lamberts, Wilsford",2019-02-04,Monday,4,10:45,11:15,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/32
+Residential homes,Wednesday Week 1,Wilton,Downside,"Downside, Wilton",2019-02-06,Wednesday,4,10:20,10:40,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/90
+North,Thursday Week 3,Wingfield,The Poplars Inn,"The Poplars Inn, Wingfield",2019-02-21,Thursday,4,13:30,14:15,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/19
+North,Thursday Week 3,Winsley,Avonpark Retirement Village,"Avonpark Retirement Village, Winsley",2019-02-21,Thursday,4,10:40,11:10,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/19
+North,Thursday Week 3,Winsley,School,"School, Winsley",2019-02-21,Thursday,4,11:20,12:20,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/19
+South,Friday Week 1,Winterbourne Earls,Earls Manor Court,"Earls Manor Court, Winterbourne Earls",2019-02-08,Friday,4,14:00,14:30,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/36
+South,Friday Week 3,Winterbourne Earls,Earls Manor Court,"Earls Manor Court, Winterbourne Earls",2019-02-22,Friday,4,14:00,14:30,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/50
+South,Friday Week 1,Winterbourne Earls,Glebe Hall,"Glebe Hall, Winterbourne Earls",2019-02-08,Friday,4,09:30,10:30,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/36
+South,Friday Week 3,Winterbourne Earls,Glebe Hall,"Glebe Hall, Winterbourne Earls",2019-02-22,Friday,4,09:30,10:30,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/50
+South,Tuesday Week 1,Winterslow,Village Hall,"Village Hall, Winterslow",2019-02-05,Tuesday,4,13:30,16:15,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/33
+South,Tuesday Week 3,Winterslow,Village Hall,"Village Hall, Winterslow",2019-02-19,Tuesday,4,13:30,16:15,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/47
+South,Monday Week 1,Woodborough,Church,"Church, Woodborough",2019-02-04,Monday,4,14:25,14:50,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/32
+South,Monday Week 3,Woodborough,Church,"Church, Woodborough",2019-02-18,Monday,4,14:25,14:50,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/46
+South,Monday Week 1,Woodborough,Social Club Car Park,"Social Club Car Park, Woodborough",2019-02-04,Monday,4,14:55,15:45,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/32
+South,Monday Week 3,Woodborough,Social Club Car Park,"Social Club Car Park, Woodborough",2019-02-18,Monday,4,14:55,15:45,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/46
+South,Saturday Week 3,Woodfalls,Opposite Post Office,"Opposite Post Office, Woodfalls",2019-02-23,Saturday,4,13:25,13:45,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/51
+Residential homes,Tuesday Week 1,Wootton Bassett,Bassett House,"Bassett House, Wootton Bassett",2019-02-05,Tuesday,4,13:30,13:55,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/89
+Residential homes,Tuesday Week 1,Wootton Bassett,Dairy View,"Dairy View, Wootton Bassett",2019-02-05,Tuesday,4,14:00,14:15,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/89
+North,Monday Week 1,Worton,The School,"The School, Worton",2019-02-04,Monday,4,13:10,13:50,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/1
+South,Friday Week 4,Wylye,The Bell Pub,"The Bell Pub, Wylye",2019-02-01,Friday,4,14:55,15:30,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/57
+North,Monday Week 3,Yatesbury,The Lymers,"The Lymers, Yatesbury",2019-02-18,Monday,4,11:45,12:05,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/16
+North,Wednesday Week 3,Yatton Keynell,Village Hall,"Village Hall, Yatton Keynell",2019-02-20,Wednesday,4,09:30,10:00,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/18
+South,Thursday Week 2,Zeals,43 Zeals Rise,"43 Zeals Rise, Zeals",2019-02-14,Thursday,4,10:45,11:05,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/42
+South,Thursday Week 4,Zeals,43 Zeals Rise,"43 Zeals Rise, Zeals",2019-01-31,Thursday,4,10:45,11:05,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/56
+South,Thursday Week 2,Zeals,School,"School, Zeals",2019-02-14,Thursday,4,10:10,10:40,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/42
+South,Thursday Week 4,Zeals,School,"School, Zeals",2019-01-31,Thursday,4,10:00,10:40,http://services.wiltshire.gov.uk/MobileLibrary/Library/Round/56

@@ -1,0 +1,1394 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>CultureNL Mobile Library Stops</name>
+    <description>Stops from the mobile library service of CultureNL Libraries</description>
+    <Style id="icon-1899-0288D1-nodesc-normal">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-1899-0288D1-nodesc-highlight">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="icon-1899-0288D1-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-0288D1-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-0288D1-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-4E342E-nodesc-normal">
+      <IconStyle>
+        <color>ff2e344e</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-1899-4E342E-nodesc-highlight">
+      <IconStyle>
+        <color>ff2e344e</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="icon-1899-4E342E-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-4E342E-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-4E342E-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-817717-normal">
+      <IconStyle>
+        <color>ff177781</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-817717-highlight">
+      <IconStyle>
+        <color>ff177781</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-817717">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-817717-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-817717-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-817717-nodesc-normal">
+      <IconStyle>
+        <color>ff177781</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-1899-817717-nodesc-highlight">
+      <IconStyle>
+        <color>ff177781</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="icon-1899-817717-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-817717-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-817717-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-FFEA00-nodesc-normal">
+      <IconStyle>
+        <color>ff00eaff</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-1899-FFEA00-nodesc-highlight">
+      <IconStyle>
+        <color>ff00eaff</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="icon-1899-FFEA00-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-FFEA00-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-FFEA00-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>Untitled layer</name>
+      <Placemark>
+        <name>New Lane</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -3.96658360000004,55.844464,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Woodside Drive</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -3.9725899,55.841993,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Crowwood Road</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -3.9693317,55.8429426,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ayr Drive</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -3.97684379999998,55.8535214,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Laurel Gardens</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -3.94666310000002,55.8441923,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Dewshill Cottages</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -3.8286066,55.8537815,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Cunningham Drive</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -3.76285759999996,55.8566088,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Viewfield Street</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -3.74824169999999,55.8626133,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Dunn Terrace</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -3.75063439999997,55.8612331,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Victoria Road</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -3.75212290000002,55.8586159,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Paxstone Crescent</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -3.75830680000001,55.8606734,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Netherton Street</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -3.7611564,55.8608228,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Glenpark</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -3.94963499999994,55.8607376,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lorne Gardens</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -3.87929869999994,55.8421237,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Reid Street</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -3.87833330000001,55.8433112,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Main Street</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -3.87189260000002,55.8440916,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Blackcroft Terrace</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -3.87213410000004,55.842989,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Camsdale Avenue</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -3.87463809999997,55.841519,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>John Street</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -3.95466999999996,55.77879,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Glassford Tower</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -3.9709828,55.7798804,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Isa Money Community Centre</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -3.96523200000001,55.7722287,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Barons Road</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -3.96176779999996,55.7711307,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ardrain Avenue</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -3.95795769999995,55.7734512,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Challum Drive</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -3.96096439999997,55.7754601,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Morven Drive</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -3.95998370000007,55.7769694,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Waddell Avenue</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -4.00109040000007,55.8849481,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Woodhead Crescent</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -3.99792809999997,55.8828951,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Crathie Drive</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -3.98689300000001,55.8887832,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Rushes Estate</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -3.98077660000001,55.8826145,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Drumgray</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -3.95432879999998,55.9103201,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Greengairs Road</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -3.95073400000001,55.9104658,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Upperton</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -3.91016539999998,55.9184078,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Main Street</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -3.88572620000002,55.9095964,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Connor Street</name>
+        <styleUrl>#icon-1899-FFEA00-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -3.94763,55.8718143,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Jarvie Avenue</name>
+        <styleUrl>#icon-1899-FFEA00-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -3.92470290000006,55.8805011,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bruce Street</name>
+        <styleUrl>#icon-1899-FFEA00-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -3.9306047,55.8796271,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Allan Street</name>
+        <styleUrl>#icon-1899-FFEA00-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -4.05131389999997,55.852975,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Campsie View</name>
+        <styleUrl>#icon-1899-FFEA00-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -4.07397560000004,55.8306562,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rosebank Terrace</name>
+        <styleUrl>#icon-1899-FFEA00-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -4.07596139999998,55.850872,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Edward Street</name>
+        <styleUrl>#icon-1899-FFEA00-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -4.07991849999996,55.8533389,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Oakridge Road</name>
+        <styleUrl>#icon-1899-FFEA00-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -4.07254230000001,55.8596518,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Cherry Grove</name>
+        <styleUrl>#icon-1899-FFEA00-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -4.06845870000006,55.8584828,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Crystal Park</name>
+        <styleUrl>#icon-1899-FFEA00-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -3.95842849999997,55.8741202,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hillend View</name>
+        <styleUrl>#icon-1899-FFEA00-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -3.84650149999993,55.8834951,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Main Street</name>
+        <styleUrl>#icon-1899-FFEA00-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -3.88593839999999,55.8882864,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Station Road</name>
+        <styleUrl>#icon-1899-FFEA00-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -3.89046050000002,55.8884739,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Earl Avenue</name>
+        <styleUrl>#icon-1899-FFEA00-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -3.88780489999999,55.8924716,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Woodilee Road</name>
+        <styleUrl>#icon-1899-FFEA00-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -3.9463449,55.8136291,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Taylor Avenue</name>
+        <styleUrl>#icon-1899-FFEA00-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -3.95223350000003,55.806042,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Redwood Road</name>
+        <styleUrl>#icon-1899-FFEA00-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -3.96507120000001,55.8192173,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sunnyside Terrace</name>
+        <styleUrl>#icon-1899-FFEA00-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -3.97247119999997,55.821439,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[O'Wood Avenue]]></name>
+        <styleUrl>#icon-1899-FFEA00-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -3.96464000000003,55.825775,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Wilsons Road</name>
+        <styleUrl>#icon-1899-FFEA00-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -3.89965759999995,55.8299102,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Murdostoun Terrace</name>
+        <styleUrl>#icon-1899-FFEA00-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -3.89439289999996,55.8033929,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>School Road</name>
+        <styleUrl>#icon-1899-FFEA00-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -3.87087810000003,55.7781903,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Coltness Avenue</name>
+        <styleUrl>#icon-1899-FFEA00-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -3.834113,55.800358,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Jacobs Ladder Way</name>
+        <styleUrl>#icon-1899-FFEA00-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -3.90772900000002,55.756054,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bentfoot Road</name>
+        <styleUrl>#icon-1899-FFEA00-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -3.90960459999997,55.7563442,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hopefield Gardens</name>
+        <styleUrl>#icon-1899-FFEA00-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -3.92242329999999,55.7582638,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ben Lui Place, Cumbernauld</name>
+        <description><![CDATA[1.30pm – 2pm<br>Mobile 2 Week 1 Monday]]></description>
+        <styleUrl>#icon-1899-817717</styleUrl>
+        <Point>
+          <coordinates>
+            -4.02577470000006,55.9475925,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Forge Carpark</name>
+        <styleUrl>#icon-1899-817717-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -4.02374880000002,55.947915,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rannoch Court</name>
+        <styleUrl>#icon-1899-817717-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -4.02405290000002,55.9312628,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lochinvar Road</name>
+        <styleUrl>#icon-1899-817717-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -4.00239669999996,55.9355498,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hill Road</name>
+        <styleUrl>#icon-1899-817717-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -3.99691849999999,55.9476453,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hillcrest Court</name>
+        <styleUrl>#icon-1899-817717-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -3.99268219999999,55.9435396,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Clouden Road</name>
+        <styleUrl>#icon-1899-817717-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -3.97209569999995,55.9513172,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Larch Grove</name>
+        <styleUrl>#icon-1899-817717-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -3.95570739999994,55.9594659,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Roadside</name>
+        <styleUrl>#icon-1899-817717-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -3.97765579999998,55.9634688,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rigghead Avenue</name>
+        <styleUrl>#icon-1899-817717-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -3.97622939999997,55.9643762,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Glen Lyon Court</name>
+        <styleUrl>#icon-1899-817717-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -4.0240493,55.9577674,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rowallan Terrace</name>
+        <styleUrl>#icon-1899-817717-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -4.16423480000003,55.884546,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Second Avenue</name>
+        <styleUrl>#icon-1899-817717-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -4.16132400000004,55.8860663,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Third Avenue</name>
+        <styleUrl>#icon-1899-817717-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -4.16004780000003,55.8867126,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bedlay Place</name>
+        <styleUrl>#icon-1899-817717-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -4.03967560000001,55.9106452,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Central location Mollinsburn</name>
+        <styleUrl>#icon-1899-817717-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -4.0541267,55.9198006,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Auchengeich Gardens</name>
+        <styleUrl>#icon-1899-817717-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -4.08232899999996,55.9134711,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Charleson Row</name>
+        <styleUrl>#icon-1899-817717-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -4.04173130000004,55.9548087,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Barbegs Crescent</name>
+        <styleUrl>#icon-1899-817717-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -4.03959420000001,55.9566423,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>East Stewart Gardens</name>
+        <styleUrl>#icon-1899-817717-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -4.00901969999995,55.8617115,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Inglefield Court</name>
+        <styleUrl>#icon-1899-817717-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -3.98139660000004,55.8626347,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Broomfield Gardens</name>
+        <styleUrl>#icon-1899-817717-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -3.972652,55.8648367,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Gartlea Gardens</name>
+        <styleUrl>#icon-1899-817717-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -3.96841889999996,55.8669151,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Colston Gardens</name>
+        <styleUrl>#icon-1899-817717-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -3.96037720000004,55.8661628,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Dunrobin Gardens</name>
+        <styleUrl>#icon-1899-817717-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -3.9490571,55.8605195,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Moorcroft Avenue</name>
+        <styleUrl>#icon-1899-817717-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -3.9421928,55.8645657,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Craigston Place</name>
+        <styleUrl>#icon-1899-817717-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -3.9374506,55.8620069,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Gilchrist Street</name>
+        <styleUrl>#icon-1899-817717-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -4.02173470000002,55.8699129,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Whitelaw Avenue</name>
+        <styleUrl>#icon-1899-817717-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -4.03832609999995,55.8895869,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Oval</name>
+        <styleUrl>#icon-1899-817717-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -4.05775600000004,55.8965911,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Garnqueen Crescent</name>
+        <styleUrl>#icon-1899-817717-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -4.05404580000004,55.8925762,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lochside</name>
+        <styleUrl>#icon-1899-817717-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -4.08026180000002,55.8925083,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Manor Road</name>
+        <styleUrl>#icon-1899-817717-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -4.08118479999996,55.889741,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Woodneuk Road</name>
+        <styleUrl>#icon-1899-817717-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -4.08097980000002,55.8882359,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Old Gartloch Road</name>
+        <styleUrl>#icon-1899-817717-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -4.0861529,55.8875776,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ashton Gardens</name>
+        <styleUrl>#icon-1899-817717-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -4.07982630000004,55.8947329,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Langmuirhead Road</name>
+        <styleUrl>#icon-1899-4E342E-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -4.15916590000006,55.9035359,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Langmuirhead Road (top)</name>
+        <styleUrl>#icon-1899-4E342E-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -4.1451073,55.9110703,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Fourth Avenue</name>
+        <styleUrl>#icon-1899-4E342E-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -4.15131680000002,55.9083705,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Second Avenue</name>
+        <styleUrl>#icon-1899-4E342E-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -4.15191690000006,55.9073319,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Shawhead Avenue</name>
+        <styleUrl>#icon-1899-4E342E-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -4.01869869999996,55.8491289,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Cairnhill Crescent</name>
+        <styleUrl>#icon-1899-4E342E-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -3.9986566,55.8468836,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Afton Gardens</name>
+        <styleUrl>#icon-1899-4E342E-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -4.00103030000002,55.8530923,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Summerlee House</name>
+        <styleUrl>#icon-1899-4E342E-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -4.03259750000007,55.8623907,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>James Dempsey Gardens</name>
+        <styleUrl>#icon-1899-4E342E-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -4.0326493,55.8608891,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Croftpark Street</name>
+        <styleUrl>#icon-1899-4E342E-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -4.0239957,55.8251214,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hatton Lea Nursing Home</name>
+        <styleUrl>#icon-1899-4E342E-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -4.00717680000002,55.8234968,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Strathclyde Way</name>
+        <styleUrl>#icon-1899-4E342E-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -4.00871570000004,55.8271519,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Moray Quadrant</name>
+        <styleUrl>#icon-1899-4E342E-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -4.02634220000004,55.8206653,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kelvinhead Road</name>
+        <styleUrl>#icon-1899-4E342E-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -3.99959979999994,55.9856091,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Stirling Road</name>
+        <styleUrl>#icon-1899-4E342E-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -4.04220350000003,55.9794849,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kingston Road</name>
+        <styleUrl>#icon-1899-4E342E-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -4.05585040000005,55.9786115,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Pirnie Place</name>
+        <styleUrl>#icon-1899-4E342E-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -4.05529849999994,55.9744376,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Westfield Road</name>
+        <styleUrl>#icon-1899-4E342E-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -4.07184840000002,55.9783058,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hillcrest Road</name>
+        <styleUrl>#icon-1899-4E342E-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -4.09238959999993,55.9735837,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Campbell Street</name>
+        <styleUrl>#icon-1899-4E342E-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -3.91188779999993,55.7733162,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kirknowe Care Home - Bupa UK</name>
+        <styleUrl>#icon-1899-4E342E-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -3.91346750000002,55.7693739,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sunart Street</name>
+        <styleUrl>#icon-1899-4E342E-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -3.92673839999998,55.7678931,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ochil Street</name>
+        <styleUrl>#icon-1899-4E342E-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -3.93875490000005,55.7784006,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Cala Sona Court</name>
+        <styleUrl>#icon-1899-4E342E-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -3.94409089999999,55.7635143,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Allershaw Tower</name>
+        <styleUrl>#icon-1899-4E342E-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -3.93174509999994,55.7626021,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Drummond Drive</name>
+        <styleUrl>#icon-1899-4E342E-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -3.91690679999999,55.7692469,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kew Gardens</name>
+        <styleUrl>#icon-1899-4E342E-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -4.06804959999999,55.8274259,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Talisman Crescent</name>
+        <styleUrl>#icon-1899-4E342E-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -3.99901610000006,55.8056267,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Baillies Court</name>
+        <styleUrl>#icon-1899-4E342E-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -3.99901239999997,55.8028303,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lismore Avenue</name>
+        <styleUrl>#icon-1899-4E342E-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -4.01263159999996,55.7972047,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Queen Elizabeth Court</name>
+        <styleUrl>#icon-1899-4E342E-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -3.98650539999994,55.7959873,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Millburn Street</name>
+        <styleUrl>#icon-1899-4E342E-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -3.98856960000001,55.7945595,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Leven Street</name>
+        <styleUrl>#icon-1899-4E342E-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -3.98970710000003,55.7803414,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Montalto Avenue</name>
+        <styleUrl>#icon-1899-4E342E-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -3.97087190000002,55.8020368,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Aquatec Motherwell</name>
+        <styleUrl>#icon-1899-4E342E-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -3.99072720000004,55.7928019,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Appleyard Court</name>
+        <styleUrl>#icon-1899-4E342E-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -4.02923399999997,55.8098708,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

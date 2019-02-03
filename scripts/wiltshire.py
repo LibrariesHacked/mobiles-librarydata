@@ -10,20 +10,23 @@ import requests
 import pyproj
 from bs4 import BeautifulSoup
 
-# Open route service API key
-APIKEY = '58d904a497c67e00015b45fcc3d8ff500a48497b5dd7a68a81baf0b2'
+# Open Route Service API key
+APIKEY = '5b3ce3597851110001cf624860a035e0c0bf48c690561cefd3ff4769'
 # Initial file from web scraping
 DATA_OUTPUT_RAW = '../data/raw/wiltshire_raw.csv'
 # Final file to output
 DATA_OUTPUT_FINAL = '../data/wiltshire.csv'
 # Wiltshire County bounding box coordinates for geocoding
-BBOX = '-2.3656,50.945,-1.4857,51.7031'
+MAX_LON = '-1.4857'
+MIN_LON = '-2.3656'
+MIN_LAT = '50.945'
+MAX_LAT = '51.7031'
 
 def run():
     """Runs the main script"""
 
     # Scrape stop information. This is a single web page listing stops
-    stop_list = 'http://services.wiltshire.gov.uk/MobileLibrary/Library/StopList'
+    stop_list = 'https://services.wiltshire.gov.uk/MobileLibrary/Library/StopList'
     stop_list_html = requests.get(stop_list)
     stop_list_soup = BeautifulSoup(stop_list_html.text, 'html.parser')
 
@@ -36,7 +39,7 @@ def run():
             if '/MobileLibrary/Library/Stop/' in link.get('href'):
 
                 # Get the webpage
-                stop_url = 'http://services.wiltshire.gov.uk' + link.get('href')
+                stop_url = 'https://services.wiltshire.gov.uk' + link.get('href')
                 print(stop_url)
                 stop_html = requests.get(stop_url)
                 stop_soup = BeautifulSoup(stop_html.text, 'html.parser')
@@ -44,7 +47,7 @@ def run():
                 # General stop information
                 stop_name = stop_soup.find('h2').text
                 community = stop_name.split(', ')[0]
-                stop_name = stop_name.split(', ')[1]
+                stop_name = stop_name.split(', ')[1].replace(' (fortnightly stop)', '')
                 address = stop_name + ', ' + community
                 # There are some stops that are two weekly but they're part of separate routes.  Keep them separate
                 frequency = 4
@@ -75,7 +78,7 @@ def run():
                         'start': start, 'end': end, 'timetable': timetable
                     }
                     mobiles.append(mobile)
-                time.sleep(5)
+                time.sleep(1)
 
         with open(DATA_OUTPUT_RAW, 'w', encoding='utf8', newline='') as out_raw:
             mob_writer = csv.writer(
@@ -100,46 +103,37 @@ def run():
         next(mobreader, None)  # skip the headers
         # Mobile,Route,Community,Stop,Address,Date,Day,Frequency,Start,End,Timetable
         for row in mobreader:
-            # Initial geocoding URL - use just the community to try to get the right area
+            # Initial geocoding URL - use just the community to try to get the right general area
             geo_url = (
-                'https://api.openrouteservice.org/geocoding?boundary_type=rect&rect=' + BBOX +
-                '&api_key=' + APIKEY + '&query=' + quote(row[2]) + '&limit=1')
+                'https://api.openrouteservice.org/geocode/search?api_key=' + APIKEY + '&text=' + quote(row[2]) + 
+                '&size=1&boundary.rect.max_lon=' + MAX_LON + '&boundary.rect.min_lon=' + MIN_LON + 
+                '&boundary.rect.max_lat=' + MAX_LAT + '&boundary.rect.min_lat=' + MIN_LAT)
+
             print(geo_url)
 
-            attempts = 0
-            while attempts < 100:
-                try:
-                    time.sleep(5)
-                    geo_res = requests.get(geo_url)
-                    geo_data = json.loads(geo_res.content)
-                    break
-                except:
-                    attempts += 1
+            time.sleep(5)
+            geo_res = requests.get(geo_url)
+            geo_data = json.loads(geo_res.content)
 
             longitude = ''
             latitude = ''
-            if len(geo_data['features']) > 0:
+            if geo_data['features'] and len(geo_data['features']) > 0:
                 longitude = geo_data['features'][0]['geometry']['coordinates'][0]
                 latitude = geo_data['features'][0]['geometry']['coordinates'][1]
 
             # Now, geocode again, this time with the extra detail
             geo_url = (
-                'https://api.openrouteservice.org/geocoding?boundary_type=rect&rect=' +
-                BBOX + '&api_key=' + APIKEY + '&query=' +
-                quote(row[4]) + '&lang=en&limit=1')
+                'https://api.openrouteservice.org/geocode/search?api_key=' + APIKEY + '&text=' + quote(row[4]) + 
+                '&size=1&boundary.rect.max_lon=' + MAX_LON + '&boundary.rect.min_lon=' + MIN_LON + 
+                '&boundary.rect.max_lat=' + MAX_LAT + '&boundary.rect.min_lat=' + MIN_LAT)
+
             print(geo_url)
 
-            attempts = 0
-            while attempts < 100:
-                try:
-                    time.sleep(5)
-                    geo_res = requests.get(geo_url)
-                    geo_data = json.loads(geo_res.content)
-                    break
-                except:
-                    attempts += 1
+            time.sleep(5)
+            geo_res = requests.get(geo_url)
+            geo_data = json.loads(geo_res.content)
 
-            if len(geo_data['features']) > 0:
+            if geo_data['features'] and len(geo_data['features']) > 0:
                 lng = geo_data['features'][0]['geometry']['coordinates'][0]
                 lat = geo_data['features'][0]['geometry']['coordinates'][1]
                 geod = pyproj.Geod(ellps='WGS84')
