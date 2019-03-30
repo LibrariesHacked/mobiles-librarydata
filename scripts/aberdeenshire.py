@@ -69,7 +69,6 @@ def run():
 
                 stop_array = stop_name.split(' - ')
                 community = stop_array[0]
-                stop_name = ''
                 if len(stop_array) > 1:
                     stop_name = stop_array[1]
                 address = stop_name + ', ' + community
