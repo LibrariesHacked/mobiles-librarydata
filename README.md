@@ -15,10 +15,11 @@ For this project to work, it needs to define a standard to define the mobile lib
 
 | Column | Description | Example |
 | ------ | ----------- | ------- |
-| Mobile | A library service may have multiple mobile libraries. For example, Devon have 4, which cover different areas of the county. Sometimes these may have descriptive names, other times letters or numbers. | Tiverton |
-| Route | A mobile library typically has a set of routes that groups together the stops it visits within a single day. This is an identifier for the route. This should be a unique value across different mobiles. | A |
-| Day | The day of the week that the route is driven. Perhaps not required given that we will also have a date value. | Monday | 
-| StartDate | This is a reference date. One is required. It is used to determine future dates that the route will occur on, based upon the frequency. | 2017-01-09 |
+| Mobile | The name of the mobile library. A library authority may have multiple mobile libraries. For example, Devon have 4, which cover different areas of the county. Sometimes these may have descriptive names, other times letters or numbers. | Tiverton |
+| Route | A mobile library typically has a set of routes that group together the stops it visits within a day. This is essential to calculate the route for the mobile library. | A |
+| Day | The day of the week that the route is driven. Perhaps not required given that we will also have a date value. | Monday |
+| StartDate | This is a reference date. It is ideallly the date at which the timetable starts, but can also be used to determine future dates that the route will occur on, based upon the frequency. | 2017-01-09 |
+| EndDate | Optional. It is used to determine the last date at which the timetable is vaid. | 2017-01-09 |
 | Frequency | The frequency the route will be repeated. Currently an integer to represent a week. For example 2 would mean the mobile library route repeats every 2 weeks. However, some mobile library services are in the form 'every first thursday of the month'.  How do we deal with that? | 2 |
 | Stop | The name of the stop. Normally a decriptive location or address.  | Opposite the willow tree |
 | Community | The place the stop is located, Normally a village or town name. | Kerswell |

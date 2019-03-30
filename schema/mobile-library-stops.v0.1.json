@@ -1,0 +1,174 @@
+{
+    "fields": [
+        {
+            "name": "organisation",
+            "title": "Organisation",
+            "description": "The organisation operating the mobile library",
+            "type": "string",
+            "format": "default",
+            "constraints": {
+                "required": true
+            }
+        },
+        {
+            "name": "mobile",
+            "title": "Mobile Name",
+            "description": "A name for the mobile library",
+            "type": "string",
+            "format": "default",
+            "constraints": {
+                "required": true
+            }
+        },
+        {
+            "name": "route",
+            "title": "Route",
+            "description": "A name for the route",
+            "type": "string",
+            "format": "default",
+            "constraints": {
+                "required": true
+            }
+        },
+        {
+            "name": "community",
+            "title": "Community",
+            "description": "The community served by the stop",
+            "type": "string",
+            "format": "default",
+            "constraints": {
+                "required": true
+            }
+        },
+        {
+            "name": "stop",
+            "title": "Stop",
+            "description": "The individual stop name",
+            "type": "string",
+            "format": "default",
+            "constraints": {
+                "required": true
+            }
+        },
+        {
+            "name": "address",
+            "title": "Address",
+            "description": "An address for the stop",
+            "type": "string",
+            "format": "default",
+            "constraints": {
+                "required": false
+            }
+        },
+        {
+            "name": "postcode",
+            "title": "Postcode",
+            "type": "string",
+            "description": "Nearest postcode for the stop",
+            "format": "default",
+            "constraints": {
+                "required": false,
+                "pattern": "^([A-Za-z][A-Ha-hJ-Yj-y]?[0-9][A-Za-z0-9]? ?[0-9][A-Za-z]{2}|[Gg][Ii][Rr] ?0[Aa]{2})$"
+            }
+        },
+        {
+            "name": "geox",
+            "title": "Geopoint X",
+            "description": "X coordinate (e.g. longitude) for stop location",
+            "type": "number",
+            "format": "default",
+            "constraints": {
+                "required": true
+            }
+        },
+        {
+            "name": "geoy",
+            "title": "Geopoint Y",
+            "description": "Y coordinate (e.g. latitude) for stop location",
+            "type": "number",
+            "format": "default",
+            "constraints": {
+                "required": true
+            }
+        },
+        {
+            "name": "day",
+            "title": "Day",
+            "description": "The day of the week the mobile library visits this stop",
+            "type": "string",
+            "format": "default",
+            "constraints": {
+                "required": true,
+                "enum": [
+                    "Monday",
+                    "Tuesday",
+                    "Wednesday",
+                    "Thursday",
+                    "Friday",
+                    "Saturday",
+                    "Sunday"
+                ]
+            }
+        },
+        {
+            "name": "arrival",
+            "title": "Arrival Time",
+            "type": "time",
+            "format": "default",
+            "description": "The time the mobile library arrives at the stop",
+            "constraints": {
+                "required": true
+            }
+        },
+        {
+            "name": "departure",
+            "title": "Departure Time",
+            "type": "time",
+            "format": "default",
+            "description": "The time the mobile library leaves the stop",
+            "constraints": {
+                "required": true
+            }
+        },
+        {
+            "name": "frequency",
+            "title": "Frequency",
+            "type": "string",
+            "format": "default",
+            "description": "The schedule for repeated visits to this stop in iCal Recurrence Rule format",
+            "constraints": {
+                "required": true
+            }
+        },
+        {
+            "name": "start",
+            "title": "Start Date",
+            "type": "date",
+            "format": "default",
+            "description": "The date the timetable for this stop started",
+            "constraints": {
+                "required": true
+            }
+        },
+        {
+            "name": "end",
+            "title": "End Date",
+            "type": "date",
+            "format": "default",
+            "description": "The date the timetable for this stop will end",
+            "constraints": {
+                "required": false
+            }
+        },
+        {
+            "name": "timetable",
+            "title": "Timetable Link",
+            "type": "string",
+            "format": "uri",
+            "description": "A link to a web page, or PDF for the stop, route, or mobile timetable",
+            "constraints": {
+                "required": false
+            }
+        }
+    ]
+}
