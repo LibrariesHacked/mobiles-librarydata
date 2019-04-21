@@ -6,7 +6,6 @@ from datetime import datetime
 DATA_SOURCE = '../data/raw/aberdeenshire.json'
 DATA_OUTPUT = '../data/aberdeenshire.csv'
 
-
 def run():
 
     organisation = 'Aberdeenshire Council'
