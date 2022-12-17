@@ -1,15 +1,12 @@
-Mobiles. LibraryData
-====================
+## Mobiles
 
 Project to display mobile library timetables in an interactive dashboard.
 
-What is it?
------------
+### What is it?
 
 This project takes mobile library schedules from UK public library authorities, and attempts to standardise them into a single format. This can then be used to provide web functionality such a mobile library finder, route visualisations, and live timetable notifications. In future it could also generate digital calendars (e.g. in ICalendar format), or provide notifications for subscribed users.
 
-Mobile Library data format
---------------------------
+### Mobile Library data format
 
 For this project to work, it needs to define a standard to define the mobile library schedule. Different authorities will have differing ways of describing this data. This standard is likely to change as new services introduce complexities that the original data format cannot hold.
 
@@ -28,7 +25,6 @@ For this project to work, it needs to define a standard to define the mobile lib
 | X | The x coordinate of the library stop. This should be the longitude based upon WGS84 coordinates. |  |
 | Y | The y coordinate of the library stop.  This should be the latitude based upon WGS24 coordinates. |  |
 
-Licence
--------
+### Licence
 
 Original code licensed under the MIT Licence.
