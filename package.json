@@ -3,7 +3,7 @@
 	"version": "0.0.0",
 	"private": true,
 	"dependencies": {
-		"body-parser": "^2.3.0",
+		"body-parser": "^2.4.0",
 		"cookie-parser": "^1.4.7",
 		"debug": "^3.1.0",
 		"express": "^5.2.1",
